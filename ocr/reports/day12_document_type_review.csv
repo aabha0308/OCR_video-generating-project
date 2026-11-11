@@ -1,0 +1,521 @@
+﻿document,gt_region_count,ocr_region_count,suggested_document_type,matched_keywords,gt_page_width,gt_page_height,ocr_page_width,ocr_page_height,image_file_found,image_width,image_height,gt_ocr_dimensions_match,image_gt_dimensions_match
+0000223278,10,10,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0001136521,8,62,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0001139626,7,69,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0001139716,6,43,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0001144288,9,26,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0001431487,9,47,purchase_order,purchase order; purchase order no,762,1000,762,1000,True,762,1000,True,True
+00043445_00043449,9,47,purchase_order,purchase order,776,1000,776,1000,True,776,1000,True,True
+0011500947,12,15,invoice,invoice,771,1000,771,1000,True,771,1000,True,True
+0011899826,7,10,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0013040651,8,13,unclassified,,771,1000,771,1000,True,771,1000,True,True
+0013043193,8,17,invoice,invoice,771,1000,771,1000,True,771,1000,True,True
+0013046347,10,14,unclassified,,771,1000,771,1000,True,771,1000,True,True
+0013404965,8,12,unclassified,,772,1000,772,1000,True,772,1000,True,True
+00555341,8,19,invoice,invoice,766,1000,766,1000,True,766,1000,True,True
+0060026250,8,11,purchase_order,purchase order,762,1000,762,1000,True,762,1000,True,True
+0060026253,6,45,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060026293,6,120,purchase_order,purchase order,762,1000,762,1000,True,762,1000,True,True
+0060027362,12,35,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060027384,13,10,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060027402,12,24,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060027425,15,32,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0060027746,7,23,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060027768,9,45,purchase_order,purchase order; purchase order no,762,1000,762,1000,True,762,1000,True,True
+0060027778,9,36,purchase_order,purchase order; purchase order no,762,1000,762,1000,True,762,1000,True,True
+0060031680,7,10,invoice,invoice; invoice no,762,1000,762,1000,True,762,1000,True,True
+0060031691,7,4,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060031745,5,5,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060032065,11,11,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0060047831,8,10,purchase_order,purchase order,762,1000,762,1000,True,762,1000,True,True
+0060053761,12,95,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060053785,8,22,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060059322,6,11,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060060439,9,34,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060060466,5,8,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0060060480,5,16,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060060805,5,6,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060063491,8,1,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060063704,7,16,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060068160,12,43,purchase_order,purchase order; purchase order no,762,1000,762,1000,True,762,1000,True,True
+0060068899,8,12,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060075996,5,6,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060076160,11,11,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060076186,11,23,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060076201,12,36,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060076899,10,37,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060076945,9,42,purchase_order,purchase order; purchase order no,762,1000,762,1000,True,762,1000,True,True
+0060085465,12,12,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060087268,12,12,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060087309,13,24,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060088007,9,31,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060088183,9,12,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0060091768,15,60,estimate,estimate,762,1000,762,1000,True,762,1000,True,True
+0060093870,7,71,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060094811,6,11,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060094822,7,14,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060095738,9,11,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060099385,7,17,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060173965,7,8,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060181312,8,5,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060201575,13,9,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060203682,12,26,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060204458,11,12,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0060206240,5,6,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0060207567,10,22,invoice,invoice; invoice number,762,1000,762,1000,True,762,1000,True,True
+0060301501,7,24,unclassified,,762,1000,762,1000,True,762,1000,True,True
+0071005934,10,18,invoice,invoice,762,1000,762,1000,True,762,1000,True,True
+0071033192,6,16,unclassified,,762,1000,762,1000,True,762,1000,True,True
+00920343,10,12,invoice,invoice; invoice no,762,1000,762,1000,True,762,1000,True,True
+00920576,11,16,purchase_order,purchase order; purchase order no,766,1000,766,1000,True,766,1000,True,True
+00921466,9,11,purchase_order,purchase order,788,1000,788,1000,True,788,1000,True,True
+00922240,9,31,invoice,invoice,763,1000,763,1000,True,763,1000,True,True
+01788629,5,13,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+03724950_03724951,6,21,unclassified,,767,1000,767,1000,True,767,1000,True,True
+03725237,10,27,unclassified,,763,1000,763,1000,True,763,1000,True,True
+1000031514,9,19,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+1001608664_1001608665,9,11,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+10399225,6,6,unclassified,,772,1000,772,1000,True,772,1000,True,True
+11002339,10,26,invoice,invoice; invoice no,771,1000,771,1000,True,771,1000,True,True
+11002591,11,37,invoice,invoice; invoice no,771,1000,771,1000,True,771,1000,True,True
+11024285,10,10,unclassified,,771,1000,771,1000,True,771,1000,True,True
+11225665,7,17,unclassified,,752,1000,752,1000,True,752,1000,True,True
+11230046,9,27,unclassified,,752,1000,752,1000,True,752,1000,True,True
+11230479,9,39,invoice,invoice; invoice number,752,1000,752,1000,True,752,1000,True,True
+11237682_11237683,10,25,invoice,invoice,752,1000,752,1000,True,752,1000,True,True
+11237693_11237694,9,19,invoice,invoice; invoice no,752,1000,752,1000,True,752,1000,True,True
+11237705,9,7,purchase_order,purchase order,752,1000,752,1000,True,752,1000,True,True
+11238596,10,42,invoice,invoice; invoice number,752,1000,752,1000,True,752,1000,True,True
+11295049,12,11,unclassified,,771,1000,771,1000,True,771,1000,True,True
+11315798,6,8,unclassified,,771,1000,771,1000,True,771,1000,True,True
+11315881,6,8,invoice,invoice,771,1000,771,1000,True,771,1000,True,True
+11315936,6,7,invoice,invoice; invoice no,771,1000,771,1000,True,771,1000,True,True
+11315942,5,15,invoice,invoice; invoice no,771,1000,771,1000,True,771,1000,True,True
+11320981,5,61,unclassified,,771,1000,771,1000,True,771,1000,True,True
+2001200321,6,12,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2001207817,6,14,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2001213573,7,10,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2001213789,7,10,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2015003772,6,34,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2015020047,9,9,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2015037409,9,12,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2015064568,14,19,unclassified,,794,1000,794,1000,True,794,1000,True,True
+2021308414,7,24,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2021637692,7,8,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2021637760,10,6,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2023133413,9,12,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+2023527344,7,16,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2023591606_2023591608,8,12,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2023592499,7,14,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+2023592544,7,10,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+2023592678,7,11,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2024476618,7,13,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+2024485248,9,19,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2024525658,6,12,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2024526163_2024526164,9,19,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2025019037,7,10,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2026000180,10,52,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2026000623,9,21,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2028674067,8,22,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2028696695,8,30,invoice,invoice; invoice no,777,1000,777,1000,True,777,1000,True,True
+2028697011,10,18,estimate,pro forma,777,1000,777,1000,True,777,1000,True,True
+2028703417,11,24,estimate,pro forma,777,1000,777,1000,True,777,1000,True,True
+2028704426,8,32,estimate,pro forma,777,1000,777,1000,True,777,1000,True,True
+2028719721,10,30,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2028726871,14,33,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2028729078,8,24,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2028811996,8,31,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2029138584,8,18,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+2029200005,9,37,unclassified,,781,1000,781,1000,True,781,1000,True,True
+2029370271,9,16,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2029370308,11,8,unclassified,,776,1000,776,1000,True,776,1000,True,True
+2029370464,7,11,invoice,invoice,776,1000,776,1000,True,776,1000,True,True
+2029370804,9,46,invoice,invoice,774,1000,774,1000,True,774,1000,True,True
+2029372111_2029372112,8,19,unclassified,,776,1000,776,1000,True,776,1000,True,True
+2029377288,11,19,invoice,invoice,765,1000,765,1000,True,765,1000,True,True
+2029377295,9,11,unclassified,,763,1000,763,1000,True,763,1000,True,True
+2029377607,9,15,invoice,invoice; invoice no,790,1000,790,1000,True,790,1000,True,True
+2029377724,6,8,unclassified,,788,1000,788,1000,True,788,1000,True,True
+2029378060,8,17,unclassified,,788,1000,788,1000,True,788,1000,True,True
+2029378157,9,18,invoice,invoice; invoice no,790,1000,790,1000,True,790,1000,True,True
+2030015848,11,7,unclassified,,777,1000,777,1000,True,777,1000,True,True
+2030138076_2030138077,7,54,unclassified,,781,1000,781,1000,True,781,1000,True,True
+2030138139,7,32,unclassified,,785,1000,785,1000,True,785,1000,True,True
+2030305992,10,39,invoice,invoice,768,1000,768,1000,True,768,1000,True,True
+2030395581,10,30,estimate,estimate,777,1000,777,1000,True,777,1000,True,True
+2030403394_2030403397,12,45,invoice,invoice,769,1000,769,1000,True,769,1000,True,True
+2037023778,9,32,invoice,invoice,773,1000,773,1000,True,773,1000,True,True
+2040345058,7,8,unclassified,,793,1000,793,1000,True,793,1000,True,True
+2040345061,7,7,unclassified,,793,1000,793,1000,True,793,1000,True,True
+2040687664,8,25,invoice,invoice; invoice number,804,1000,804,1000,True,804,1000,True,True
+2040735287,8,19,invoice,invoice,768,1000,768,1000,True,768,1000,True,True
+2041063035,8,7,invoice,invoice,782,1000,782,1000,True,782,1000,True,True
+2041158049,6,11,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2041158261,11,51,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2041222828,6,16,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2041222841,5,15,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2041388921,8,39,unclassified,,792,1000,792,1000,True,792,1000,True,True
+2041531460,9,11,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2041531738_1761,10,14,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2041532206,8,13,purchase_order,purchase order,754,1000,754,1000,True,754,1000,True,True
+2041597671_2041597672,7,16,invoice,invoice,844,1000,844,1000,True,844,1000,True,True
+2041954112,7,41,estimate,estimate,807,1000,807,1000,True,807,1000,True,True
+2041954113,9,45,estimate,estimate,807,1000,807,1000,True,807,1000,True,True
+2042356681,9,22,unclassified,,766,1000,766,1000,True,766,1000,True,True
+2042525639,10,14,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+2042529534,8,20,invoice,invoice,786,1000,786,1000,True,786,1000,True,True
+2043342113,12,24,estimate,estimate,841,1000,841,1000,True,841,1000,True,True
+2043396778,8,15,invoice,invoice,797,1000,797,1000,True,797,1000,True,True
+2044146550,8,11,estimate,estimate,772,1000,772,1000,True,772,1000,True,True
+2044348020,7,21,invoice,invoice; invoice no,799,1000,799,1000,True,799,1000,True,True
+2044348035,12,16,invoice,invoice; invoice no,797,1000,797,1000,True,797,1000,True,True
+2044402070,8,11,invoice,invoice; invoice no,780,1000,780,1000,True,780,1000,True,True
+2044444071,9,13,invoice,invoice; invoice no,807,1000,807,1000,True,807,1000,True,True
+2044448039,11,20,invoice,invoice,781,1000,781,1000,True,781,1000,True,True
+2044688196,7,20,unclassified,,773,1000,773,1000,True,773,1000,True,True
+2044694612,10,12,invoice,invoice; invoice no,774,1000,774,1000,True,774,1000,True,True
+2044696237,9,11,invoice,invoice; invoice no,785,1000,785,1000,True,785,1000,True,True
+2047260303,6,10,estimate,estimate,794,1000,794,1000,True,794,1000,True,True
+2048616045_6046,13,20,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2049142971,9,27,invoice,invoice; invoice no,777,1000,777,1000,True,777,1000,True,True
+2050760415,8,57,invoice,invoice; invoice number,773,1000,773,1000,True,773,1000,True,True
+2050760847,10,47,invoice,invoice; invoice no,774,1000,774,1000,True,774,1000,True,True
+2050763071,12,12,invoice,invoice,773,1000,773,1000,True,773,1000,True,True
+2051801680,11,33,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+2055018950,9,72,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2056446070,6,33,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2061828225,12,194,unclassified,,607,1000,607,1000,True,607,1000,True,True
+2062100711,10,23,invoice,invoice,793,1000,793,1000,True,793,1000,True,True
+2062543842,11,24,invoice,invoice; invoice no,768,1000,768,1000,True,768,1000,True,True
+2063113184,9,15,unclassified,,789,1000,789,1000,True,789,1000,True,True
+2063113779,5,12,unclassified,,783,1000,783,1000,True,783,1000,True,True
+2063162659,8,60,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2063207059_7062,9,49,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2063208746,10,27,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2063209074_9077,6,18,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2063216033,8,60,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2063216131,11,34,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2063233533,9,54,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2063235029,10,50,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2063249953,6,25,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2063250015,12,24,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2063319693,9,17,unclassified,,802,1000,802,1000,True,802,1000,True,True
+2063322469,10,30,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2063576888,10,25,invoice,invoice,770,1000,770,1000,True,770,1000,True,True
+2063576893,9,6,invoice,invoice,771,1000,771,1000,True,771,1000,True,True
+2063590390,6,4,invoice,invoice,793,1000,793,1000,True,793,1000,True,True
+2063610040,6,13,unclassified,,771,1000,771,1000,True,771,1000,True,True
+2063610071,10,15,unclassified,,768,1000,768,1000,True,768,1000,True,True
+2063610103,10,8,invoice,invoice; invoice number,769,1000,769,1000,True,769,1000,True,True
+2063610122,10,57,invoice,invoice; invoice no,769,1000,769,1000,True,769,1000,True,True
+2063610172,6,10,unclassified,,769,1000,769,1000,True,769,1000,True,True
+2063611385,6,65,invoice,invoice; invoice no,764,1000,764,1000,True,764,1000,True,True
+2063650388,8,12,purchase_order,purchase order,779,1000,779,1000,True,779,1000,True,True
+2063846615,13,39,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2064225959,9,51,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2064339433,12,45,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2064345524,15,39,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2064978624,10,14,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2065216982,8,29,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2065238574,6,28,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2065239368,6,26,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2065364917,11,69,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2065466615,10,25,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2070238500,10,17,unclassified,,802,1000,802,1000,True,802,1000,True,True
+2070424009,9,18,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2070424201,8,15,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2070425058,9,8,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2070425084,10,17,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2070584510,8,14,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2070750524,10,46,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2071021272,7,8,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2071217429,6,22,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2071217430,7,17,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2071217600,6,36,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2071382979,5,10,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2071386322,7,13,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2071413111,10,19,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2071413187,8,9,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2071557502,8,33,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2072484071,10,67,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2072860354,7,23,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2072957830,7,32,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2072957848,7,23,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2072957946,9,38,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2073684118,7,40,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2073684235,7,14,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2073684342,7,15,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2073883150,13,43,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2073883154,8,12,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2073883306,9,28,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2073883308,10,13,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2074417069,6,23,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2074484114,12,18,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2074660627,8,14,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2077000123,7,11,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2077000168_0169,6,11,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2080272271,9,56,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2080272310,11,10,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2080705096,9,22,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2080724768,8,22,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2080724769,10,17,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2080731237,8,34,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2080972555,9,8,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2080978792_8793,6,47,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2083197453,12,16,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2083197818_7819,14,59,purchase_order,purchase order,754,1000,754,1000,True,754,1000,True,True
+2083674163_4166,9,26,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+2084020274_0276,7,91,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084020376,8,25,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084021796,8,29,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084021799,8,27,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084021870,8,29,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022002,7,12,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022076,6,40,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022124,8,25,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022128,8,29,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022136,7,27,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022139,7,25,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022143,8,25,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022167,8,53,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022184,7,34,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022243,8,31,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022300,6,49,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022313,7,47,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022317,8,27,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022347,7,12,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022414,7,11,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022482,8,42,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022539,8,33,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022627,6,12,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084022805,6,21,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2084024707,9,29,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+2085529729,10,31,purchase_order,purchase order,754,1000,754,1000,True,754,1000,True,True
+2085532852,7,73,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2085534883,8,31,purchase_order,purchase order,754,1000,754,1000,True,754,1000,True,True
+2085538659,8,48,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+2085538660,12,27,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2085538756,7,19,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2085539738,8,30,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2085540098,10,21,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2085540620,8,19,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2085699092,8,30,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2085699260,7,44,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+2085699682,8,8,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2501335209_2501335213,13,12,unclassified,,724,1000,724,1000,True,724,1000,True,True
+2501336275_2501336276,13,11,unclassified,,727,1000,727,1000,True,727,1000,True,True
+2501336291_2501336296,12,12,unclassified,,725,1000,725,1000,True,725,1000,True,True
+2501336351,9,19,invoice,invoice; invoice no,725,1000,725,1000,True,725,1000,True,True
+2501336486,8,23,unclassified,,725,1000,725,1000,True,725,1000,True,True
+2501336772,8,26,invoice,invoice; invoice no,724,1000,724,1000,True,724,1000,True,True
+2501367970_2501368014,4,6,invoice,invoice,789,1000,789,1000,True,789,1000,True,True
+2501368827,6,20,invoice,invoice,792,1000,792,1000,True,792,1000,True,True
+2501374061_2501374062,9,19,unclassified,,801,1000,801,1000,True,801,1000,True,True
+2501605386,12,2,unclassified,,798,1000,798,1000,True,798,1000,True,True
+2502268385,11,21,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+2505118349,7,32,estimate,pro forma,754,1000,754,1000,True,754,1000,True,True
+2505123539_3542,11,24,unclassified,,754,1000,754,1000,True,754,1000,True,True
+2505165622,8,25,unclassified,,754,1000,754,1000,True,754,1000,True,True
+500124393+-4395,4,4,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+500125099+-5100,7,8,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+500125481+-5481,6,6,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+500234635+-4635,5,16,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+501149455,7,32,unclassified,,782,1000,782,1000,True,782,1000,True,True
+50120516-0516,6,23,estimate,quotation,754,1000,754,1000,True,754,1000,True,True
+501526349,9,37,unclassified,,774,1000,774,1000,True,774,1000,True,True
+502329893,11,37,purchase_order,purchase order,766,1000,766,1000,True,766,1000,True,True
+503116428+-6428,7,88,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+503116473+-6473,9,135,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+503731884+-1884,7,73,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+503918489+-8489,8,29,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+504023473_504023487,15,39,purchase_order,purchase order; purchase order no,794,1000,794,1000,True,794,1000,True,True
+505852048_505852049,8,47,purchase_order,purchase order,786,1000,786,1000,True,786,1000,True,True
+505863295,9,31,estimate,pro forma,780,1000,780,1000,True,780,1000,True,True
+506133684,6,6,invoice,invoice,784,1000,784,1000,True,784,1000,True,True
+506413423,10,5,estimate,quotation,780,1000,780,1000,True,780,1000,True,True
+506593709+-3709,7,20,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+507053446,9,47,invoice,invoice; invoice no,783,1000,783,1000,True,783,1000,True,True
+507484246,8,249,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+507876895,14,29,unclassified,,781,1000,781,1000,True,781,1000,True,True
+508560943+-0943,9,11,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+508725601+-5603,8,94,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+512981600_512981601,8,34,estimate,estimate,780,1000,780,1000,True,780,1000,True,True
+512981614,9,28,estimate,estimate,778,1000,778,1000,True,778,1000,True,True
+512984376,8,8,estimate,quotation,777,1000,777,1000,True,777,1000,True,True
+512985656_512985715,10,54,unclassified,,777,1000,777,1000,True,777,1000,True,True
+513161378_513161414,8,6,invoice,invoice; invoice no,771,1000,771,1000,True,771,1000,True,True
+513162677,5,8,unclassified,,771,1000,771,1000,True,771,1000,True,True
+513167179,8,39,estimate,estimate,771,1000,771,1000,True,771,1000,True,True
+513265741_513265875,8,25,invoice,invoice,784,1000,784,1000,True,784,1000,True,True
+514218180+-8181,10,48,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+514802406+-2409,10,18,purchase_order,purchase order,754,1000,754,1000,True,754,1000,True,True
+514858504_514858506,6,9,unclassified,,783,1000,783,1000,True,783,1000,True,True
+514858736,7,14,invoice,invoice,780,1000,780,1000,True,780,1000,True,True
+514967102+-7103,10,13,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+515618394+-8397,8,26,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+518029843_518029864,9,57,invoice,invoice,790,1000,790,1000,True,790,1000,True,True
+518232323+-2324,9,27,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518232342+-2342,10,21,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518232874+-2876,8,86,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518232927+-2934,8,71,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518240658+-0669,11,12,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+518253165+-3165,8,17,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518253587+-3590,7,95,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518253610+-3615,7,91,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+518253689+-3695,8,106,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+518253707+-3715,11,103,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+518256338+-6338,8,16,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+518259424+-9431,10,23,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518284417+-4420,6,65,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518284421+-4430,8,111,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+518491313+-1315,6,11,unclassified,,754,1000,754,1000,True,754,1000,True,True
+518492684+-2684,6,6,unclassified,,754,1000,754,1000,True,754,1000,True,True
+521107137+-7140,11,20,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+524483561+-3562,10,2,unclassified,,754,1000,754,1000,True,754,1000,True,True
+524630313+-0313,9,25,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+526450292+-0292,10,9,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+526450353+-0353,10,25,unclassified,,754,1000,754,1000,True,754,1000,True,True
+526450388+-0388,5,51,unclassified,,754,1000,754,1000,True,754,1000,True,True
+526509181+-9181,6,3,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+580108985+-8990,8,20,unclassified,,754,1000,754,1000,True,754,1000,True,True
+80211548,10,16,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+80211567,9,12,purchase_order,purchase order,754,1000,754,1000,True,754,1000,True,True
+80233633,9,11,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+80233696,9,12,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+80233716,10,12,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+80233719,9,13,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+80702654,0,0,unclassified,,754,1000,754,1000,True,754,1000,True,True
+81615715,5,20,unclassified,,778,1000,778,1000,True,778,1000,True,True
+82867969,6,19,unclassified,,754,1000,754,1000,True,754,1000,True,True
+82898406,9,21,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+82898524,8,11,unclassified,,777,1000,777,1000,True,777,1000,True,True
+82898529,10,14,unclassified,,778,1000,778,1000,True,778,1000,True,True
+82898533,8,11,unclassified,,778,1000,778,1000,True,778,1000,True,True
+83096148,9,36,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+83096187,9,18,unclassified,,754,1000,754,1000,True,754,1000,True,True
+83312574_2575,11,18,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+83542431,12,28,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+83542445_2446,9,42,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+83542513,12,22,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+83544771,9,21,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+83553533,8,19,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+83553545,11,36,invoice,invoice; invoice number,754,1000,754,1000,True,754,1000,True,True
+83553577_3578,6,30,unclassified,,754,1000,754,1000,True,754,1000,True,True
+83554921,7,23,unclassified,,754,1000,754,1000,True,754,1000,True,True
+83565210_5211,4,21,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+83565318,17,69,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+83565418,7,21,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+83565599,11,47,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+83644925,10,18,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+83645391,3,15,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+83962761,7,31,invoice,invoice; invoice no,802,1000,802,1000,True,802,1000,True,True
+86018092,11,79,invoice,invoice; invoice number,776,1000,776,1000,True,776,1000,True,True
+86086825_6826,9,16,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86087013,7,32,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+86087317,12,16,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86087318_7321,13,14,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86087420_7422,11,14,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86087462,9,23,purchase_order,po number,754,1000,754,1000,True,754,1000,True,True
+86087495_7496,12,12,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86462566,10,8,invoice,invoice; invoice number,802,1000,802,1000,True,802,1000,True,True
+86462803,8,18,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+86462933,9,9,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86463030,10,36,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86618995,8,10,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86619006,5,12,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+86619053,9,8,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+87021931,7,16,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+87104311,11,13,invoice,invoice; invoice no,771,1000,771,1000,True,771,1000,True,True
+87147464,9,9,purchase_order,purchase order; purchase order no,773,1000,773,1000,True,773,1000,True,True
+87147646,9,18,purchase_order,purchase order; purchase order no,773,1000,773,1000,True,773,1000,True,True
+87147658,11,15,invoice,invoice; invoice no,773,1000,773,1000,True,773,1000,True,True
+87147801,7,22,purchase_order,purchase order; purchase order no,773,1000,773,1000,True,773,1000,True,True
+87148191,8,21,invoice,invoice,772,1000,772,1000,True,772,1000,True,True
+87803126,5,12,unclassified,,769,1000,769,1000,True,769,1000,True,True
+87803300,8,12,invoice,invoice,767,1000,767,1000,True,767,1000,True,True
+87803303,7,11,invoice,invoice,769,1000,769,1000,True,769,1000,True,True
+89000106,10,14,purchase_order,purchase order; purchase order no,754,1000,754,1000,True,754,1000,True,True
+89703081,7,18,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+91382505,9,80,estimate,estimate,785,1000,785,1000,True,785,1000,True,True
+91543951_3952,11,42,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+91575506_5509,12,30,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+91660729,7,41,unclassified,,805,1000,805,1000,True,805,1000,True,True
+91660806,8,35,unclassified,,805,1000,805,1000,True,805,1000,True,True
+91668026,9,48,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+91691919,13,11,invoice,invoice,777,1000,777,1000,True,777,1000,True,True
+91781209,10,7,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+92173709,1,11,unclassified,,802,1000,802,1000,True,802,1000,True,True
+92185547,8,24,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+92185588,6,23,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+92204693,9,30,invoice,invoice; invoice no; invoice number,781,1000,781,1000,True,781,1000,True,True
+92214362,8,29,estimate,estimate,780,1000,780,1000,True,780,1000,True,True
+92243549,17,19,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+92856427,12,15,unclassified,,802,1000,802,1000,True,802,1000,True,True
+92857105_7106,9,15,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+92857672_7674,7,39,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+92872435,9,14,estimate,estimate,802,1000,802,1000,True,802,1000,True,True
+92872589,9,11,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+92873320_3322,9,14,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+92891078_1079,9,20,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+93115392,9,18,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+93118029,10,28,unclassified,,754,1000,754,1000,True,754,1000,True,True
+93118328,8,28,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+93216067,9,65,invoice,invoice,783,1000,783,1000,True,783,1000,True,True
+93413397,8,29,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+93416591,10,9,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+94389911,6,7,unclassified,,777,1000,777,1000,True,777,1000,True,True
+96052028,0,126,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+96063482,7,72,unclassified,,754,1000,754,1000,True,754,1000,True,True
+96063504,6,73,unclassified,,754,1000,754,1000,True,754,1000,True,True
+96403982,7,31,estimate,estimate,754,1000,754,1000,True,754,1000,True,True
+97072207,5,5,unclassified,,754,1000,754,1000,True,754,1000,True,True
+99380614,10,16,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+99380808_0809,10,14,invoice,invoice,802,1000,802,1000,True,802,1000,True,True
+CTRCONTRACTS011517-1,7,7,unclassified,,754,1000,754,1000,True,754,1000,True,True
+CTRCONTRACTS017922-7,9,38,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+CTRCONTRACTS017947-7,10,24,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+CTRSP-FILES025078-50,7,13,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+ti00911106_1107,8,6,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+ti01410937,7,8,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti01410980,11,24,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+ti09920313,9,15,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+ti09922229,7,27,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+ti10160632,6,10,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti15358056_8057,7,21,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+ti15609058,5,40,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16131011_1013,12,33,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+ti16310048,5,26,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310079,5,11,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310152,4,9,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310260,5,13,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310262,5,15,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310336,7,18,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310407,5,4,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310543,5,15,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310545,4,25,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310660,5,12,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310857,4,23,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16310917,5,20,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16311032,8,8,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+ti16311096,5,14,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16311155,5,17,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16311156,5,14,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16400164,11,32,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+ti16400238,6,30,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16400316,5,29,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16400373,6,35,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16400388,9,17,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+ti16400444,5,31,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti16532219_2220,7,24,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+ti16801274,10,15,invoice,invoice,754,1000,754,1000,True,754,1000,True,True
+ti17120027,5,34,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti17120099,5,35,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti17120370,5,33,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti17120431,5,34,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti17120498,5,31,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti17120743,5,31,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti17120992,8,30,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti31149327_9330,6,135,unclassified,,754,1000,754,1000,True,754,1000,True,True
+ti31689113,8,16,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+ti31689150,8,16,invoice,invoice; invoice no,754,1000,754,1000,True,754,1000,True,True
+tob02910.64,10,18,unclassified,,786,1000,786,1000,True,786,1000,True,True

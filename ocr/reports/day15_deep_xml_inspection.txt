@@ -1,0 +1,1175 @@
+DEEP PAGE XML INSPECTION
+=====================================================================================
+
+=====================================================================================
+GT XML: 0011500947
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\0011500947_gt.xml
+Total TextRegion elements: 12
+
+REGION DETAILS
+-------------------------------------------------------------------------------------
+
+Region 1
+  ID: page1_pos1
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 569.323,869.482 698.129,869.482 698.129,892.214 569.323,892.214
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 2
+  ID: page1_pos2
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 359.701,133.221 451.884,133.221 451.884,161.005 359.701,161.005
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 3
+  ID: page1_pos3
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 119.772,178.685 451.884,178.685 451.884,216.572 119.772,216.572
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = invoice_info
+
+Region 4
+  ID: page1_pos4
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 123.56,22.0879 349.599,22.0879 349.599,102.912 123.56,102.912
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = supplier
+
+Region 5
+  ID: page1_pos5
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 117.247,220.36 681.712,220.36 681.712,265.824 117.247,265.824
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = receiver
+
+Region 6
+  ID: page1_pos6
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 115.984,272.138 479.665,272.138 479.665,299.922 115.984,299.922
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = supplier
+
+Region 7
+  ID: page1_pos7
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 126.086,304.973 412.737,304.973 412.737,330.231 126.086,330.231
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = total
+
+Region 8
+  ID: page1_pos8
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 102.093,604.276 314.241,604.276 314.241,851.8 102.093,851.8
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 9
+  ID: page1_pos9
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 107.144,424.946 684.239,424.946 684.239,581.544 107.144,581.544
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 10
+  ID: page1_pos10
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 316.767,586.595 402.637,586.595 402.637,609.327 316.767,609.327
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 11
+  ID: page1_pos11
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 530.176,601.749 666.559,601.749 666.559,690.151 530.176,690.151
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 12
+  ID: page1_pos12
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 110.933,341.597 584.477,341.597 584.477,423.682 110.933,423.682
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = invoice_info
+
+PROPERTIES OUTSIDE TEXTREGION
+-------------------------------------------------------------------------------------
+{'key': 'customer', 'value': 'actuallCustomerName'}
+{'key': 'offer'}
+{'key': 'uuid', 'value': 'e36828ce-e5eb-452b-90fe-8d1ad07c9446'}
+{'key': 'fileName', 'value': '0011500947.pdf'}
+{'key': 'type', 'value': 'digital'}
+
+=====================================================================================
+OCR XML: 0011500947
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\0011500947_ocr.xml
+Total TextRegion elements: 22
+Total TextLine elements: 35
+Total Word elements: 128
+
+TEXT LINE SAMPLES
+-------------------------------------------------------------------------------------
+
+Line 1
+  ID: Page1_Block1_l1
+  Coordinates: 136,39 322,39 322,60 136,60
+  Text: A nalytic Insight, ic.
+  TextEquiv attributes: {'conf': '1'}
+  TextEquiv attributes: {'conf': '0.7157142758'}
+  TextEquiv attributes: {'conf': '0.8012499809'}
+  TextEquiv attributes: {'conf': '0.6833333373'}
+
+Line 2
+  ID: Page1_Block1_l2
+  Coordinates: 135,59 327,59 327,74 135,74
+  Text: ^135 North Ailing ton Hc:|hu Rd . Suiie 510
+  TextEquiv attributes: {'conf': '0.3625000119'}
+  TextEquiv attributes: {'conf': '0.2160000056'}
+  TextEquiv attributes: {'conf': '0.2466666698'}
+  TextEquiv attributes: {'conf': '0.2533333302'}
+  TextEquiv attributes: {'conf': '0.3033333421'}
+  TextEquiv attributes: {'conf': '0.3600000143'}
+  TextEquiv attributes: {'conf': '0.5899999738'}
+  TextEquiv attributes: {'conf': '0.3280000091'}
+  TextEquiv attributes: {'conf': '0.7099999785'}
+
+Line 3
+  ID: Page1_Block1_l3
+  Coordinates: 136,73 263,73 263,83 136,83
+  Text: Ariinjioo Heights. IL 60004
+  TextEquiv attributes: {'conf': '0.3366666734'}
+  TextEquiv attributes: {'conf': '0.4350000024'}
+  TextEquiv attributes: {'conf': '0.2700000107'}
+  TextEquiv attributes: {'conf': '0.3300000131'}
+
+Line 4
+  ID: Page1_Block1_l4
+  Coordinates: 136,84 203,84 203,94 136,94
+  Text: (701) 235-5311
+  TextEquiv attributes: {'conf': '0.3199999928'}
+  TextEquiv attributes: {'conf': '0.3700000048'}
+
+Line 5
+  ID: Page1_Block2_l1
+  Coordinates: 372,144 442,144 442,159 372,159
+  Text: mm
+  TextEquiv attributes: {'conf': '0.2399999946'}
+
+Line 6
+  ID: Page1_Block3_l1
+  Coordinates: 128,192 179,192 179,205 128,205
+  Text: DATE:
+  TextEquiv attributes: {'conf': '0.6859999895'}
+
+Line 7
+  ID: Page1_Block4_l1
+  Coordinates: 331,196 433,196 433,211 331,211
+  Text: August 14.1995
+  TextEquiv attributes: {'conf': '0.5500000119'}
+  TextEquiv attributes: {'conf': '0.7757142782'}
+
+Line 8
+  ID: Page1_Block6_l1
+  Coordinates: 126,278 181,278 181,291 126,291
+  Text: FROM:
+  TextEquiv attributes: {'conf': '0.6679999828'}
+
+Line 9
+  ID: Page1_Block7_l1
+  Coordinates: 331,229 671,229 671,246 331,246
+  Text: Ms. Vicki Clark CC: Mr. Ed Gelson
+  TextEquiv attributes: {'conf': '0.9599999785'}
+  TextEquiv attributes: {'conf': '0.8500000238'}
+  TextEquiv attributes: {'conf': '0.6639999747'}
+  TextEquiv attributes: {'conf': '0.8899999857'}
+  TextEquiv attributes: {'conf': '0.8833333254'}
+  TextEquiv attributes: {'conf': '0.6999999881'}
+  TextEquiv attributes: {'conf': '0.6150000095'}
+
+Line 10
+  ID: Page1_Block7_l2
+  Coordinates: 331,247 570,247 570,265 331,265
+  Text: Brown & Williamson Tobacco Corp.
+  TextEquiv attributes: {'conf': '0.5260000229'}
+  TextEquiv attributes: {'conf': '1'}
+  TextEquiv attributes: {'conf': '0.5460000038'}
+  TextEquiv attributes: {'conf': '0.812857151'}
+  TextEquiv attributes: {'conf': '0.7979999781'}
+
+Line 11
+  ID: Page1_Block7_l3
+  Coordinates: 329,281 464,281 464,298 329,298
+  Text: Analytic Insight. Inc.
+  TextEquiv attributes: {'conf': '0.7212499976'}
+  TextEquiv attributes: {'conf': '0.6000000238'}
+  TextEquiv attributes: {'conf': '0.7124999762'}
+
+Line 12
+  ID: Page1_Block8_l1
+  Coordinates: 125,312 400,312 400,330 125,330
+  Text: AMOUNT DUE: $11,780.63
+  TextEquiv attributes: {'conf': '0.5749999881'}
+  TextEquiv attributes: {'conf': '0.6025000215'}
+  TextEquiv attributes: {'conf': '0.6050000191'}
+
+Line 13
+  ID: Page1_Block9_l1
+  Coordinates: 124,347 559,347 559,368 124,368
+  Text: PROJECT: Lucky Strike Competitive Research
+  TextEquiv attributes: {'conf': '0.9200000167'}
+  TextEquiv attributes: {'conf': '0.84799999'}
+  TextEquiv attributes: {'conf': '0.5016666651'}
+  TextEquiv attributes: {'conf': '0.7981818318'}
+  TextEquiv attributes: {'conf': '0.6862499714'}
+
+Line 14
+  ID: Page1_Block9_l2
+  Coordinates: 328,367 503,367 503,385 328,385
+  Text: (New York and Louisville)
+  TextEquiv attributes: {'conf': '0.6499999762'}
+  TextEquiv attributes: {'conf': '0.6499999762'}
+  TextEquiv attributes: {'conf': '0.7933333516'}
+  TextEquiv attributes: {'conf': '0.6436363459'}
+
+Line 15
+  ID: Page1_Block9_l3
+  Coordinates: 327,385 521,385 521,402 327,402
+  Text: B&W Project No.: 1995-83D
+  TextEquiv attributes: {'conf': '0.7966666818'}
+  TextEquiv attributes: {'conf': '0.5914285779'}
+  TextEquiv attributes: {'conf': '0.5924999714'}
+  TextEquiv attributes: {'conf': '0.7762500048'}
+
+WORD SAMPLES
+-------------------------------------------------------------------------------------
+1. ID=Page1_Block1_l1_w1 | Text='A' | Coordinates=136,39 149,39 149,53 136,53
+   TextEquiv attributes: {'conf': '1'}
+2. ID=Page1_Block1_l1_w2 | Text='nalytic' | Coordinates=152,39 210,39 210,58 152,58
+   TextEquiv attributes: {'conf': '0.7157142758'}
+3. ID=Page1_Block1_l1_w3 | Text='Insight,' | Coordinates=216,40 282,40 282,60 216,60
+   TextEquiv attributes: {'conf': '0.8012499809'}
+4. ID=Page1_Block1_l1_w4 | Text='ic.' | Coordinates=303,46 322,46 322,56 303,56
+   TextEquiv attributes: {'conf': '0.6833333373'}
+5. ID=Page1_Block1_l2_w1 | Text='^135' | Coordinates=135,59 156,59 156,70 135,70
+   TextEquiv attributes: {'conf': '0.3625000119'}
+6. ID=Page1_Block1_l2_w2 | Text='North' | Coordinates=161,63 184,63 184,70 161,70
+   TextEquiv attributes: {'conf': '0.2160000056'}
+7. ID=Page1_Block1_l2_w3 | Text='Ailing' | Coordinates=189,64 215,64 215,72 189,72
+   TextEquiv attributes: {'conf': '0.2466666698'}
+8. ID=Page1_Block1_l2_w4 | Text='ton' | Coordinates=216,65 228,65 228,71 216,71
+   TextEquiv attributes: {'conf': '0.2533333302'}
+9. ID=Page1_Block1_l2_w5 | Text='Hc:|hu' | Coordinates=233,64 263,64 263,73 233,73
+   TextEquiv attributes: {'conf': '0.3033333421'}
+10. ID=Page1_Block1_l2_w6 | Text='Rd' | Coordinates=268,63 278,63 278,72 268,72
+   TextEquiv attributes: {'conf': '0.3600000143'}
+11. ID=Page1_Block1_l2_w7 | Text='.' | Coordinates=282,71 284,71 284,73 282,73
+   TextEquiv attributes: {'conf': '0.5899999738'}
+12. ID=Page1_Block1_l2_w8 | Text='Suiie' | Coordinates=288,64 308,64 308,72 288,72
+   TextEquiv attributes: {'conf': '0.3280000091'}
+13. ID=Page1_Block1_l2_w9 | Text='510' | Coordinates=313,64 327,64 327,72 313,72
+   TextEquiv attributes: {'conf': '0.7099999785'}
+14. ID=Page1_Block1_l3_w1 | Text='Ariinjioo' | Coordinates=136,73 176,73 176,83 136,83
+   TextEquiv attributes: {'conf': '0.3366666734'}
+15. ID=Page1_Block1_l3_w2 | Text='Heights.' | Coordinates=181,74 214,74 214,83 181,83
+   TextEquiv attributes: {'conf': '0.4350000024'}
+16. ID=Page1_Block1_l3_w3 | Text='IL' | Coordinates=219,75 227,75 227,82 219,82
+   TextEquiv attributes: {'conf': '0.2700000107'}
+17. ID=Page1_Block1_l3_w4 | Text='60004' | Coordinates=238,75 263,75 263,82 238,82
+   TextEquiv attributes: {'conf': '0.3300000131'}
+18. ID=Page1_Block1_l4_w1 | Text='(701)' | Coordinates=136,84 159,84 159,94 136,94
+   TextEquiv attributes: {'conf': '0.3199999928'}
+19. ID=Page1_Block1_l4_w2 | Text='235-5311' | Coordinates=165,85 203,85 203,93 165,93
+   TextEquiv attributes: {'conf': '0.3700000048'}
+20. ID=Page1_Block2_l1_w1 | Text='mm' | Coordinates=372,144 442,144 442,159 372,159
+   TextEquiv attributes: {'conf': '0.2399999946'}
+21. ID=Page1_Block3_l1_w1 | Text='DATE:' | Coordinates=128,192 179,192 179,205 128,205
+   TextEquiv attributes: {'conf': '0.6859999895'}
+22. ID=Page1_Block4_l1_w1 | Text='August' | Coordinates=331,196 376,196 376,210 331,210
+   TextEquiv attributes: {'conf': '0.5500000119'}
+23. ID=Page1_Block4_l1_w2 | Text='14.1995' | Coordinates=383,196 433,196 433,210 383,210
+   TextEquiv attributes: {'conf': '0.7757142782'}
+24. ID=Page1_Block6_l1_w1 | Text='FROM:' | Coordinates=126,278 181,278 181,291 126,291
+   TextEquiv attributes: {'conf': '0.6679999828'}
+25. ID=Page1_Block7_l1_w1 | Text='Ms.' | Coordinates=331,229 355,229 355,241 331,241
+   TextEquiv attributes: {'conf': '0.9599999785'}
+
+=====================================================================================
+GT XML: 2041063035
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2041063035_gt.xml
+Total TextRegion elements: 8
+
+REGION DETAILS
+-------------------------------------------------------------------------------------
+
+Region 1
+  ID: page1_pos1
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 627.289,7.29914 762.598,7.29914 762.598,122.77 627.289,122.77
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 2
+  ID: page1_pos2
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 32.1676,6.61587 617.143,6.61587 617.143,158.299 32.1676,158.299
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = supplier
+
+Region 3
+  ID: page1_pos3
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 331.856,160.348 455.547,160.348 455.547,187.679 331.856,187.679
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 4
+  ID: page1_pos4
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 29.7628,197.244 759.613,197.244 759.613,450.05 29.7628,450.05
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = receiver
+
+Region 5
+  ID: page1_pos5
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 29.9197,456.199 760.455,456.199 760.455,576.451 29.9197,576.451
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = positions
+
+Region 6
+  ID: page1_pos6
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 30.6031,581.235 759.771,581.235 759.771,652.977 30.6031,652.977
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = total
+
+Region 7
+  ID: page1_pos7
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 32.7145,656.861 696.279,656.861 696.279,977.311 32.7145,977.311
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = supplier
+
+Region 8
+  ID: page1_pos8
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 703.267,658.229 757.939,658.229 757.939,977.311 703.267,977.311
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+PROPERTIES OUTSIDE TEXTREGION
+-------------------------------------------------------------------------------------
+{'key': 'customer', 'value': 'actuallCustomerName'}
+{'key': 'offer'}
+{'key': 'uuid', 'value': 'bc93f3ff-bbf0-4384-b7b7-fd0afbabfac4'}
+{'key': 'fileName', 'value': '2041063035.pdf'}
+{'key': 'type', 'value': 'digital'}
+
+=====================================================================================
+OCR XML: 2041063035
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2041063035_ocr.xml
+Total TextRegion elements: 12
+Total TextLine elements: 26
+Total Word elements: 103
+
+TEXT LINE SAMPLES
+-------------------------------------------------------------------------------------
+
+Line 1
+  ID: Page1_Block1_l1
+  Coordinates: 133,941 649,941 649,955 133,955
+  Text: International Management Group • 130 E. Randolph Dr. # Suite 1821 • Chicago, IL 60601 • 312/665-4100
+  TextEquiv attributes: {'conf': '0.2861538529'}
+  TextEquiv attributes: {'conf': '0.3569999933'}
+  TextEquiv attributes: {'conf': '0.4699999988'}
+  TextEquiv attributes: {'conf': '0.2599999905'}
+  TextEquiv attributes: {'conf': '0.4866666794'}
+  TextEquiv attributes: {'conf': '0.5600000024'}
+  TextEquiv attributes: {'conf': '0.3712500036'}
+  TextEquiv attributes: {'conf': '0.3199999928'}
+  TextEquiv attributes: {'conf': '0.2599999905'}
+  TextEquiv attributes: {'conf': '0.5400000215'}
+  TextEquiv attributes: {'conf': '0.5749999881'}
+  TextEquiv attributes: {'conf': '0.4300000072'}
+  TextEquiv attributes: {'conf': '0.3050000072'}
+  TextEquiv attributes: {'conf': '0.3249999881'}
+  TextEquiv attributes: {'conf': '0.3560000062'}
+  TextEquiv attributes: {'conf': '0.2899999917'}
+  TextEquiv attributes: {'conf': '0.6166666746'}
+
+Line 2
+  ID: Page1_Block3_l1
+  Coordinates: 646,16 720,16 720,29 646,29
+  Text: KtUtIVtU
+  TextEquiv attributes: {'conf': '0.3799999952'}
+
+Line 3
+  ID: Page1_Block3_l2
+  Coordinates: 638,46 726,46 726,63 638,63
+  Text: JAN 0 7 1992
+  TextEquiv attributes: {'conf': '0.6133333445'}
+  TextEquiv attributes: {'conf': '0.3199999928'}
+  TextEquiv attributes: {'conf': '0.6100000143'}
+  TextEquiv attributes: {'conf': '0.3600000143'}
+
+Line 4
+  ID: Page1_Block3_l3
+  Coordinates: 312,66 502,66 502,82 312,82
+  Text: Chicago Sun-Times Presents
+  TextEquiv attributes: {'conf': '0.8000000119'}
+  TextEquiv attributes: {'conf': '0.4811111093'}
+  TextEquiv attributes: {'conf': '0.6012499928'}
+
+Line 5
+  ID: Page1_Block3_l4
+  Coordinates: 637,80 739,80 739,93 637,93
+  Text: NANCY ZIMBAliST
+  TextEquiv attributes: {'conf': '0.5640000105'}
+  TextEquiv attributes: {'conf': '0.3933333457'}
+
+Line 6
+  ID: Page1_Block3_l5
+  Coordinates: 211,100 604,100 604,127 211,127
+  Text: The 1993 Virginia Slims of Chicago
+  TextEquiv attributes: {'conf': '0.8433333039'}
+  TextEquiv attributes: {'conf': '0.9024999738'}
+  TextEquiv attributes: {'conf': '0.625'}
+  TextEquiv attributes: {'conf': '0.8939999938'}
+  TextEquiv attributes: {'conf': '0.7649999857'}
+  TextEquiv attributes: {'conf': '0.7128571272'}
+
+Line 7
+  ID: Page1_Block4_l1
+  Coordinates: 354,163 426,163 426,177 354,177
+  Text: Invoice
+  TextEquiv attributes: {'conf': '0.6342856884'}
+
+Line 8
+  ID: Page1_Block5_l1
+  Coordinates: 117,250 168,250 168,263 117,263
+  Text: Name:
+  TextEquiv attributes: {'conf': '0.5360000134'}
+
+Line 9
+  ID: Page1_Block5_l2
+  Coordinates: 116,287 200,287 200,304 116,304
+  Text: Company:
+  TextEquiv attributes: {'conf': '0.8625000119'}
+
+Line 10
+  ID: Page1_Block5_l3
+  Coordinates: 117,325 193,325 193,338 117,338
+  Text: Address:
+  TextEquiv attributes: {'conf': '0.6150000095'}
+
+Line 11
+  ID: Page1_Block5_l4
+  Coordinates: 118,362 251,362 251,379 118,379
+  Text: City, State, Zip:
+  TextEquiv attributes: {'conf': '0.6539999843'}
+  TextEquiv attributes: {'conf': '0.5933333039'}
+  TextEquiv attributes: {'conf': '0.7749999762'}
+
+Line 12
+  ID: Page1_Block5_l5
+  Coordinates: 119,400 253,400 253,413 119,413
+  Text: Phone Number:
+  TextEquiv attributes: {'conf': '0.5759999752'}
+  TextEquiv attributes: {'conf': '0.5557143092'}
+
+Line 13
+  ID: Page1_Block6_l1
+  Coordinates: 300,248 423,248 423,265 300,265
+  Text: Nancy Zimbalist
+  TextEquiv attributes: {'conf': '0.5879999995'}
+  TextEquiv attributes: {'conf': '0.5577777624'}
+
+Line 14
+  ID: Page1_Block6_l2
+  Coordinates: 301,286 401,286 401,303 301,303
+  Text: Philip Morris
+  TextEquiv attributes: {'conf': '0.301666677'}
+  TextEquiv attributes: {'conf': '0.5833333135'}
+
+Line 15
+  ID: Page1_Block6_l3
+  Coordinates: 302,322 500,322 500,338 302,338
+  Text: 120 Park Ave.. 12th floor
+  TextEquiv attributes: {'conf': '0.4399999976'}
+  TextEquiv attributes: {'conf': '0.5600000024'}
+  TextEquiv attributes: {'conf': '0.7179999948'}
+  TextEquiv attributes: {'conf': '0.3774999976'}
+  TextEquiv attributes: {'conf': '0.6560000181'}
+
+WORD SAMPLES
+-------------------------------------------------------------------------------------
+1. ID=Page1_Block1_l1_w1 | Text='International' | Coordinates=133,946 190,946 190,954 133,954
+   TextEquiv attributes: {'conf': '0.2861538529'}
+2. ID=Page1_Block1_l1_w2 | Text='Management' | Coordinates=194,945 255,945 255,954 194,954
+   TextEquiv attributes: {'conf': '0.3569999933'}
+3. ID=Page1_Block1_l1_w3 | Text='Group' | Coordinates=259,945 287,945 287,953 259,953
+   TextEquiv attributes: {'conf': '0.4699999988'}
+4. ID=Page1_Block1_l1_w4 | Text='•' | Coordinates=292,945 296,945 296,949 292,949
+   TextEquiv attributes: {'conf': '0.2599999905'}
+5. ID=Page1_Block1_l1_w5 | Text='130' | Coordinates=303,944 319,944 319,952 303,952
+   TextEquiv attributes: {'conf': '0.4866666794'}
+6. ID=Page1_Block1_l1_w6 | Text='E.' | Coordinates=324,944 332,944 332,952 324,952
+   TextEquiv attributes: {'conf': '0.5600000024'}
+7. ID=Page1_Block1_l1_w7 | Text='Randolph' | Coordinates=336,944 380,944 380,953 336,953
+   TextEquiv attributes: {'conf': '0.3712500036'}
+8. ID=Page1_Block1_l1_w8 | Text='Dr.' | Coordinates=384,944 398,944 398,952 384,952
+   TextEquiv attributes: {'conf': '0.3199999928'}
+9. ID=Page1_Block1_l1_w9 | Text='#' | Coordinates=399,950 401,950 401,952 399,952
+   TextEquiv attributes: {'conf': '0.2599999905'}
+10. ID=Page1_Block1_l1_w10 | Text='Suite' | Coordinates=406,944 429,944 429,951 406,951
+   TextEquiv attributes: {'conf': '0.5400000215'}
+11. ID=Page1_Block1_l1_w11 | Text='1821' | Coordinates=435,944 458,944 458,952 435,952
+   TextEquiv attributes: {'conf': '0.5749999881'}
+12. ID=Page1_Block1_l1_w12 | Text='•' | Coordinates=464,943 468,943 468,947 464,947
+   TextEquiv attributes: {'conf': '0.4300000072'}
+13. ID=Page1_Block1_l1_w13 | Text='Chicago,' | Coordinates=473,943 513,943 513,952 473,952
+   TextEquiv attributes: {'conf': '0.3050000072'}
+14. ID=Page1_Block1_l1_w14 | Text='IL' | Coordinates=518,943 525,943 525,950 518,950
+   TextEquiv attributes: {'conf': '0.3249999881'}
+15. ID=Page1_Block1_l1_w15 | Text='60601' | Coordinates=533,943 563,943 563,950 533,950
+   TextEquiv attributes: {'conf': '0.3560000062'}
+16. ID=Page1_Block1_l1_w16 | Text='•' | Coordinates=569,943 573,943 573,946 569,946
+   TextEquiv attributes: {'conf': '0.2899999917'}
+17. ID=Page1_Block1_l1_w17 | Text='312/665-4100' | Coordinates=579,941 649,941 649,950 579,950
+   TextEquiv attributes: {'conf': '0.6166666746'}
+18. ID=Page1_Block3_l1_w1 | Text='KtUtIVtU' | Coordinates=646,16 720,16 720,29 646,29
+   TextEquiv attributes: {'conf': '0.3799999952'}
+19. ID=Page1_Block3_l2_w1 | Text='JAN' | Coordinates=638,47 665,47 665,62 638,62
+   TextEquiv attributes: {'conf': '0.6133333445'}
+20. ID=Page1_Block3_l2_w2 | Text='0' | Coordinates=672,46 679,46 679,61 672,61
+   TextEquiv attributes: {'conf': '0.3199999928'}
+21. ID=Page1_Block3_l2_w3 | Text='7' | Coordinates=685,48 693,48 693,63 685,63
+   TextEquiv attributes: {'conf': '0.6100000143'}
+22. ID=Page1_Block3_l2_w4 | Text='1992' | Coordinates=701,47 726,47 726,62 701,62
+   TextEquiv attributes: {'conf': '0.3600000143'}
+23. ID=Page1_Block3_l3_w1 | Text='Chicago' | Coordinates=312,67 365,67 365,82 312,82
+   TextEquiv attributes: {'conf': '0.8000000119'}
+24. ID=Page1_Block3_l3_w2 | Text='Sun-Times' | Coordinates=371,67 442,67 442,78 371,78
+   TextEquiv attributes: {'conf': '0.4811111093'}
+25. ID=Page1_Block3_l3_w3 | Text='Presents' | Coordinates=448,67 502,67 502,78 448,78
+   TextEquiv attributes: {'conf': '0.6012499928'}
+
+=====================================================================================
+GT XML: 0001139626
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\0001139626_gt.xml
+Total TextRegion elements: 7
+
+REGION DETAILS
+-------------------------------------------------------------------------------------
+
+Region 1
+  ID: page1_pos1
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 28.1719,201.06 664.139,201.06 664.139,254.458 28.1719,254.458
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = supplier
+
+Region 2
+  ID: page1_pos2
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 28.1719,257.63 385.539,257.63 385.539,288.294 28.1719,288.294
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 3
+  ID: page1_pos3
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 389.239,257.63 665.193,257.63 665.193,288.823 389.239,288.823
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = invoice_info
+
+Region 4
+  ID: page1_pos4
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 28.1719,291.995 664.668,291.995 664.668,348.036 28.1719,348.036
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = receiver
+
+Region 5
+  ID: page1_pos5
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 28.7604,352.894 530.978,352.894 530.978,868.484 28.7604,868.484
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = positions
+
+Region 6
+  ID: page1_pos6
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 534.717,353.539 672.165,353.539 672.165,869.14 534.717,869.14
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = total
+
+Region 7
+  ID: page1_pos7
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 2.85155,901.145 424.715,901.145 424.715,959.831 2.85155,959.831
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+PROPERTIES OUTSIDE TEXTREGION
+-------------------------------------------------------------------------------------
+{'key': 'customer', 'value': 'actuallCustomerName'}
+{'key': 'offer'}
+{'key': 'uuid', 'value': 'c469671f-e26c-47ee-ab65-cec1aecb3320'}
+{'key': 'fileName', 'value': '0001139626.pdf'}
+{'key': 'type', 'value': 'digital'}
+
+=====================================================================================
+OCR XML: 0001139626
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\0001139626_ocr.xml
+Total TextRegion elements: 75
+Total TextLine elements: 86
+Total Word elements: 223
+
+TEXT LINE SAMPLES
+-------------------------------------------------------------------------------------
+
+Line 1
+  ID: Page1_Block1_l1
+  Coordinates: 105,214 368,214 368,232 105,232
+  Text: Tod Botes a company, inc /advertising
+  TextEquiv attributes: {'conf': '0.5266666412'}
+  TextEquiv attributes: {'conf': '0.3720000088'}
+  TextEquiv attributes: {'conf': '0'}
+  TextEquiv attributes: {'conf': '0.3937500119'}
+  TextEquiv attributes: {'conf': '0.3033333421'}
+  TextEquiv attributes: {'conf': '0.3608333468'}
+
+Line 2
+  ID: Page1_Block1_l2
+  Coordinates: 183,233 367,233 367,242 183,242
+  Text: 1515 • He* *<r> n*. Vw* low* USA
+  TextEquiv attributes: {'conf': '0.2349999994'}
+  TextEquiv attributes: {'conf': '0.7799999714'}
+  TextEquiv attributes: {'conf': '0.1599999964'}
+  TextEquiv attributes: {'conf': '0.4699999988'}
+  TextEquiv attributes: {'conf': '0.5133333206'}
+  TextEquiv attributes: {'conf': '0.3566666543'}
+  TextEquiv attributes: {'conf': '0.3350000083'}
+  TextEquiv attributes: {'conf': '0.3266666532'}
+
+Line 3
+  ID: Page1_Block1_l3
+  Coordinates: 173,241 368,241 368,251 173,251
+  Text: ‘ 211 M»))31 • C*MsBo»Mwo>d N»» *or«
+  TextEquiv attributes: {'conf': '1'}
+  TextEquiv attributes: {'conf': '0.3766666651'}
+  TextEquiv attributes: {'conf': '0.5600000024'}
+  TextEquiv attributes: {'conf': '1'}
+  TextEquiv attributes: {'conf': '0.3341666758'}
+  TextEquiv attributes: {'conf': '0.2700000107'}
+  TextEquiv attributes: {'conf': '0.3425000012'}
+
+Line 4
+  ID: Page1_Block1_l4
+  Coordinates: 76,263 362,263 362,279 76,279
+  Text: piM w* *w-o«/Tv tr i«.34 pRcaxiiuH nill
+  TextEquiv attributes: {'conf': '0.296666652'}
+  TextEquiv attributes: {'conf': '0.200000003'}
+  TextEquiv attributes: {'conf': '0.3824999928'}
+  TextEquiv attributes: {'conf': '0.349999994'}
+  TextEquiv attributes: {'conf': '0.2140000015'}
+  TextEquiv attributes: {'conf': '0.2833333313'}
+  TextEquiv attributes: {'conf': '0.1924999952'}
+
+Line 5
+  ID: Page1_Block1_l5
+  Coordinates: 77,299 138,299 138,307 77,307
+  Text: iCLiCNI BW
+  TextEquiv attributes: {'conf': '0.2671428621'}
+  TextEquiv attributes: {'conf': '0.0700000003'}
+
+Line 6
+  ID: Page1_Block2_l1
+  Coordinates: 404,260 573,260 573,271 404,271
+  Text: tiu HUHetK P-02-093A PACE 1
+  TextEquiv attributes: {'conf': '0.2866666615'}
+  TextEquiv attributes: {'conf': '0.348333329'}
+  TextEquiv attributes: {'conf': '0.3633333445'}
+  TextEquiv attributes: {'conf': '0.5299999714'}
+  TextEquiv attributes: {'conf': '0.1800000072'}
+
+Line 7
+  ID: Page1_Block2_l2
+  Coordinates: 404,272 507,272 507,281 404,281
+  Text: UATC 0U1 AUS2->/79
+  TextEquiv attributes: {'conf': '0.2700000107'}
+  TextEquiv attributes: {'conf': '0.4033333361'}
+  TextEquiv attributes: {'conf': '0.1788888872'}
+
+Line 8
+  ID: Page1_Block3_l1
+  Coordinates: 169,294 355,294 355,305 169,305
+  Text: bkJ*i* C WILLIAMSOM rO&ACCO CORP
+  TextEquiv attributes: {'conf': '0.323333323'}
+  TextEquiv attributes: {'conf': '0.1199999973'}
+  TextEquiv attributes: {'conf': '0.3389999866'}
+  TextEquiv attributes: {'conf': '0.3785714209'}
+  TextEquiv attributes: {'conf': '0.2399999946'}
+
+Line 9
+  ID: Page1_Block3_l2
+  Coordinates: 77,307 229,307 229,320 77,320
+  Text: [PRODUCT KM KGOL MILOS
+  TextEquiv attributes: {'conf': '0.3075000048'}
+  TextEquiv attributes: {'conf': '0.5199999809'}
+  TextEquiv attributes: {'conf': '0.3725000024'}
+  TextEquiv attributes: {'conf': '0.3199999928'}
+
+Line 10
+  ID: Page1_Block3_l3
+  Coordinates: 77,315 338,315 338,328 77,328
+  Text: |JJB PNS0I2 KOUL MILOS PACK PKESi.NTAIIOfJ
+  TextEquiv attributes: {'conf': '0.5724999905'}
+  TextEquiv attributes: {'conf': '0.2199999988'}
+  TextEquiv attributes: {'conf': '0.3675000072'}
+  TextEquiv attributes: {'conf': '0.2220000029'}
+  TextEquiv attributes: {'conf': '0.1350000054'}
+  TextEquiv attributes: {'conf': '0.2235714346'}
+
+Line 11
+  ID: Page1_Block3_l4
+  Coordinates: 78,327 235,327 235,337 78,337
+  Text: KEOIA P PRINT PROON
+  TextEquiv attributes: {'conf': '0.3459999859'}
+  TextEquiv attributes: {'conf': '0'}
+  TextEquiv attributes: {'conf': '0.1379999965'}
+  TextEquiv attributes: {'conf': '0.1640000045'}
+
+Line 12
+  ID: Page1_Block3_l5
+  Coordinates: 170,333 447,333 447,345 170,345
+  Text: tSTlMAfc HOMBtKi KM-MISC-78-IRI BCK CODE- N/A
+  TextEquiv attributes: {'conf': '0.4237500131'}
+  TextEquiv attributes: {'conf': '0.2385714352'}
+  TextEquiv attributes: {'conf': '0.4128571451'}
+  TextEquiv attributes: {'conf': '0.1700000018'}
+  TextEquiv attributes: {'conf': '0.4079999924'}
+  TextEquiv attributes: {'conf': '0.150000006'}
+
+Line 13
+  ID: Page1_Block4_l1
+  Coordinates: 406,292 489,292 489,301 406,301
+  Text: 1600 M HILL ST
+  TextEquiv attributes: {'conf': '0.3449999988'}
+  TextEquiv attributes: {'conf': '0.1899999976'}
+  TextEquiv attributes: {'conf': '0.2450000048'}
+  TextEquiv attributes: {'conf': '0.7250000238'}
+
+Line 14
+  ID: Page1_Block4_l2
+  Coordinates: 405,301 525,301 525,311 405,311
+  Text: LOUlSVILLk KY 40701
+  TextEquiv attributes: {'conf': '0.2720000148'}
+  TextEquiv attributes: {'conf': '0.6899999976'}
+  TextEquiv attributes: {'conf': '0.2980000079'}
+
+Line 15
+  ID: Page1_Block6_l1
+  Coordinates: 80,369 146,369 146,378 80,378
+  Text: •ASCRIPTION
+  TextEquiv attributes: {'conf': '0.2972727418'}
+
+WORD SAMPLES
+-------------------------------------------------------------------------------------
+1. ID=Page1_Block1_l1_w1 | Text='Tod' | Coordinates=105,219 131,219 131,229 105,229
+   TextEquiv attributes: {'conf': '0.5266666412'}
+2. ID=Page1_Block1_l1_w2 | Text='Botes' | Coordinates=134,218 179,218 179,230 134,230
+   TextEquiv attributes: {'conf': '0.3720000088'}
+3. ID=Page1_Block1_l1_w3 | Text='a' | Coordinates=183,221 193,221 193,228 183,228
+   TextEquiv attributes: {'conf': '0'}
+4. ID=Page1_Block1_l1_w4 | Text='company,' | Coordinates=195,219 259,219 259,230 195,230
+   TextEquiv attributes: {'conf': '0.3937500119'}
+5. ID=Page1_Block1_l1_w5 | Text='inc' | Coordinates=263,217 282,217 282,227 263,227
+   TextEquiv attributes: {'conf': '0.3033333421'}
+6. ID=Page1_Block1_l1_w6 | Text='/advertising' | Coordinates=285,214 368,214 368,230 285,230
+   TextEquiv attributes: {'conf': '0.3608333468'}
+7. ID=Page1_Block1_l2_w1 | Text='1515' | Coordinates=183,236 199,236 199,242 183,242
+   TextEquiv attributes: {'conf': '0.2349999994'}
+8. ID=Page1_Block1_l2_w2 | Text='•' | Coordinates=240,236 242,236 242,238 240,238
+   TextEquiv attributes: {'conf': '0.7799999714'}
+9. ID=Page1_Block1_l2_w3 | Text='He*' | Coordinates=245,235 261,235 261,240 245,240
+   TextEquiv attributes: {'conf': '0.1599999964'}
+10. ID=Page1_Block1_l2_w4 | Text='*<r>' | Coordinates=264,234 279,234 279,241 264,241
+   TextEquiv attributes: {'conf': '0.4699999988'}
+11. ID=Page1_Block1_l2_w5 | Text='n*.' | Coordinates=285,235 299,235 299,240 285,240
+   TextEquiv attributes: {'conf': '0.5133333206'}
+12. ID=Page1_Block1_l2_w6 | Text='Vw*' | Coordinates=302,234 318,234 318,239 302,239
+   TextEquiv attributes: {'conf': '0.3566666543'}
+13. ID=Page1_Block1_l2_w7 | Text='low*' | Coordinates=322,233 343,233 343,240 322,240
+   TextEquiv attributes: {'conf': '0.3350000083'}
+14. ID=Page1_Block1_l2_w8 | Text='USA' | Coordinates=347,233 367,233 367,239 347,239
+   TextEquiv attributes: {'conf': '0.3266666532'}
+15. ID=Page1_Block1_l3_w1 | Text='‘' | Coordinates=173,243 175,243 175,246 173,246
+   TextEquiv attributes: {'conf': '1'}
+16. ID=Page1_Block1_l3_w2 | Text='211' | Coordinates=208,245 221,245 221,251 208,251
+   TextEquiv attributes: {'conf': '0.3766666651'}
+17. ID=Page1_Block1_l3_w3 | Text='M»))31' | Coordinates=225,244 256,244 256,251 225,251
+   TextEquiv attributes: {'conf': '0.5600000024'}
+18. ID=Page1_Block1_l3_w4 | Text='•' | Coordinates=262,246 264,246 264,248 262,248
+   TextEquiv attributes: {'conf': '1'}
+19. ID=Page1_Block1_l3_w5 | Text='C*MsBo»Mwo>d' | Coordinates=268,244 327,244 327,250 268,250
+   TextEquiv attributes: {'conf': '0.3341666758'}
+20. ID=Page1_Block1_l3_w6 | Text='N»»' | Coordinates=333,243 347,243 347,248 333,248
+   TextEquiv attributes: {'conf': '0.2700000107'}
+21. ID=Page1_Block1_l3_w7 | Text='*or«' | Coordinates=352,243 368,243 368,248 352,248
+   TextEquiv attributes: {'conf': '0.3425000012'}
+22. ID=Page1_Block1_l4_w1 | Text='piM' | Coordinates=76,268 95,268 95,279 76,279
+   TextEquiv attributes: {'conf': '0.296666652'}
+23. ID=Page1_Block1_l4_w2 | Text='w*' | Coordinates=102,269 114,269 114,276 102,276
+   TextEquiv attributes: {'conf': '0.200000003'}
+24. ID=Page1_Block1_l4_w3 | Text='*w-o«/Tv' | Coordinates=121,267 168,267 168,276 121,276
+   TextEquiv attributes: {'conf': '0.3824999928'}
+25. ID=Page1_Block1_l4_w4 | Text='tr' | Coordinates=176,267 187,267 187,274 176,274
+   TextEquiv attributes: {'conf': '0.349999994'}
+
+=====================================================================================
+GT XML: tob02910.64
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\tob02910.64_gt.xml
+Total TextRegion elements: 10
+
+REGION DETAILS
+-------------------------------------------------------------------------------------
+
+Region 1
+  ID: page1_pos1
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 32.655,11.4328 741.63,11.4328 741.63,50.3783 32.655,50.3783
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+Region 2
+  ID: page1_pos2
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 33.5002,54.2729 741.825,54.2729 741.825,224.985 33.5002,224.985
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = positions
+
+Region 3
+  ID: page1_pos3
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 33.5002,228.879 742.477,228.879 742.477,314.559 33.5002,314.559
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = total
+
+Region 4
+  ID: page1_pos4
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 33.9238,318.454 742.898,318.454 742.898,429.449 33.9238,429.449
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = positions
+
+Region 5
+  ID: page1_pos5
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 34.8477,433.992 743.823,433.992 743.823,464.5 34.8477,464.5
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = total
+
+Region 6
+  ID: page1_pos6
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 35.2509,472.289 744.875,472.289 744.875,605.353 35.2509,605.353
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = positions
+
+Region 7
+  ID: page1_pos7
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 34.6017,609.896 744.226,609.896 744.226,638.456 34.6017,638.456
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = total
+
+Region 8
+  ID: page1_pos8
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 35.9002,643.002 744.226,643.002 744.226,729.33 35.9002,729.33
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = positions
+
+Region 9
+  ID: page1_pos9
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 36.8239,731.926 745.8,731.926 745.8,796.188 36.8239,796.188
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = total
+
+Region 10
+  ID: page1_pos10
+  Type attribute: 
+  Custom attribute: 
+  Coordinates: 37.1987,799.32 746.822,799.32 746.822,980.418 37.1987,980.418
+  Direct children: ['Property', 'Coords']
+  Properties:
+    entity = other
+
+PROPERTIES OUTSIDE TEXTREGION
+-------------------------------------------------------------------------------------
+{'key': 'customer', 'value': 'actuallCustomerName'}
+{'key': 'offer'}
+{'key': 'uuid', 'value': 'b23bb90c-4f22-4abe-b10f-6dd639a23a66'}
+{'key': 'fileName', 'value': 'tob02910.64.pdf'}
+{'key': 'type', 'value': 'digital'}
+
+=====================================================================================
+OCR XML: tob02910.64
+=====================================================================================
+File: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\tob02910.64_ocr.xml
+Total TextRegion elements: 25
+Total TextLine elements: 42
+Total Word elements: 121
+
+TEXT LINE SAMPLES
+-------------------------------------------------------------------------------------
+
+Line 1
+  ID: Page1_Block2_l1
+  Coordinates: 247,31 591,31 591,43 247,43
+  Text: RECAPITULATION OF ADVERTISING COSTS
+  TextEquiv attributes: {'conf': '0.4964285791'}
+  TextEquiv attributes: {'conf': '0.6999999881'}
+  TextEquiv attributes: {'conf': '0.5118181705'}
+  TextEquiv attributes: {'conf': '0.7120000124'}
+
+Line 2
+  ID: Page1_Block3_l1
+  Coordinates: 129,66 587,66 587,81 129,81
+  Text: Barron's Advertisement - . '
+  TextEquiv attributes: {'conf': '0.7637500167'}
+  TextEquiv attributes: {'conf': '0.5507692099'}
+  TextEquiv attributes: {'conf': '0.5500000119'}
+  TextEquiv attributes: {'conf': '0.25'}
+  TextEquiv attributes: {'conf': '1'}
+
+Line 3
+  ID: Page1_Block3_l2
+  Coordinates: 127,78 615,78 615,84 127,84
+  Text: ■ ■ * ■ ■■ V l . 1
+  TextEquiv attributes: {'conf': '0.5199999809'}
+  TextEquiv attributes: {'conf': '0.4300000072'}
+  TextEquiv attributes: {'conf': '0.6000000238'}
+  TextEquiv attributes: {'conf': '0.7200000286'}
+  TextEquiv attributes: {'conf': '0.5799999833'}
+  TextEquiv attributes: {'conf': '0.25'}
+  TextEquiv attributes: {'conf': '0.9300000072'}
+  TextEquiv attributes: {'conf': '0.5500000119'}
+  TextEquiv attributes: {'conf': '0.5600000024'}
+
+Line 4
+  ID: Page1_Block4_l1
+  Coordinates: 148,106 294,106 294,119 148,119
+  Text: Newspaper space
+  TextEquiv attributes: {'conf': '0.5400000215'}
+  TextEquiv attributes: {'conf': '0.8379999995'}
+
+Line 5
+  ID: Page1_Block4_l2
+  Coordinates: 148,123 403,123 403,137 148,137
+  Text: Newspaper Production costs
+  TextEquiv attributes: {'conf': '0.6611111164'}
+  TextEquiv attributes: {'conf': '0.5680000186'}
+  TextEquiv attributes: {'conf': '0.8840000033'}
+
+Line 6
+  ID: Page1_Block4_l3
+  Coordinates: 147,142 284,142 284,156 147,156
+  Text: Magazine space
+  TextEquiv attributes: {'conf': '0.6449999809'}
+  TextEquiv attributes: {'conf': '0.8439999819'}
+
+Line 7
+  ID: Page1_Block4_l4
+  Coordinates: 147,160 393,160 393,175 147,175
+  Text: Magazine Production costs
+  TextEquiv attributes: {'conf': '0.5462499857'}
+  TextEquiv attributes: {'conf': '0.7699999809'}
+  TextEquiv attributes: {'conf': '0.8320000172'}
+
+Line 8
+  ID: Page1_Block4_l5
+  Coordinates: 148,179 439,179 439,194 148,194
+  Text: Research Study (questionnaire)
+  TextEquiv attributes: {'conf': '0.7012500167'}
+  TextEquiv attributes: {'conf': '0.9060000181'}
+  TextEquiv attributes: {'conf': '0.8000000119'}
+
+Line 9
+  ID: Page1_Block4_l6
+  Coordinates: 147,198 263,198 263,209 147,209
+  Text: Extra Proofs
+  TextEquiv attributes: {'conf': '0.7879999876'}
+  TextEquiv attributes: {'conf': '0.7599999905'}
+
+Line 10
+  ID: Page1_Block5_l1
+  Coordinates: 524,106 629,106 629,120 524,120
+  Text: $421,902.09
+  TextEquiv attributes: {'conf': '0.6809090972'}
+
+Line 11
+  ID: Page1_Block5_l2
+  Coordinates: 543,124 629,124 629,138 543,138
+  Text: 12,717.77
+  TextEquiv attributes: {'conf': '0.6899999976'}
+
+Line 12
+  ID: Page1_Block5_l3
+  Coordinates: 543,143 628,143 628,157 543,157
+  Text: 98,786.57
+  TextEquiv attributes: {'conf': '0.7566666603'}
+
+Line 13
+  ID: Page1_Block5_l4
+  Coordinates: 572,162 628,162 628,173 572,173
+  Text: 826.81
+  TextEquiv attributes: {'conf': '0.8550000191'}
+
+Line 14
+  ID: Page1_Block5_l5
+  Coordinates: 552,181 628,181 628,193 552,193
+  Text: 6,000.00
+  TextEquiv attributes: {'conf': '0.6612499952'}
+
+Line 15
+  ID: Page1_Block5_l6
+  Coordinates: 572,199 628,199 628,210 572,210
+  Text: 102.50
+  TextEquiv attributes: {'conf': '0.6299999952'}
+
+WORD SAMPLES
+-------------------------------------------------------------------------------------
+1. ID=Page1_Block2_l1_w1 | Text='RECAPITULATION' | Coordinates=247,31 386,31 386,42 247,42
+   TextEquiv attributes: {'conf': '0.4964285791'}
+2. ID=Page1_Block2_l1_w2 | Text='OF' | Coordinates=396,32 414,32 414,41 396,41
+   TextEquiv attributes: {'conf': '0.6999999881'}
+3. ID=Page1_Block2_l1_w3 | Text='ADVERTISING' | Coordinates=425,32 532,32 532,42 425,42
+   TextEquiv attributes: {'conf': '0.5118181705'}
+4. ID=Page1_Block2_l1_w4 | Text='COSTS' | Coordinates=543,33 591,33 591,43 543,43
+   TextEquiv attributes: {'conf': '0.7120000124'}
+5. ID=Page1_Block3_l1_w1 | Text="Barron's" | Coordinates=129,68 206,68 206,78 129,78
+   TextEquiv attributes: {'conf': '0.7637500167'}
+6. ID=Page1_Block3_l1_w2 | Text='Advertisement' | Coordinates=216,67 345,67 345,79 216,79
+   TextEquiv attributes: {'conf': '0.5507692099'}
+7. ID=Page1_Block3_l1_w3 | Text='-' | Coordinates=356,73 364,73 364,76 356,76
+   TextEquiv attributes: {'conf': '0.5500000119'}
+8. ID=Page1_Block3_l1_w4 | Text='.' | Coordinates=573,78 575,78 575,81 573,81
+   TextEquiv attributes: {'conf': '0.25'}
+9. ID=Page1_Block3_l1_w5 | Text="'" | Coordinates=585,66 587,66 587,69 585,69
+   TextEquiv attributes: {'conf': '1'}
+10. ID=Page1_Block3_l2_w1 | Text='■' | Coordinates=127,79 130,79 130,82 127,82
+   TextEquiv attributes: {'conf': '0.5199999809'}
+11. ID=Page1_Block3_l2_w2 | Text='■' | Coordinates=138,79 140,79 140,81 138,81
+   TextEquiv attributes: {'conf': '0.4300000072'}
+12. ID=Page1_Block3_l2_w3 | Text='*' | Coordinates=274,79 277,79 277,81 274,81
+   TextEquiv attributes: {'conf': '0.6000000238'}
+13. ID=Page1_Block3_l2_w4 | Text='■' | Coordinates=286,80 289,80 289,81 286,81
+   TextEquiv attributes: {'conf': '0.7200000286'}
+14. ID=Page1_Block3_l2_w5 | Text='■■' | Coordinates=293,79 297,79 297,81 293,81
+   TextEquiv attributes: {'conf': '0.5799999833'}
+15. ID=Page1_Block3_l2_w6 | Text='V' | Coordinates=573,78 576,78 576,84 573,84
+   TextEquiv attributes: {'conf': '0.25'}
+16. ID=Page1_Block3_l2_w7 | Text='l' | Coordinates=583,78 586,78 586,84 583,84
+   TextEquiv attributes: {'conf': '0.9300000072'}
+17. ID=Page1_Block3_l2_w8 | Text='.' | Coordinates=609,82 610,82 610,84 609,84
+   TextEquiv attributes: {'conf': '0.5500000119'}
+18. ID=Page1_Block3_l2_w9 | Text='1' | Coordinates=613,78 615,78 615,81 613,81
+   TextEquiv attributes: {'conf': '0.5600000024'}
+19. ID=Page1_Block4_l1_w1 | Text='Newspaper' | Coordinates=148,106 235,106 235,119 148,119
+   TextEquiv attributes: {'conf': '0.5400000215'}
+20. ID=Page1_Block4_l1_w2 | Text='space' | Coordinates=247,108 294,108 294,119 247,119
+   TextEquiv attributes: {'conf': '0.8379999995'}
+21. ID=Page1_Block4_l2_w1 | Text='Newspaper' | Coordinates=148,124 235,124 235,137 148,137
+   TextEquiv attributes: {'conf': '0.6611111164'}
+22. ID=Page1_Block4_l2_w2 | Text='Production' | Coordinates=246,123 344,123 344,135 246,135
+   TextEquiv attributes: {'conf': '0.5680000186'}
+23. ID=Page1_Block4_l2_w3 | Text='costs' | Coordinates=356,125 403,125 403,136 356,136
+   TextEquiv attributes: {'conf': '0.8840000033'}
+24. ID=Page1_Block4_l3_w1 | Text='Magazine' | Coordinates=147,142 224,142 224,156 147,156
+   TextEquiv attributes: {'conf': '0.6449999809'}
+25. ID=Page1_Block4_l3_w2 | Text='space' | Coordinates=237,145 284,145 284,156 237,156
+   TextEquiv attributes: {'conf': '0.8439999819'}

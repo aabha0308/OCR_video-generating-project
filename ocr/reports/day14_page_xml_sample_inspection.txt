@@ -1,0 +1,98 @@
+PAGE XML SAMPLE INSPECTION
+======================================================================
+
+GT XML TEXT SAMPLES
+----------------------------------------------------------------------
+
+OCR XML TEXT SAMPLES
+----------------------------------------------------------------------
+
+Document: 0000223278
+  r>
+  B
+  AT
+  (U.K.
+  and
+  EXPORT)
+  limited
+  Export
+  House
+  Woking
+  Surrey
+  GU211YB
+  England
+  Brown
+  &
+
+Document: 0001136521
+  Tod
+  Bata*
+  a
+  company,
+  inc
+  /advertising
+  'JiJI
+  t
+  .».r-YOfk
+  ICC
+  so
+  Ul*
+  -aoi
+  •
+  cut-.
+
+Document: 0001139626
+  Tod
+  Botes
+  a
+  company,
+  inc
+  /advertising
+  1515
+  •
+  He*
+  *<r>
+  n*.
+  Vw*
+  low*
+  USA
+  ‘
+
+Document: 0001139716
+  Ted
+  Bates
+  a
+  company,
+  inc./advertising
+  ISIS
+  B«e*dw»)
+  •
+  w>
+  T(Mh..N*>
+  Yon*
+  11030.
+  lj»
+  •“*oo«
+  2)2
+
+Document: 0001144288
+  Tod
+  Bates
+  new
+  york/advertising
+  *
+  *tW>
+  "ax—J±-
+  BROWN
+  &
+  WILLIAMSON
+  TOBACCO
+  CORPORATION
+  PRINT
+  PRODUCTION
+  ESTIMATE
+
+MISSING OCR PAIRS
+
+
+MISSING GT PAIRS
