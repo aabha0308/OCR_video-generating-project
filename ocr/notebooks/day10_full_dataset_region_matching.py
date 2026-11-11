@@ -2,6 +2,7 @@
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from collections import Counter
+import csv
 
 
 # ============================================================
@@ -29,6 +30,7 @@ def local_name(tag):
 
 
 def get_coordinates(element):
+
     for child in element:
 
         if local_name(child.tag) == "Coords":
@@ -212,6 +214,9 @@ entity_counts = Counter()
 file_errors = []
 missing_ocr_files = []
 
+# Store detailed information for every OCR region
+audit_records = []
+
 
 # ============================================================
 # MAIN DATASET MATCHING AUDIT
@@ -268,10 +273,12 @@ for index, gt_file in enumerate(gt_files, start=1):
                     best_match = gt_region["entity"]
 
             # ------------------------------------------------
-            # CLASSIFY EACH OCR REGION EXACTLY ONCE
+            # CLASSIFY EACH OCR REGION
             # ------------------------------------------------
 
             if best_overlap >= 50:
+
+                match_status = "Strong"
 
                 strong_matches += 1
 
@@ -289,19 +296,41 @@ for index, gt_file in enumerate(gt_files, start=1):
 
                             "text": ocr_region["text"],
 
-                            "overlap": round(
-                                best_overlap, 2
-                            )
+                            "overlap": round(best_overlap, 2)
 
                         })
 
             elif best_overlap > 0:
 
+                match_status = "Weak"
+
                 weak_matches += 1
 
             else:
 
+                match_status = "Unmatched"
+
                 unmatched_regions += 1
+
+            # ------------------------------------------------
+            # STORE EVERY OCR REGION
+            # ------------------------------------------------
+
+            audit_records.append({
+
+                "invoice_id": sample_name,
+
+                "ocr_text": ocr_region["text"],
+
+                "matched_entity": best_match,
+
+                "overlap_percentage": round(best_overlap, 2),
+
+                "match_status": match_status,
+
+                "ocr_bbox": str(ocr_region["bbox"])
+
+            })
 
     except Exception as error:
 
@@ -318,6 +347,52 @@ for index, gt_file in enumerate(gt_files, start=1):
         print(
             f"Processed {index}/{len(gt_files)} GT files"
         )
+
+
+# ============================================================
+# SAVE DETAILED AUDIT REPORT
+# ============================================================
+
+reports_path = project_path / "reports"
+
+reports_path.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+csv_path = reports_path / "day11_region_matching_audit.csv"
+
+with open(
+    csv_path,
+    "w",
+    newline="",
+    encoding="utf-8-sig"
+) as csv_file:
+
+    fieldnames = [
+        "invoice_id",
+        "ocr_text",
+        "matched_entity",
+        "overlap_percentage",
+        "match_status",
+        "ocr_bbox"
+    ]
+
+    writer = csv.DictWriter(
+        csv_file,
+        fieldnames=fieldnames
+    )
+
+    writer.writeheader()
+
+    writer.writerows(audit_records)
+
+
+print("\nAUDIT CSV SAVED SUCCESSFULLY")
+
+print(csv_path)
+
+print("Total records:", len(audit_records))
 
 
 # ============================================================
@@ -350,7 +425,6 @@ print(
     "OCR regions containing text:",
     total_ocr_regions
 )
-
 
 print("\nMATCHING RESULTS")
 
@@ -471,6 +545,26 @@ else:
         "Difference:",
         total_ocr_regions - classified_regions
     )
+
+
+# ============================================================
+# CSV RECORD CONSISTENCY CHECK
+# ============================================================
+
+print("\nCSV RECORD CONSISTENCY CHECK")
+
+print(
+    "CSV records:",
+    len(audit_records)
+)
+
+if len(audit_records) == classified_regions:
+
+    print("PASS: CSV records match classified OCR regions.")
+
+else:
+
+    print("WARNING: CSV record count does not match.")
 
 
 # ============================================================
