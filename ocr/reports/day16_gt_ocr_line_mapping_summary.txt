@@ -1,0 +1,54 @@
+DAY 16: GT-OCR LINE MAPPING AUDIT - TEXT EXTRACTION FIX
+=================================================================
+Dataset directory: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data
+GT XML files found: 520
+Documents successfully processed: 520
+Missing OCR XML files: 0
+XML parsing errors: 0
+
+Total GT regions: 4359
+Total OCR text lines: 23639
+Total output rows: 23639
+
+OCR TEXT EXTRACTION
+-----------------------------------------------------------------
+Lines with text: 23639 (100.00%)
+Lines without text: 0 (0.00%)
+Lines with confidence: 23639 (100.00%)
+Lines without confidence: 0 (0.00%)
+
+CONFIDENCE EXTRACTION SOURCE
+-----------------------------------------------------------------
+average_of_word_confidences: 23639
+
+MATCH STATUS
+-----------------------------------------------------------------
+matched: 22882 (96.80%)
+ambiguous: 0 (0.00%)
+low_overlap: 144 (0.61%)
+unmatched: 613 (2.59%)
+
+ENTITY DISTRIBUTION OF CONFIDENT MATCHES
+-----------------------------------------------------------------
+positions: 8785
+other: 5351
+receiver: 2794
+supplier: 2636
+invoice_info: 2080
+total: 1236
+
+MATCHING SETTINGS
+-----------------------------------------------------------------
+Minimum OCR line coverage: 0.5
+Minimum coverage margin: 0.1
+Geometry: axis-aligned bounding-box approximation
+Text: direct TextLine TextEquiv or reconstructed from Word Unicode
+Word confidence: arithmetic mean when line confidence is unavailable
+
+IMPORTANT LIMITATIONS
+-----------------------------------------------------------------
+Spatial matching does not prove OCR text correctness.
+Bounding boxes approximate the original polygons.
+Word-average confidence is not an original engine line confidence.
+OCR predictions must be checked against original images.
+GT semantic labels are not verified text transcriptions.

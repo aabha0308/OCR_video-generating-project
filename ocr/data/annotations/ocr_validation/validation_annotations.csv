@@ -1,0 +1,25 @@
+﻿document_id,ocr_line_id,predicted_text,ground_truth_text,validation_status,matched_entity,match_status,ocr_line_confidence,reviewer_notes
+0000223278,Page1_Block1_l1,r>,,non_text,,unmatched,0.165,Appears to be stray marks rather than meaningful text. Confirm against the original image before final approval.
+0000223278,Page1_Block5_l1,B AT (U.K. and EXPORT) limited,B.A.T (U.K. AND EXPORT) LIMITED,minor_error,supplier,matched,0.494317,"Punctuation, capitalization and spacing corrected."
+0000223278,Page1_Block5_l2,Export House Woking Surrey GU211YB England,Export House Woking Surrey GU21 1YB England,minor_error,supplier,matched,0.437825,Corrected spacing in postcode.
+0000223278,Page1_Block6_l1,"Brown & Williamson International Tobacco,","Brown & Williamson International Tobacco,",correct,receiver,matched,0.469915,OCR text visually verified.
+0000223278,Page1_Block6_l2,"3000 First National Tower,",,pending,receiver,matched,0.475896,
+0000223278,Page1_Block6_l3,"101 South Fifth Street,",,pending,receiver,matched,0.434929,
+0000223278,Page1_Block6_l4,"Louisville, Kentucky 40202,",,pending,receiver,matched,0.474255,
+0000223278,Page1_Block6_l5,U.S.A.,,pending,receiver,matched,0.383333,
+0000223278,Page1_Block6_l6,Attention Mr. Gory Xhirschncr,Attention Mr. Gary Kirschner,major_error,receiver,matched,0.455542,Name corrected using the original image.
+0000223278,Page1_Block7_l1,Telephone Wokin* 76111,Telephone Woking 76111,minor_error,supplier,matched,0.291037,Corrected OCR character recognition in Woking.
+0000223278,Page1_Block7_l2,Telaeriphic Addreee Export Wokir.*,,pending,supplier,matched,0.321466,
+0000223278,Page1_Block7_l3,Telex &M101,,pending,supplier,matched,0.315,
+0000223278,Page1_Block7_l4,VAT Reg. No. 239136S to,,pending,supplier,matched,0.352738,
+0000223278,Page1_Block9_l1,Invoice No..,,pending,invoice_info,matched,0.465536,
+0000223278,Page1_Block10_l1,N I8l6,,pending,invoice_info,matched,0.33625,
+0000223278,Page1_Block11_l1,Date (Tax Point).,,pending,invoice_info,matched,0.25381,
+0000223278,Page1_Block12_l1,26.5.02,,pending,invoice_info,matched,0.398571,
+0000223278,Page1_Block13_l1,By debit in respect of:-,,pending,positions,matched,0.382014,
+0000223278,Page1_Block13_l2,'llalf of Counter Deal charges,,pending,positions,matched,0.516405,
+0000223278,Page1_Block13_l3,in 1981 in excess of your earlier,,pending,positions,matched,0.37631,
+0000223278,Page1_Block13_l4,estimate. Geoff Harper's telex,,pending,positions,matched,0.420389,
+0000223278,Page1_Block13_l5,of 25/5/82 refers*.,,pending,positions,matched,0.587679,
+0000223278,Page1_Block13_l6,@ 1.80,,pending,total,matched,0.315,
+0000223278,Page1_Block16_l1,"US#13,600.00",,pending,positions,matched,0.4275,
