@@ -1,0 +1,60 @@
+﻿source_file,document_id,ocr_line_id,predicted_text,ground_truth_text,validation_status,matched_entity,match_status,ocr_line_confidence,reviewer_notes
+document_0000223278_review.csv,0000223278,Page1_Block1_l1,r>,,non_text,,unmatched,0.165,Appears to be stray marks rather than meaningful text. Confirm against the original image before final approval.
+document_0000223278_review.csv,0000223278,Page1_Block5_l1,B AT (U.K. and EXPORT) limited,B.A.T (U.K. AND EXPORT) LIMITED,minor_error,supplier,matched,0.494317,"Punctuation, capitalization and spacing corrected."
+document_0000223278_review.csv,0000223278,Page1_Block5_l2,Export House Woking Surrey GU211YB England,Export House Woking Surrey GU21 1YB England,minor_error,supplier,matched,0.437825,Corrected spacing in postcode.
+document_0000223278_review.csv,0000223278,Page1_Block6_l1,"Brown & Williamson International Tobacco,","Brown & Williamson International Tobacco,",correct,receiver,matched,0.469915,OCR text visually verified.
+document_0000223278_review.csv,0000223278,Page1_Block6_l2,"3000 First National Tower,","3000 First National Tower,",correct,receiver,matched,0.475896,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block6_l3,"101 South Fifth Street,","101 South Fifth Street,",correct,receiver,matched,0.434929,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block6_l4,"Louisville, Kentucky 40202,","Louisville, Kentucky 40202,",correct,receiver,matched,0.474255,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block6_l5,U.S.A.,U.S.A.,correct,receiver,matched,0.383333,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block6_l6,Attention Mr. Gory Xhirschncr,Attention Mr. Gary Kirschner,major_error,receiver,matched,0.455542,Name corrected using the original image.
+document_0000223278_review.csv,0000223278,Page1_Block7_l1,Telephone Wokin* 76111,Telephone Woking 76111,minor_error,supplier,matched,0.291037,Corrected OCR character recognition in Woking.
+document_0000223278_review.csv,0000223278,Page1_Block7_l2,Telaeriphic Addreee Export Wokir.*,Telegraphic Address Export Woking,major_error,supplier,matched,0.321466,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block7_l3,Telex &M101,Telex 8M101,minor_error,supplier,matched,0.315,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block7_l4,VAT Reg. No. 239136S to,VAT Reg. No. 239136S,minor_error,supplier,matched,0.352738,Transcribed from the invoice image; final VAT registration character should be checked.
+document_0000223278_review.csv,0000223278,Page1_Block9_l1,Invoice No..,Invoice No.,minor_error,invoice_info,matched,0.465536,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block10_l1,N I8l6,N. 1816,minor_error,invoice_info,matched,0.33625,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block11_l1,Date (Tax Point).,Date (Tax Point),minor_error,invoice_info,matched,0.25381,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block12_l1,26.5.02,26.5.82,minor_error,invoice_info,matched,0.398571,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block13_l1,By debit in respect of:-,By debit in respect of:-,correct,positions,matched,0.382014,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block13_l2,'llalf of Counter Deal charges,'Half of Counter Deal charges,minor_error,positions,matched,0.516405,Opening quotation mark retained as printed.
+document_0000223278_review.csv,0000223278,Page1_Block13_l3,in 1981 in excess of your earlier,in 1981 in excess of your earlier,correct,positions,matched,0.37631,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block13_l4,estimate. Geoff Harper's telex,estimate. Geoff Harper's telex,correct,positions,matched,0.420389,Transcribed by visual comparison with the original invoice.
+document_0000223278_review.csv,0000223278,Page1_Block13_l5,of 25/5/82 refers*.,of 25/5/82 refers'.,correct,positions,matched,0.587679,Closing quotation mark retained as printed.
+document_0000223278_review.csv,0000223278,Page1_Block13_l6,@ 1.80,£1.80,minor_error,total,matched,0.315,Visually transcribed as £1.80. OCR confused the pound symbol with @.
+document_0000223278_review.csv,0000223278,Page1_Block16_l1,"US#13,600.00","US$13,600.00",minor_error,positions,matched,0.4275,Transcribed by visual comparison with the original invoice.
+document_0011500947_review.csv,0011500947,Page1_Block1_l1,"A nalytic Insight, ic.","Analytic Insight, Inc.",minor_error,supplier,matched,0.800074,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block1_l2,^135 North Ailing ton Hc:|hu Rd . Suiie 510,"3255 North Arlington Heights Rd., Suite 510",major_error,supplier,matched,0.374426,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block1_l3,Ariinjioo Heights. IL 60004,"Arlington Heights, IL 60004",minor_error,supplier,matched,0.342917,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block1_l4,(701) 235-5311,(708) 255-5511,major_error,supplier,matched,0.345,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block2_l1,mm,INVOICE,major_error,other,matched,0.24,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block3_l1,DATE:,DATE:,correct,invoice_info,matched,0.686,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block4_l1,August 14.1995,"August 14, 1995",correct,invoice_info,matched,0.662857,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block6_l1,FROM:,FROM:,correct,supplier,matched,0.668,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block7_l1,Ms. Vicki Clark CC: Mr. Ed Gelson,Ms. Vicki Clark CC: Mr. Ed Gelson,correct,receiver,matched,0.794619,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block7_l2,Brown & Williamson Tobacco Corp.,Brown & Williamson Tobacco Corp.,correct,receiver,matched,0.736571,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block7_l3,Analytic Insight. Inc.,"Analytic Insight, Inc.",correct,supplier,matched,0.677917,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block8_l1,"AMOUNT DUE: $11,780.63","AMOUNT DUE: $11,780.63",correct,total,matched,0.594167,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l1,PROJECT: Lucky Strike Competitive Research,PROJECT: Lucky Strike Competitive Research,correct,invoice_info,matched,0.75082,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l2,(New York and Louisville),(New York and Louisville),correct,invoice_info,matched,0.684242,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l3,B&W Project No.: 1995-83D,B&W Project No.: 1995-83D,correct,invoice_info,matched,0.689211,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l4,Analytic Insight Project No.: 95-703,Analytic Insight Project No.: 95-703,correct,invoice_info,matched,0.735369,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l5,COMMENTS: This invoice represents the completion of the analysis,COMMENTS: This invoice represents the completion of the analysis,correct,other,matched,0.670526,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l6,and covers the last one-third of Analytic Insight’s,and covers the last one-third of Analytic Insight's,correct,other,matched,0.788733,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l7,"basic fee ($25,750) for this project plus the cost of","basic fee ($25,750) for this project plus the cost of",correct,other,matched,0.697442,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l8,"videotaping focus groups ($ 1,010.00 Jp/aj travel","videotaping focus groups ($1,010.00) plus travel",correct,other,matched,0.644839,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l9,expenses incurred by Analytic Insight moderators,expenses incurred by Analytic Insight moderators,correct,other,matched,0.695887,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block9_l10,"($2,187.29).","($2,187.29).",correct,other,matched,0.7525,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block10_l1,Expense reports and receipts are attached.,Expense reports and receipts are attached.,correct,other,matched,0.750691,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block11_l1,Vendor#,Vendor #,correct,other,matched,0.47,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block11_l2,Account#,Account #,correct,other,matched,0.5375,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block11_l3,Acct Desc.,Acct. Desc.,correct,other,matched,0.33925,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block11_l4,Dept#,Dept. #,correct,other,matched,0.45,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block11_l5,Product#,Product #,correct,other,matched,0.44375,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block13_l1,Thank you!,Thank you!,correct,other,matched,0.73625,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block16_l1,\€)>Q,1510,major_error,other,matched,0.188,Handwritten value visually transcribed as 1510.
+document_0011500947_review.csv,0011500947,Page1_Block17_l1,Account Vo.,Account No.,correct,other,matched,0.580476,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block17_l2,Pay Date,Pay Date,correct,other,matched,0.47375,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block19_l1,*prova),Approval,correct,other,matched,0.201429,Transcribed by visual comparison with the original invoice image.
+document_0011500947_review.csv,0011500947,Page1_Block19_l2,"i ^ ^ <, —-2 3",1995-83,major_error,other,matched,0.6575,Handwritten value visually transcribed as 1995-83.
+document_0011500947_review.csv,0011500947,Page1_Block21_l1,4657G1403,465761403,correct,other,matched,0.451111,Transcribed by visual comparison with the original invoice image.

@@ -1,36 +1,36 @@
 ﻿document_id,ocr_line_id,predicted_text,ground_truth_text,validation_status,matched_entity,match_status,ocr_line_confidence,reviewer_notes
-0011500947,Page1_Block1_l1,"A nalytic Insight, ic.",,pending,supplier,matched,0.800074,
-0011500947,Page1_Block1_l2,^135 North Ailing ton Hc:|hu Rd . Suiie 510,,pending,supplier,matched,0.374426,
-0011500947,Page1_Block1_l3,Ariinjioo Heights. IL 60004,,pending,supplier,matched,0.342917,
-0011500947,Page1_Block1_l4,(701) 235-5311,,pending,supplier,matched,0.345,
-0011500947,Page1_Block2_l1,mm,,pending,other,matched,0.24,
-0011500947,Page1_Block3_l1,DATE:,,pending,invoice_info,matched,0.686,
-0011500947,Page1_Block4_l1,August 14.1995,,pending,invoice_info,matched,0.662857,
-0011500947,Page1_Block6_l1,FROM:,,pending,supplier,matched,0.668,
-0011500947,Page1_Block7_l1,Ms. Vicki Clark CC: Mr. Ed Gelson,,pending,receiver,matched,0.794619,
-0011500947,Page1_Block7_l2,Brown & Williamson Tobacco Corp.,,pending,receiver,matched,0.736571,
-0011500947,Page1_Block7_l3,Analytic Insight. Inc.,,pending,supplier,matched,0.677917,
-0011500947,Page1_Block8_l1,"AMOUNT DUE: $11,780.63",,pending,total,matched,0.594167,
-0011500947,Page1_Block9_l1,PROJECT: Lucky Strike Competitive Research,,pending,invoice_info,matched,0.75082,
-0011500947,Page1_Block9_l2,(New York and Louisville),,pending,invoice_info,matched,0.684242,
-0011500947,Page1_Block9_l3,B&W Project No.: 1995-83D,,pending,invoice_info,matched,0.689211,
-0011500947,Page1_Block9_l4,Analytic Insight Project No.: 95-703,,pending,invoice_info,matched,0.735369,
-0011500947,Page1_Block9_l5,COMMENTS: This invoice represents the completion of the analysis,,pending,other,matched,0.670526,
-0011500947,Page1_Block9_l6,and covers the last one-third of Analytic Insight’s,,pending,other,matched,0.788733,
-0011500947,Page1_Block9_l7,"basic fee ($25,750) for this project plus the cost of",,pending,other,matched,0.697442,
-0011500947,Page1_Block9_l8,"videotaping focus groups ($ 1,010.00 Jp/aj travel",,pending,other,matched,0.644839,
-0011500947,Page1_Block9_l9,expenses incurred by Analytic Insight moderators,,pending,other,matched,0.695887,
-0011500947,Page1_Block9_l10,"($2,187.29).",,pending,other,matched,0.7525,
-0011500947,Page1_Block10_l1,Expense reports and receipts are attached.,,pending,other,matched,0.750691,
-0011500947,Page1_Block11_l1,Vendor#,,pending,other,matched,0.47,
-0011500947,Page1_Block11_l2,Account#,,pending,other,matched,0.5375,
-0011500947,Page1_Block11_l3,Acct Desc.,,pending,other,matched,0.33925,
-0011500947,Page1_Block11_l4,Dept#,,pending,other,matched,0.45,
-0011500947,Page1_Block11_l5,Product#,,pending,other,matched,0.44375,
-0011500947,Page1_Block13_l1,Thank you!,,pending,other,matched,0.73625,
-0011500947,Page1_Block16_l1,\€)>Q,,pending,other,matched,0.188,
-0011500947,Page1_Block17_l1,Account Vo.,,pending,other,matched,0.580476,
-0011500947,Page1_Block17_l2,Pay Date,,pending,other,matched,0.47375,
-0011500947,Page1_Block19_l1,*prova),,pending,other,matched,0.201429,
-0011500947,Page1_Block19_l2,"i ^ ^ <, —-2 3",,pending,other,matched,0.6575,
-0011500947,Page1_Block21_l1,4657G1403,,pending,other,matched,0.451111,
+0011500947,Page1_Block1_l1,"A nalytic Insight, ic.","Analytic Insight, Inc.",minor_error,supplier,matched,0.800074,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block1_l2,^135 North Ailing ton Hc:|hu Rd . Suiie 510,"3255 North Arlington Heights Rd., Suite 510",major_error,supplier,matched,0.374426,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block1_l3,Ariinjioo Heights. IL 60004,"Arlington Heights, IL 60004",minor_error,supplier,matched,0.342917,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block1_l4,(701) 235-5311,(708) 255-5511,major_error,supplier,matched,0.345,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block2_l1,mm,INVOICE,major_error,other,matched,0.24,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block3_l1,DATE:,DATE:,correct,invoice_info,matched,0.686,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block4_l1,August 14.1995,"August 14, 1995",correct,invoice_info,matched,0.662857,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block6_l1,FROM:,FROM:,correct,supplier,matched,0.668,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block7_l1,Ms. Vicki Clark CC: Mr. Ed Gelson,Ms. Vicki Clark CC: Mr. Ed Gelson,correct,receiver,matched,0.794619,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block7_l2,Brown & Williamson Tobacco Corp.,Brown & Williamson Tobacco Corp.,correct,receiver,matched,0.736571,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block7_l3,Analytic Insight. Inc.,"Analytic Insight, Inc.",correct,supplier,matched,0.677917,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block8_l1,"AMOUNT DUE: $11,780.63","AMOUNT DUE: $11,780.63",correct,total,matched,0.594167,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l1,PROJECT: Lucky Strike Competitive Research,PROJECT: Lucky Strike Competitive Research,correct,invoice_info,matched,0.75082,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l2,(New York and Louisville),(New York and Louisville),correct,invoice_info,matched,0.684242,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l3,B&W Project No.: 1995-83D,B&W Project No.: 1995-83D,correct,invoice_info,matched,0.689211,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l4,Analytic Insight Project No.: 95-703,Analytic Insight Project No.: 95-703,correct,invoice_info,matched,0.735369,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l5,COMMENTS: This invoice represents the completion of the analysis,COMMENTS: This invoice represents the completion of the analysis,correct,other,matched,0.670526,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l6,and covers the last one-third of Analytic Insight’s,and covers the last one-third of Analytic Insight's,correct,other,matched,0.788733,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l7,"basic fee ($25,750) for this project plus the cost of","basic fee ($25,750) for this project plus the cost of",correct,other,matched,0.697442,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l8,"videotaping focus groups ($ 1,010.00 Jp/aj travel","videotaping focus groups ($1,010.00) plus travel",correct,other,matched,0.644839,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l9,expenses incurred by Analytic Insight moderators,expenses incurred by Analytic Insight moderators,correct,other,matched,0.695887,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block9_l10,"($2,187.29).","($2,187.29).",correct,other,matched,0.7525,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block10_l1,Expense reports and receipts are attached.,Expense reports and receipts are attached.,correct,other,matched,0.750691,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block11_l1,Vendor#,Vendor #,correct,other,matched,0.47,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block11_l2,Account#,Account #,correct,other,matched,0.5375,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block11_l3,Acct Desc.,Acct. Desc.,correct,other,matched,0.33925,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block11_l4,Dept#,Dept. #,correct,other,matched,0.45,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block11_l5,Product#,Product #,correct,other,matched,0.44375,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block13_l1,Thank you!,Thank you!,correct,other,matched,0.73625,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block16_l1,\€)>Q,1510,major_error,other,matched,0.188,Handwritten value visually transcribed as 1510.
+0011500947,Page1_Block17_l1,Account Vo.,Account No.,correct,other,matched,0.580476,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block17_l2,Pay Date,Pay Date,correct,other,matched,0.47375,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block19_l1,*prova),Approval,correct,other,matched,0.201429,Transcribed by visual comparison with the original invoice image.
+0011500947,Page1_Block19_l2,"i ^ ^ <, —-2 3",1995-83,major_error,other,matched,0.6575,Handwritten value visually transcribed as 1995-83.
+0011500947,Page1_Block21_l1,4657G1403,465761403,correct,other,matched,0.451111,Transcribed by visual comparison with the original invoice image.

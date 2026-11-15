@@ -5,7 +5,9 @@ Total rows: 35
 
 ANNOTATION STATUS COUNTS
 -----------------------------------------------------------------
-pending: 35
+correct: 28
+major_error: 5
+minor_error: 2
 
 Errors: 0
 Warnings: 0

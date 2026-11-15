@@ -1,0 +1,42 @@
+OCR ANNOTATION CONSOLIDATION REPORT
+=================================================================
+
+Total reviewed records: 59
+Training-ready text records: 58
+Excluded non-text/unreadable records: 1
+
+STATUS COUNTS
+-----------------------------------------------------------------
+correct: 37
+major_error: 7
+minor_error: 14
+non_text: 1
+pending: 0
+unreadable: 0
+
+DOCUMENT-WISE COUNTS
+-----------------------------------------------------------------
+Document: 0000223278
+Total records: 24
+  correct: 9
+  major_error: 2
+  minor_error: 12
+  non_text: 1
+
+Document: 0011500947
+Total records: 35
+  correct: 28
+  major_error: 5
+  minor_error: 2
+
+OUTPUT FILES
+-----------------------------------------------------------------
+all_review_annotations.csv
+training_ready_transcriptions.csv
+
+DATASET LIMITATIONS
+-----------------------------------------------------------------
+This is a small pilot annotation dataset containing only two documents.
+It is not sufficient for final model training or performance claims.
+Ground truth has been visually reviewed but has not undergone independent second-review verification.
+Future train/validation/test splits must be performed at document level to prevent line leakage.

@@ -5,11 +5,10 @@ Total rows: 24
 
 ANNOTATION STATUS COUNTS
 -----------------------------------------------------------------
-correct: 1
-major_error: 1
-minor_error: 3
+correct: 9
+major_error: 2
+minor_error: 12
 non_text: 1
-pending: 18
 
 Errors: 0
 Warnings: 0
