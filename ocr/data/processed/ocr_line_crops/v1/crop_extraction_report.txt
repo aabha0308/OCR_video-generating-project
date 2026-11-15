@@ -1,0 +1,19 @@
+OCR LINE-CROP EXTRACTION REPORT
+=======================================================
+
+Annotation records: 58
+Audit records: 23639
+Extracted crops: 58
+Unique documents: 2
+Padding: 3 pixels
+
+Annotation status counts:
+  correct: 37
+  major_error: 7
+  minor_error: 14
+
+Limitations:
+- Crops use OCR-generated bounding boxes.
+- Bounding boxes have not all been independently verified.
+- Ground-truth text comes from human-reviewed annotations.
+- This pilot dataset is too small for final training claims.
