@@ -17,29 +17,29 @@ except ImportError:
     sys.exit(1)
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[3]
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 ANNOTATIONS_FILE = (
     PROJECT_ROOT
-    / "ocr/data/processed/annotations/v1/training_ready_transcriptions.csv"
+    / "data/processed/annotations/v1/training_ready_transcriptions.csv"
 )
 
 AUDIT_FILE = (
     PROJECT_ROOT
-    / "ocr/reports/day16_gt_ocr_line_mapping_audit.csv"
+    / "reports/day16_gt_ocr_line_mapping_audit.csv"
 )
 
 RAW_IMAGE_DIR = (
     PROJECT_ROOT
-    / "ocr/data/raw/invoices/archive/ImageAndXML_Data"
+    / "data/raw/invoices/archive/ImageAndXML_Data"
 )
 
-OUTPUT_DIR = (
-    PROJECT_ROOT
-    / "ocr/data/processed/ocr_line_crops/v1"
-)
+OUTPUT_DIR = PROJECT_ROOT / "data" / "processed" / "ocr_line_crops" / "v3"
 
-PADDING = 3
+PADDING = 1
+
+TEMP_PREFIX = "ocr_crops_v3_"
 
 OUTPUT_COLUMNS = [
     "document_id",
@@ -238,7 +238,7 @@ def main():
 
     temp_dir = Path(
         tempfile.mkdtemp(
-            prefix="ocr_crops_v1_",
+            prefix="ocr_crops_v3_",
             dir=OUTPUT_DIR.parent,
         )
     )

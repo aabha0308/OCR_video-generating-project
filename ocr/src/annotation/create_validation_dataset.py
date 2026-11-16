@@ -89,7 +89,7 @@ def parse_arguments():
 
 
 def validate_document_id(document_id):
-    if not re.fullmatch(r"[A-Za-z0-9_-]+", document_id):
+    if not re.fullmatch(r"[A-Za-z0-9_+-]+", document_id):
         raise ValueError(
             "Document ID may contain only letters, numbers, "
             "underscores and hyphens."

@@ -7,17 +7,13 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[3]
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-DATASET_DIR = (
-    PROJECT_ROOT / "ocr/data/processed/ocr_line_crops/v1"
-)
+DATASET_DIR = PROJECT_ROOT / "data" / "processed" / "ocr_line_crops" / "v3"
+
+OUTPUT_DIR = PROJECT_ROOT / "reports" / "annotation" / "crop_quality_review" / "v3"
 
 METADATA_FILE = DATASET_DIR / "line_crop_dataset.csv"
-
-OUTPUT_DIR = (
-    PROJECT_ROOT / "ocr/reports/annotation/crop_quality_review/v1"
-)
 
 COLUMNS = 2
 ROWS_PER_SHEET = 4
