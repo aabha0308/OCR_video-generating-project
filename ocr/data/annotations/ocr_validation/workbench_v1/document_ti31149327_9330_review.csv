@@ -1,5 +1,5 @@
 ﻿document_id,ocr_line_id,predicted_text,ground_truth_text,validation_status,matched_entity,match_status,ocr_line_confidence,reviewer_notes
-ti31149327_9330,Page1_Block1_l1,Riggs,,pending,supplier,matched,0.922,
+ti31149327_9330,Page1_Block1_l1,Riggs,RIGGS,minor_error,supplier,matched,0.922,
 ti31149327_9330,Page1_Block2_l1,Statement,,pending,supplier,matched,0.64,
 ti31149327_9330,Page1_Block3_l1,0,,pending,receiver,matched,0.26,
 ti31149327_9330,Page1_Block4_l1,THE TOBACCO INST INC,,pending,receiver,matched,0.478036,
