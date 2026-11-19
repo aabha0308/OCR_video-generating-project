@@ -1,0 +1,752 @@
+﻿document_id,ocr_line_id,image_path,image_width,image_height,x1,y1,x2,y2,ground_truth_text,predicted_text,validation_status,matched_entity,ocr_line_confidence
+2061828225,Page1_Block1_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,265.0,756.0,524.0,766.0,I D E N T I A L,I D E N T I A L,correct,other,0.77375
+2061828225,Page1_Block2_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,114.0,755.0,235.0,766.0,C O N F,C O N F,correct,other,0.6925
+2061828225,Page1_Block5_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,110.0,0.0,338.0,10.0,CONFIDE,CONFIDE,correct,other,0.76
+2061828225,Page1_Block6_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,368.0,0.0,520.0,10.0,N T I A L,N T I A L,correct,other,0.734
+2061828225,Page1_Block7_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,80.0,26.0,168.0,33.0,•DETAIL SUMMARY,•DETAIL SUMMARY,correct,supplier,0.343571
+2061828225,Page1_Block7_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,87.0,69.0,341.0,78.0,PHONE 302-325-7025 DISCH DATE 04/19/94,PHONE 302-325-7025 DISCH DATE 04/19/94,correct,supplier,0.4599
+2061828225,Page1_Block8_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,379.0,37.0,431.0,44.0,BILL DATE,BILL DATE,correct,invoice_info,0.17375
+2061828225,Page1_Block8_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,378.0,47.0,425.0,56.0,04/25/94,04/25/94,correct,invoice_info,0.3725
+2061828225,Page1_Block9_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,480.0,26.0,531.0,33.0,PAGE 001,PAGE 001,correct,invoice_info,0.145833
+2061828225,Page1_Block9_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,480.0,48.0,555.0,55.0,15408162 001,15408162 001,correct,invoice_info,0.389792
+2061828225,Page1_Block9_l4,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,492.0,70.0,544.0,77.0,BILL TYPE,BILL TYPE,correct,invoice_info,0.4225
+2061828225,Page1_Block9_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,515.0,81.0,521.0,88.0,O,O,correct,invoice_info,0.15
+2061828225,Page1_Block10_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,87.0,115.0,430.0,124.0,"BUTLER, PAUL CO/PLAN INSURANCE CO.","BUTLER, PAUL CO/PLAN INSURANCE CO.",correct,invoice_info,0.552262
+2061828225,Page1_Block10_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,296.0,127.0,437.0,134.0,30 003 BLUE CROSS 070,30 003 BLUE CROSS 070,correct,invoice_info,0.528533
+2061828225,Page1_Block10_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,295.0,138.0,329.0,145.0,01 001,01 001,correct,invoice_info,0.34
+2061828225,Page1_Block10_l4,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,134.0,159.0,264.0,168.0,GUARANTOR NAME/ADDRESS,GUARANTOR NAME/ADDRESS,correct,receiver,0.618056
+2061828225,Page1_Block10_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,87.0,171.0,157.0,178.0,"BUTLER, PAUL","BUTLER, PAUL",correct,receiver,0.547321
+2061828225,Page1_Block10_l6,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,87.0,181.0,198.0,190.0,POB 351/20 EAST 4TH,POB 351/20 EAST 4TH,correct,receiver,0.442083
+2061828225,Page1_Block11_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,462.0,115.0,556.0,123.0,POLICY NO. COB,POLICY NO. COB,correct,invoice_info,0.426111
+2061828225,Page1_Block11_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,462.0,127.0,555.0,134.0,XHA0462456196 1,XHA0462456196 1,correct,invoice_info,0.442308
+2061828225,Page1_Block11_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,552.0,148.0,556.0,155.0,3,3,correct,invoice_info,1.0
+2061828225,Page1_Block11_l6,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,551.0,160.0,556.0,166.0,4,4,correct,invoice_info,0.0
+2061828225,Page1_Block14_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,271.0,238.0,306.0,245.0,TOTALS,TOTALS,correct,positions,0.291667
+2061828225,Page1_Block15_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,314.0,238.0,353.0,245.0,PAYOR 1,PAYOR 1,correct,positions,0.347
+2061828225,Page1_Block16_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,379.0,238.0,419.0,245.0,PAYOR 2,PAYOP 2,correct,positions,0.256
+2061828225,Page1_Block17_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,445.0,238.0,485.0,244.0,PAYOR 3,PAYOR 3,correct,positions,0.371
+2061828225,Page1_Block18_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,504.0,238.0,544.0,244.0,PATIENT,PATIENT,correct,positions,0.282857
+2061828225,Page1_Block19_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,249.0,198.0,256.0,120 ROOM-BOARD-SEMI,120 ROOM-BOARD-SEMI,correct,positions,0.508333
+2061828225,Page1_Block20_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,266.0,249.0,306.0,256.0,5100.00,5100.00,correct,positions,0.601429
+2061828225,Page1_Block21_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,326.0,249.0,366.0,256.0,5100.00,5100.00,correct,positions,0.442857
+2061828225,Page1_Block22_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,410.0,249.0,425.0,256.0,.00,.00,correct,positions,0.806667
+2061828225,Page1_Block23_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,469.0,249.0,485.0,255.0,.00,.00,correct,positions,0.743333
+2061828225,Page1_Block24_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,529.0,249.0,544.0,255.0,.00,.00,correct,positions,0.41
+2061828225,Page1_Block25_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,87.0,259.0,181.0,267.0,201 ICU-SURGICAL,201 ICU-SURGICAL,correct,positions,0.609583
+2061828225,Page1_Block26_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,266.0,260.0,306.0,267.0,1465.00,1465.00,correct,positions,0.467143
+2061828225,Page1_Block27_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,326.0,260.0,366.0,267.0,1465.00,1465.00,correct,positions,0.605714
+2061828225,Page1_Block28_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,410.0,260.0,425.0,267.0,.00,.00,correct,positions,0.703333
+2061828225,Page1_Block29_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,260.0,485.0,266.0,.00,.00,correct,positions,0.49
+2061828225,Page1_Block30_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,529.0,260.0,544.0,266.0,.00,.00,correct,positions,0.486667
+2061828225,Page1_Block31_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,271.0,157.0,278.0,250 PHARMACY,250 PHARMACY,correct,positions,0.350208
+2061828225,Page1_Block32_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,272.0,271.0,306.0,278.0,664.20,664.20,correct,positions,0.64
+2061828225,Page1_Block33_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,331.0,270.0,366.0,278.0,664.20,664.20,correct,positions,0.555
+2061828225,Page1_Block34_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,410.0,271.0,425.0,278.0,.00,.00,correct,positions,0.603333
+2061828225,Page1_Block35_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,271.0,485.0,277.0,.00,.00,correct,positions,0.4
+2061828225,Page1_Block36_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,529.0,270.0,544.0,277.0,.00,.00,correct,positions,0.53
+2061828225,Page1_Block37_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,282.0,181.0,289.0,258 IV SOLUTIONS,258 IV SOLUTIONS,correct,positions,0.565741
+2061828225,Page1_Block38_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,272.0,282.0,306.0,289.0,297.65,297.65,correct,positions,0.503333
+2061828225,Page1_Block39_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,281.0,366.0,289.0,297.65,297.65,correct,positions,0.376667
+2061828225,Page1_Block40_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,410.0,282.0,425.0,289.0,.00,.00,correct,positions,0.57
+2061828225,Page1_Block41_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,282.0,485.0,289.0,.00,.00,correct,positions,0.766667
+2061828225,Page1_Block42_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,529.0,282.0,544.0,289.0,.00,.00,correct,positions,0.673333
+2061828225,Page1_Block43_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,293.0,169.0,300.0,260 IV THERAPY,260 IV THERAPY,correct,positions,0.495397
+2061828225,Page1_Block44_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,278.0,293.0,306.0,300.0,67.00,67.00,correct,positions,0.308
+2061828225,Page1_Block45_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,337.0,293.0,366.0,300.0,67.00,67.00,correct,positions,0.588
+2061828225,Page1_Block46_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,410.0,293.0,425.0,300.0,.00,.00,correct,positions,0.456667
+2061828225,Page1_Block47_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,293.0,485.0,300.0,.00,.00,correct,positions,0.653333
+2061828225,Page1_Block48_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,529.0,292.0,544.0,299.0,.00,.00,correct,positions,0.51
+2061828225,Page1_Block49_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,304.0,205.0,311.0,270 MED-SUR SUPPLIES,270 MED-SUR SUPPLIES,correct,positions,0.468671
+2061828225,Page1_Block50_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,266.0,304.0,307.0,311.0,2039.05,2039.05,correct,positions,0.42
+2061828225,Page1_Block51_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,326.0,304.0,366.0,311.0,2039.05,2039.05,correct,positions,0.5
+2061828225,Page1_Block52_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,410.0,304.0,425.0,311.0,.00,.00,correct,positions,0.463333
+2061828225,Page1_Block53_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,304.0,485.0,311.0,.00,.00,correct,positions,0.803333
+2061828225,Page1_Block54_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,529.0,303.0,544.0,310.0,.00,.00,correct,positions,0.55
+2061828225,Page1_Block55_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,315.0,222.0,322.0,300 LABORATORY OR (LAB),300 LABORATORY OR (LAB),correct,positions,0.370833
+2061828225,Page1_Block56_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,278.0,315.0,306.0,322.0,45.00,45.00,correct,positions,0.616
+2061828225,Page1_Block57_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,338.0,315.0,366.0,322.0,45.00,45.00,correct,positions,0.588
+2061828225,Page1_Block58_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,315.0,426.0,322.0,.00,.00,correct,positions,0.56
+2061828225,Page1_Block59_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,315.0,485.0,322.0,.00,.00,correct,positions,0.573333
+2061828225,Page1_Block60_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,315.0,544.0,321.0,.CO,.CO,correct,positions,0.653333
+2061828225,Page1_Block61_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,326.0,187.0,333.0,301 LAB-CHEMISTRY,301 LAB-CHEMISTRY,correct,positions,0.349487
+2061828225,Page1_Block62_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,272.0,326.0,306.0,333.0,677.00,677.00,correct,positions,0.33
+2061828225,Page1_Block63_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,326.0,366.0,334.0,677.00,677.00,correct,positions,0.568333
+2061828225,Page1_Block64_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,326.0,426.0,333.0,.00,.00,correct,positions,0.533333
+2061828225,Page1_Block65_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,326.0,485.0,333.0,.00,.00,correct,positions,0.61
+2061828225,Page1_Block66_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,326.0,545.0,333.0,.00,.00,correct,positions,0.363333
+2061828225,Page1_Block67_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,337.0,193.0,344.0,302 LAB-IMMUNOLOGY,302 LAB-IMMUNOLOGY,correct,positions,0.503095
+2061828225,Page1_Block68_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,272.0,337.0,307.0,345.0,222.00,222.00,correct,positions,0.74
+2061828225,Page1_Block69_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,337.0,366.0,345.0,222.00,222.00,correct,positions,0.681667
+2061828225,Page1_Block71_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,337.0,485.0,344.0,.00,.00,correct,positions,0.543333
+2061828225,Page1_Block72_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,337.0,545.0,344.0,.00,.00,correct,positions,0.51
+2061828225,Page1_Block73_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,348.0,193.0,356.0,305 LAB-HEMATOLOGY,305 LAB-HEMATOLOGY,correct,positions,0.462262
+2061828225,Page1_Block74_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,273.0,349.0,307.0,356.0,318.00,318.00,correct,positions,0.398333
+2061828225,Page1_Block75_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,349.0,366.0,356.0,318.00,318.00,correct,positions,0.456667
+2061828225,Page1_Block76_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,349.0,426.0,356.0,.00,.CO,correct,positions,0.513333
+2061828225,Page1_Block77_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,349.0,485.0,356.0,.00,.00,correct,positions,0.67
+2061828225,Page1_Block78_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,349.0,545.0,356.0,.00,.00,correct,positions,0.356667
+2061828225,Page1_Block81_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,360.0,366.0,367.0,322.00,322.00,correct,positions,0.705
+2061828225,Page1_Block82_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,360.0,426.0,367.0,.00,.00,correct,positions,0.896667
+2061828225,Page1_Block83_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,360.0,485.0,367.0,.00,.00,correct,positions,0.453333
+2061828225,Page1_Block84_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,360.0,545.0,367.0,.00,.00,correct,positions,1.0
+2061828225,Page1_Block85_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,371.0,188.0,378.0,310 PATHOLOGY LAB,310 PATHOLOGY LAB,correct,positions,0.505926
+2061828225,Page1_Block86_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,273.0,371.0,307.0,378.0,354.00,354.00,correct,positions,0.61
+2061828225,Page1_Block87_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,371.0,366.0,379.0,354.00,354.00,correct,positions,0.666667
+2061828225,Page1_Block88_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,371.0,426.0,378.0,.00,.00,correct,positions,0.49
+2061828225,Page1_Block89_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,371.0,486.0,378.0,.00,.00,correct,positions,0.546667
+2061828225,Page1_Block90_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,371.0,545.0,378.0,.00,.00,correct,positions,0.423333
+2061828225,Page1_Block91_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,382.0,157.0,389.0,320 DX X-RAY,320 DX X-RAY,correct,positions,0.490222
+2061828225,Page1_Block92_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,273.0,382.0,307.0,390.0,316.50,316.50,correct,positions,0.488333
+2061828225,Page1_Block93_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,382.0,366.0,390.0,316.50,316.50,correct,positions,0.516667
+2061828225,Page1_Block94_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,382.0,426.0,389.0,.00,.00,correct,positions,0.526667
+2061828225,Page1_Block95_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,382.0,486.0,389.0,.00,.00,correct,positions,0.436667
+2061828225,Page1_Block96_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,529.0,382.0,545.0,389.0,.00,.00,correct,positions,0.63
+2061828225,Page1_Block97_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,393.0,194.0,400.0,324 DX X-RAY-CHEST,324 DX X-RAY-CHEST,correct,positions,0.406616
+2061828225,Page1_Block98_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,278.0,394.0,307.0,401.0,65.50,65.50,correct,positions,0.5
+2061828225,Page1_Block99_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,338.0,394.0,366.0,401.0,65.50,65.50,correct,positions,0.51
+2061828225,Page1_Block100_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,393.0,426.0,400.0,.00,.00,correct,positions,0.486667
+2061828225,Page1_Block101_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,393.0,485.0,400.0,.00,.00,correct,positions,0.463333
+2061828225,Page1_Block102_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,393.0,545.0,400.0,.00,.00,correct,positions,0.523333
+2061828225,Page1_Block103_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,404.0,176.0,411.0,360 OR SERVICES,360 OR SERVICES,correct,positions,0.391528
+2061828225,Page1_Block104_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,267.0,404.0,307.0,412.0,6187.50,6187.50,correct,positions,0.402857
+2061828225,Page1_Block105_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,326.0,405.0,367.0,412.0,6187.50,6187.50,correct,positions,0.518571
+2061828225,Page1_Block106_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,404.0,426.0,411.0,.00,.00,correct,positions,0.526667
+2061828225,Page1_Block107_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,404.0,485.0,411.0,.00,.00,correct,positions,0.473333
+2061828225,Page1_Block108_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,405.0,545.0,411.0,.00,.00,correct,positions,0.75
+2061828225,Page1_Block109_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,415.0,170.0,422.0,370 ANESTHESIA,370 ANESTHESIA,correct,positions,0.5485
+2061828225,Page1_Block110_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,272.0,415.0,307.0,423.0,756.00,756.00,correct,positions,0.623333
+2061828225,Page1_Block111_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,332.0,416.0,367.0,423.0,756.00,756.00,correct,positions,0.618333
+2061828225,Page1_Block112_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,415.0,426.0,422.0,.00,.00,correct,positions,0.51
+2061828225,Page1_Block113_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,415.0,485.0,422.0,.00,.00,correct,positions,0.603333
+2061828225,Page1_Block114_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,416.0,545.0,422.0,.00,.00,correct,positions,0.406667
+2061828225,Page1_Block115_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,426.0,200.0,433.0,410 RESPIRATORY SVC,410 RESPIRATORY SVC,correct,positions,0.50101
+2061828225,Page1_Block116_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,267.0,427.0,307.0,434.0,2200.00,2200.00,correct,positions,0.621429
+2061828225,Page1_Block117_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,326.0,427.0,367.0,434.0,2200.00,2200.00,correct,positions,0.485714
+2061828225,Page1_Block118_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,427.0,426.0,433.0,.00,.00,correct,positions,0.65
+2061828225,Page1_Block119_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,427.0,485.0,434.0,.00,.00,correct,positions,0.743333
+2061828225,Page1_Block121_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,437.0,188.0,444.0,440 SPEECH PATHOL,440 SPEECH PATHOL,correct,positions,0.441111
+2061828225,Page1_Block122_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,273.0,438.0,307.0,445.0,311.00,311.00,correct,positions,0.763333
+2061828225,Page1_Block123_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,333.0,438.0,367.0,445.0,311.00,311.00,correct,positions,0.505
+2061828225,Page1_Block124_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,438.0,426.0,444.0,.00,.00,correct,positions,0.566667
+2061828225,Page1_Block125_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,438.0,488.0,445.0,.00.,.00.,correct,positions,0.705
+2061828225,Page1_Block126_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,438.0,545.0,445.0,.00,.00,correct,positions,0.466667
+2061828225,Page1_Block127_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,449.0,206.0,456.0,444 SPEECH PATH-EVAL,444 SPEECH PATH-EVAL,correct,positions,0.402963
+2061828225,Page1_Block128_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,273.0,449.0,307.0,456.0,193.00,193.00,correct,positions,0.601667
+2061828225,Page1_Block129_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,333.0,449.0,367.0,456.0,193.00,193.00,correct,positions,0.363333
+2061828225,Page1_Block130_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,449.0,426.0,456.0,.00,.00,correct,positions,0.753333
+2061828225,Page1_Block131_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,470.0,449.0,486.0,456.0,.00,.00,correct,positions,0.456667
+2061828225,Page1_Block132_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,449.0,545.0,456.0,.00,.00,correct,positions,0.553333
+2061828225,Page1_Block133_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,460.0,170.0,467.0,480 CARDIOLOGY,480 CARDIOLOGY,correct,positions,0.426167
+2061828225,Page1_Block134_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,278.0,460.0,307.0,467.0,66.50,66.50,correct,positions,0.584
+2061828225,Page1_Block135_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,338.0,460.0,367.0,468.0,66.50,66.50,correct,positions,0.476
+2061828225,Page1_Block136_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,460.0,426.0,467.0,.00,.00,correct,positions,0.53
+2061828225,Page1_Block137_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,460.0,486.0,467.0,.00,.00,correct,positions,0.543333
+2061828225,Page1_Block138_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,460.0,545.0,467.0,.00,.00,correct,positions,0.773333
+2061828225,Page1_Block139_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,471.0,188.0,478.0,710 RECOVERY ROOM,710 RECOVERY ROOM,correct,positions,0.442917
+2061828225,Page1_Block140_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,273.0,471.0,307.0,479.0,382.00,382.00,correct,positions,0.615
+2061828225,Page1_Block141_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,333.0,471.0,367.0,478.0,382.00,382.00,correct,positions,0.576667
+2061828225,Page1_Block142_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,471.0,426.0,478.0,.00,.00,correct,positions,0.366667
+2061828225,Page1_Block143_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,471.0,486.0,478.0,.00,.00,correct,positions,0.393333
+2061828225,Page1_Block144_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,471.0,545.0,478.0,.00,.00,correct,positions,0.353333
+2061828225,Page1_Block145_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,88.0,482.0,182.0,489.0,920 OTHER DX SVS,920 OTHER DX SVS,correct,positions,0.54925
+2061828225,Page1_Block146_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,274.0,483.0,307.0,490.0,139.50,139.50,correct,positions,0.513333
+2061828225,Page1_Block147_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,333.0,483.0,367.0,490.0,139.50,139.50,correct,positions,0.345
+2061828225,Page1_Block148_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,483.0,426.0,489.0,.00,.00,correct,positions,0.436667
+2061828225,Page1_Block149_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,483.0,486.0,489.0,.00,.00,correct,positions,0.8
+2061828225,Page1_Block150_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,483.0,545.0,489.0,.00,.00,correct,positions,0.513333
+2061828225,Page1_Block154_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,537.0,177.0,544.0,BALANCE FORWARD,BALANCE FORWARD,correct,positions,0.365714
+2061828225,Page1_Block155_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,293.0,538.0,308.0,545.0,.00,.00,correct,positions,0.446667
+2061828225,Page1_Block156_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,352.0,537.0,367.0,545.0,.00,.00,correct,positions,0.68
+2061828225,Page1_Block157_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,537.0,427.0,544.0,.00,.00,correct,positions,0.506667
+2061828225,Page1_Block158_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,537.0,486.0,544.0,.00,.00,correct,positions,0.503333
+2061828225,Page1_Block159_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,530.0,537.0,546.0,544.0,.00,.00,correct,positions,0.676667
+2061828225,Page1_Block160_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,548.0,183.0,555.0,SUBTOTAL CHARGES,SUBTOTAL CHARGES,correct,positions,0.576964
+2061828225,Page1_Block161_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,262.0,549.0,308.0,556.0,22188.40,22188.40,correct,positions,0.505
+2061828225,Page1_Block162_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,321.0,548.0,367.0,556.0,22188.40,22188.40,correct,positions,0.34375
+2061828225,Page1_Block163_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,549.0,427.0,555.0,.00,.00,correct,positions,0.536667
+2061828225,Page1_Block164_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,548.0,486.0,555.0,.00,.00,correct,positions,0.553333
+2061828225,Page1_Block165_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,531.0,548.0,546.0,555.0,.00,.00,correct,positions,0.68
+2061828225,Page1_Block166_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,559.0,207.0,566.0,SUBTOTAL ADJUSTMENTS,SUBTOTAL ADJUSTMENTS,correct,positions,0.471534
+2061828225,Page1_Block167_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,292.0,560.0,308.0,567.0,.00,.00,correct,positions,0.75
+2061828225,Page1_Block168_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,352.0,560.0,367.0,567.0,.00,.00,correct,positions,0.743333
+2061828225,Page1_Block169_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,560.0,427.0,566.0,.00,.00,correct,positions,0.626667
+2061828225,Page1_Block170_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,559.0,486.0,566.0,.00,.00,correct,positions,0.49
+2061828225,Page1_Block172_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,570.0,189.0,577.0,SUBTOTAL PAYMENTS,SUBTOTAL PAYMENTS,correct,positions,0.45
+2061828225,Page1_Block173_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,293.0,571.0,308.0,578.0,.00,.00,correct,positions,0.85
+2061828225,Page1_Block174_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,352.0,570.0,367.0,577.0,.00,.00,correct,positions,0.603333
+2061828225,Page1_Block175_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,571.0,427.0,577.0,.00,.00,correct,positions,0.616667
+2061828225,Page1_Block178_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,90.0,581.0,237.0,588.0,LESS SUBTOTAL DEDUCTIBLES,LESS SUBTOTAL DEDUCTIBLES,correct,positions,0.549924
+2061828225,Page1_Block179_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,293.0,582.0,308.0,589.0,.00,.00,correct,positions,0.7
+2061828225,Page1_Block180_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,352.0,582.0,367.0,588.0,.00,.00,correct,positions,0.69
+2061828225,Page1_Block181_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,581.0,427.0,588.0,.00,.00,correct,positions,0.846667
+2061828225,Page1_Block182_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,581.0,487.0,588.0,.00,.00,correct,positions,0.42
+2061828225,Page1_Block183_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,531.0,581.0,546.0,588.0,.00,.00,correct,positions,0.58
+2061828225,Page1_Block184_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,592.0,176.0,599.0,SUBTOTAL P.P.D.,SUBTOTAL P.P.D.,correct,positions,0.473333
+2061828225,Page1_Block185_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,293.0,593.0,308.0,600.0,.00,.00,correct,positions,0.446667
+2061828225,Page1_Block186_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,352.0,593.0,368.0,599.0,.00,.00,correct,positions,0.943333
+2061828225,Page1_Block187_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,593.0,427.0,599.0,.00,.00,correct,positions,0.566667
+2061828225,Page1_Block188_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,471.0,592.0,487.0,599.0,.00,.00,correct,positions,0.873333
+2061828225,Page1_Block189_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,531.0,592.0,546.0,599.0,.00,.00,correct,positions,0.55
+2061828225,Page1_Block190_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,89.0,604.0,142.0,610.0,TOTAL DUE,TOTAL DUE,correct,positions,0.334
+2061828225,Page1_Block191_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,262.0,604.0,308.0,611.0,22188.40,22188.40,correct,positions,0.47125
+2061828225,Page1_Block192_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,321.0,604.0,368.0,611.0,22188.40,22188.40,correct,positions,0.41
+2061828225,Page1_Block193_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,412.0,604.0,427.0,610.0,.00,.00,correct,positions,0.386667
+2061828225,Page1_Block194_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,472.0,604.0,487.0,610.0,.00,.CO,correct,positions,0.473333
+2061828225,Page1_Block195_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,531.0,603.0,546.0,610.0,.00,.00,correct,positions,0.35
+2061828225,Page1_Block196_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,96.0,626.0,356.0,633.0,161.8 30.3,161.8 30.3,correct,positions,0.43725
+2061828225,Page1_Block196_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,95.0,637.0,123.0,644.0,998.1,998.1,correct,positions,0.336
+2061828225,Page1_Block196_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,96.0,648.0,124.0,655.0,401.9,401.9,correct,positions,0.402
+503116473+-6473,Page1_Block2_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,16.0,93.0,163.0,104.0,LKP INTERNATIONAL LTD,LKP INTERNATIONAL LTD,correct,supplier,0.442735
+503116473+-6473,Page1_Block3_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,573.0,98.0,708.0,110.0,PRODUCTION ESTIMATE,PRODUCTION ESTIMATE,correct,supplier,0.56525
+503116473+-6473,Page1_Block4_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,15.0,123.0,64.0,134.0,CLIENT:,CLIENT:,correct,receiver,0.647143
+503116473+-6473,Page1_Block4_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,15.0,139.0,56.0,148.0,MEDIA:,MEDIA:,correct,receiver,0.663333
+503116473+-6473,Page1_Block4_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,15.0,153.0,56.0,164.0,EST #:,EST #:,correct,receiver,0.558333
+503116473+-6473,Page1_Block4_l4,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,16.0,169.0,49.0,178.0,DESC:,DESC:,correct,receiver,0.736
+503116473+-6473,Page1_Block5_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,100.0,123.0,249.0,138.0,RJR/More Family Black,RJR/More Family Black,correct,receiver,0.571611
+503116473+-6473,Page1_Block5_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,101.0,140.0,175.0,151.0,Out-of-Home,Out-of-Hone,correct,receiver,0.484545
+503116473+-6473,Page1_Block5_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,100.0,155.0,198.0,166.0,H4-ME-0044E-R1,H4-ME-0044E-R1,correct,receiver,0.695
+503116473+-6473,Page1_Block5_l4,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,100.0,170.0,218.0,181.0,VOILE DRESS 100's,VOILE DRESS 100's,correct,receiver,0.67
+503116473+-6473,Page1_Block5_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,101.0,185.0,255.0,198.0,14x48 Printed Bulletin,14x48 Printed Bulletin,correct,receiver,0.477548
+503116473+-6473,Page1_Block6_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,457.0,129.0,492.0,138.0,DATE:,DATE:,correct,invoice_info,0.8
+503116473+-6473,Page1_Block6_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,456.0,143.0,521.0,155.0,PACE 1 OF,PACE 1 OF,correct,invoice_info,0.690833
+503116473+-6473,Page1_Block6_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,457.0,159.0,534.0,170.0,INTERNAL #:,INTERNAL #:,correct,invoice_info,0.596875
+503116473+-6473,Page1_Block7_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,543.0,129.0,586.0,141.0,8/7/84,8/7/84,correct,invoice_info,0.72
+503116473+-6473,Page1_Block7_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,544.0,145.0,550.0,155.0,1,1,correct,invoice_info,0.69
+503116473+-6473,Page1_Block7_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,544.0,160.0,607.0,170.0,410105110,410105110,correct,invoice_info,0.635556
+503116473+-6473,Page1_Block10_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,384.0,220.0,435.0,230.0,REVISED,REVISED,correct,positions,0.447143
+503116473+-6473,Page1_Block11_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,477.0,222.0,521.0,232.0,ACTUAL,ACTUAL,correct,positions,0.625
+503116473+-6473,Page1_Block12_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,642.0,224.0,693.0,233.0,PERCENT,PERCENT,correct,positions,0.604286
+503116473+-6473,Page1_Block13_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,14.0,232.0,42.0,241.0,CODE,CODE,correct,positions,0.5375
+503116473+-6473,Page1_Block14_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,99.0,233.0,211.0,244.0,EXPENSE CATEGORY,EXPENSE CATEGORY,correct,positions,0.622679
+503116473+-6473,Page1_Block15_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,297.0,235.0,354.0,246.0,ESTIMATE,ESTIMATE,correct,positions,0.64375
+503116473+-6473,Page1_Block16_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,383.0,236.0,441.0,247.0,ESTIMATE,ESTIMATE,correct,positions,0.59
+503116473+-6473,Page1_Block17_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,477.0,238.0,621.0,249.0,COSTS DIFFERENCE,COSTS DIFFERENCE,correct,positions,0.729
+503116473+-6473,Page1_Block18_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,636.0,240.0,707.0,250.0,DIFFERENCE,DIFFERENCE,correct,positions,0.617
+503116473+-6473,Page1_Block19_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,14.0,278.0,35.0,287.0,ADT,ADT,correct,positions,0.45
+503116473+-6473,Page1_Block21_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,298.0,279.0,361.0,294.0,"$1,150.00","$1,150.00",correct,positions,0.631111
+503116473+-6473,Page1_Block22_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,384.0,280.0,448.0,295.0,"$1,600.00","$1,600.00",correct,positions,0.756667
+503116473+-6473,Page1_Block23_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,578.0,284.0,621.0,296.0,450.00,450.00,correct,positions,0.673333
+503116473+-6473,Page1_Block25_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,14.0,293.0,36.0,302.0,AOR,AOR,correct,positions,0.593333
+503116473+-6473,Page1_Block26_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,64.0,293.0,140.0,303.0,Art - Other,Art - Other,correct,positions,0.650222
+503116473+-6473,Page1_Block27_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,319.0,295.0,361.0,307.0,350.00,350.00,correct,positions,0.655
+503116473+-6473,Page1_Block28_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,406.0,296.0,448.0,308.0,500.00,500.00,correct,positions,0.635
+503116473+-6473,Page1_Block29_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,579.0,299.0,621.0,311.0,150.00,150.00,correct,positions,0.641667
+503116473+-6473,Page1_Block31_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,13.0,309.0,35.0,318.0,ART,ART,correct,positions,0.666667
+503116473+-6473,Page1_Block32_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,64.0,309.0,133.0,322.0,Retouching,Retouching,correct,positions,0.419
+503116473+-6473,Page1_Block33_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,304.0,311.0,362.0,325.0,"6,000.00","6,000.00",correct,positions,0.60375
+503116473+-6473,Page1_Block34_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,383.0,313.0,448.0,326.0,"10,000.00","10,000.00",correct,positions,0.766667
+503116473+-6473,Page1_Block35_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,563.0,315.0,621.0,329.0,"4,000.00","4,000.00",correct,positions,0.74625
+503116473+-6473,Page1_Block37_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,12.0,324.0,34.0,333.0,CMC,CMC,correct,positions,0.413333
+503116473+-6473,Page1_Block38_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,63.0,324.0,132.0,334.0,Mechanical,Mechanical,correct,positions,0.628
+503116473+-6473,Page1_Block39_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,318.0,326.0,360.0,338.0,400.00,400.00,correct,positions,0.578333
+503116473+-6473,Page1_Block40_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,404.0,328.0,447.0,340.0,400.00,400.00,correct,positions,0.546667
+503116473+-6473,Page1_Block41_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,592.0,330.0,620.0,342.0,0.00,0.00,correct,positions,0.81
+503116473+-6473,Page1_Block43_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,13.0,340.0,34.0,349.0,PPT,PPT,correct,positions,0.493333
+503116473+-6473,Page1_Block44_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,64.0,341.0,119.0,353.0,Printing,Printing,correct,positions,0.60625
+503116473+-6473,Page1_Block45_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,297.0,343.0,360.0,356.0,"27,000.00","27,000.00",correct,positions,0.881111
+503116473+-6473,Page1_Block46_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,383.0,344.0,447.0,357.0,"27,000.00","27,000.00",correct,positions,0.662222
+503116473+-6473,Page1_Block47_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,592.0,346.0,620.0,357.0,0.00,0.00,correct,positions,0.57
+503116473+-6473,Page1_Block49_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,13.0,355.0,34.0,364.0,PST,PST,correct,positions,0.776667
+503116473+-6473,Page1_Block50_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,64.0,355.0,125.0,365.0,Photostat,Photostat,correct,positions,0.76
+503116473+-6473,Page1_Block51_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,319.0,357.0,360.0,369.0,100.00,100.00,correct,positions,0.545
+503116473+-6473,Page1_Block52_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,405.0,358.0,447.0,370.0,100.00,100.00,correct,positions,0.516667
+503116473+-6473,Page1_Block53_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,592.0,361.0,620.0,373.0,0.00,0.00,correct,positions,0.725
+503116473+-6473,Page1_Block55_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,13.0,371.0,34.0,380.0,AOT,AOT,correct,positions,1.0
+503116473+-6473,Page1_Block57_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,391.0,374.0,447.0,388.0,"2,950.00","2,950.00",correct,positions,0.58375
+503116473+-6473,Page1_Block58_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,564.0,377.0,620.0,391.0,"2,950.00","2,950.00",correct,positions,0.7375
+503116473+-6473,Page1_Block60_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,592.0,392.0,620.0,403.0,0.00,0.00,correct,positions,0.695
+503116473+-6473,Page1_Block62_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,261.0,413.0,264.0,415.0,•,•,correct,positions,0.55
+503116473+-6473,Page1_Block63_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,591.0,408.0,620.0,419.0,0.00,0.00,correct,positions,0.735
+503116473+-6473,Page1_Block65_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,591.0,423.0,619.0,435.0,0.00,0.00,correct,positions,0.7875
+503116473+-6473,Page1_Block67_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,591.0,439.0,619.0,450.0,0.00,0.00,correct,positions,0.7275
+503116473+-6473,Page1_Block69_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,591.0,454.0,619.0,465.0,0.00,0.00,correct,positions,0.57
+503116473+-6473,Page1_Block71_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,591.0,469.0,619.0,480.0,0.00,0.00,correct,positions,0.7625
+503116473+-6473,Page1_Block72_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,677.0,470.0,712.0,481.0,O.OO%,O.OOZ,correct,positions,0.622
+503116473+-6473,Page1_Block73_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,591.0,485.0,619.0,496.0,0.00,0.00,correct,positions,0.6375
+503116473+-6473,Page1_Block74_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,677.0,485.0,712.0,497.0,O.OO%,O.OOZ,correct,positions,0.524
+503116473+-6473,Page1_Block75_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,163.0,504.0,166.0,507.0,•,•,correct,positions,1.0
+503116473+-6473,Page1_Block76_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,590.0,499.0,619.0,511.0,0.00,0.00,correct,positions,0.8325
+503116473+-6473,Page1_Block80_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,317.0,511.0,359.0,523.0,625.00,625.00,correct,positions,0.715
+503116473+-6473,Page1_Block81_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,390.0,513.0,445.0,526.0,"1,250.00","1,250.00",correct,positions,0.53125
+503116473+-6473,Page1_Block82_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,566.0,515.0,618.0,527.0,625.00,. 625.00,correct,positions,0.824167
+503116473+-6473,Page1_Block84_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,166.0,543.0,201.0,552.0,TOTAL,TOTAL,correct,total,0.5
+503116473+-6473,Page1_Block86_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,374.0,542.0,445.0,558.0,"$43,800.00","$43,800.00",correct,total,0.653
+503116473+-6473,Page1_Block89_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,601.0,306.0,619.0,COMMENTS: For September/October posting.,COMMENTS: For September/October posting.,correct,positions,0.561977
+503116473+-6473,Page1_Block91_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,617.0,156.0,629.0,EXPIANATION OF COSTS:,EXPIANATION OF COSTS:,correct,positions,0.679141
+503116473+-6473,Page1_Block93_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,634.0,37.0,643.0,ADT:,ADT:,correct,positions,0.7225
+503116473+-6473,Page1_Block94_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,54.0,633.0,292.0,650.0,1 dye of visual and 1 dye of pack.,1 dye of visual and 1 dye of pack.,correct,positions,0.610037
+503116473+-6473,Page1_Block96_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,649.0,37.0,658.0,AOR:,AOR:,correct,positions,0.875
+503116473+-6473,Page1_Block97_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,53.0,647.0,198.0,662.0,Overlay for pack art.,Overlay for pack art.,correct,positions,0.67506
+503116473+-6473,Page1_Block99_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,664.0,37.0,673.0,ART:,ART:,correct,positions,0.535
+503116473+-6473,Page1_Block100_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,54.0,663.0,184.0,678.0,Retouching of dyes.,Retouching of dyes.,correct,positions,0.561
+503116473+-6473,Page1_Block102_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,680.0,37.0,689.0,CMC:,CMC:,correct,positions,0.8525
+503116473+-6473,Page1_Block105_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,695.0,36.0,704.0,PPT:,PPT:,correct,positions,0.335
+503116473+-6473,Page1_Block106_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,53.0,694.0,291.0,708.0,55 - 14x48 Printed Bulletin units.,55 - 14x48 Printed Bulletin units.,correct,positions,0.548077
+503116473+-6473,Page1_Block108_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,711.0,35.0,720.0,PST:,PST:,correct,positions,0.84
+503116473+-6473,Page1_Block109_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,53.0,709.0,262.0,725.0,6 for legal; 8 for mechanical.,6 for legal; 8 for mechanical.,correct,positions,0.578687
+503116473+-6473,Page1_Block111_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,739.0,227.0,754.0,(Shipping costs on H4-MF-0071P),(Shipping costs on H4-MF-0071P),correct,positions,0.522819
+503116473+-6473,Page1_Block113_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,771.0,148.0,783.0,REASON FOR REVISION:,REASON FOR REVISION:,correct,positions,0.396667
+503116473+-6473,Page1_Block115_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,785.0,35.0,795.0,R1 :,R1 :,correct,positions,0.82
+503116473+-6473,Page1_Block116_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,51.0,785.0,320.0,802.0,Additional dye and retouching required,Additional dye and retouching required,correct,positions,0.46695
+503116473+-6473,Page1_Block118_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,8.0,803.0,35.0,811.0,ADT:,ADT:,correct,positions,0.755
+503116473+-6473,Page1_Block119_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,52.0,801.0,148.0,816.0,1 new pack dye,1 new pack dye,correct,positions,0.550417
+503116473+-6473,Page1_Block121_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,817.0,35.0,825.0,AOR:,AOR:,correct,positions,0.685
+503116473+-6473,Page1_Block122_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,52.0,816.0,269.0,832.0,1 addional overlay for pack art,1 addional overlay for pack art,correct,positions,0.572093
+503116473+-6473,Page1_Block124_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,832.0,35.0,842.0,ART:,ART:,correct,positions,0.5425
+503116473+-6473,Page1_Block125_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,51.0,832.0,262.0,848.0,Additional retouching required,Additional retouching required,correct,positions,0.48825
+503116473+-6473,Page1_Block126_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,271.0,835.0,320.0,848.0,on dyes,on dyes,correct,positions,0.695
+503116473+-6473,Page1_Block128_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,848.0,35.0,857.0,AOT:,AOT:,correct,positions,0.6725
+507484246,Page1_Block1_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,543.0,25.0,772.0,36.0,AFFIDAVIT OF SERVICE RENDERED,AFFIDAVIT OF SERVICE RENDERED,correct,other,0.715283
+507484246,Page1_Block4_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,316.0,52.0,431.0,64.0,"P.O. DRAWER ""J""","P.O. DRAWER ""J""",correct,supplier,0.826111
+507484246,Page1_Block4_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,316.0,66.0,500.0,79.0,"PLANT CITY, FL 34289-9005","PLANT CITY, FL 34289-9005",correct,supplier,0.818
+507484246,Page1_Block4_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,316.0,80.0,397.0,91.0,813-754-9191,813-754-9191,correct,supplier,0.7825
+507484246,Page1_Block5_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,537.0,54.0,588.0,61.0,State of FL,State of FL,correct,other,0.468667
+507484246,Page1_Block7_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,132.0,100.0,234.0,111.0,WPLA9I0 AM,WPLA9I0 AM,correct,supplier,0.798571
+507484246,Page1_Block8_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,186.0,132.0,365.0,144.0,INVOICE AND STATEMENT,INVOICE AND STATEMENT,correct,other,0.85127
+507484246,Page1_Block9_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,537.0,126.0,551.0,133.0,By.,By.,correct,other,0.576667
+507484246,Page1_Block13_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,97.0,222.0,315.0,233.0,"ST.PETERSBURG, FL 33705","ST.PETERSBURG, FL 33705",correct,receiver,0.544429
+507484246,Page1_Block14_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,565.0,134.0,710.0,144.0,DORETHA Y. ADAMS,DORETHA Y. ADAMS,correct,other,0.417857
+507484246,Page1_Block15_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,537.0,201.0,734.0,209.0,NOTARY PUBLIC,NOTARY PUBLIC,correct,other,0.41
+507484246,Page1_Block15_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,544.0,211.0,698.0,222.0,SUSAN ANNE HARMON,SUSAN ANNE HARMON,correct,other,0.327556
+507484246,Page1_Block19_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,599.0,256.0,661.0,265.0,3/31/89,3/31/89,correct,invoice_info,0.415714
+507484246,Page1_Block22_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,190.0,293.0,374.0,304.0,. . ACCOUNT / RUN DETAIL,. . ACCOUNT / RUN DETAIL,correct,positions,0.795238
+507484246,Page1_Block23_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,506.0,297.0,542.0,304.0,LENGTH,LENGTH,correct,positions,0.541667
+507484246,Page1_Block24_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,551.0,297.0,589.0,304.0,NO RUN,NO RUN,correct,positions,0.490833
+507484246,Page1_Block25_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,621.0,297.0,655.0,307.0,RATE,RATE,correct,positions,0.775
+507484246,Page1_Block26_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,706.0,297.0,764.0,307.0,AMOUNT,AMOUNT,correct,positions,0.805
+507484246,Page1_Block27_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,96.0,328.0,205.0,339.0,BALANCE FROM,BALANCE FROM,correct,positions,0.394107
+507484246,Page1_Block28_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,215.0,329.0,339.0,339.0,LAST STATEMENT,LAST STATEMENT,correct,positions,0.565694
+507484246,Page1_Block30_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,729.0,333.0,772.0,343.0,48.00,48.00,correct,positions,0.21
+507484246,Page1_Block32_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,94.0,359.0,184.0,369.0,PROMOTIONS,PROMOTIONS,correct,positions,0.396
+507484246,Page1_Block33_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,364.0,771.0,374.0,48.00,48.00,correct,positions,0.274
+507484246,Page1_Block35_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,95.0,374.0,186.0,384.0,PROMOTIONS,PROMOTIONS,correct,positions,0.441
+507484246,Page1_Block45_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,422.0,544.0,432.0,60,60,correct,positions,0.245
+507484246,Page1_Block46_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,582.0,423.0,589.0,432.0,4,4,correct,positions,0.0
+507484246,Page1_Block47_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,629.0,423.0,672.0,432.0,16.00,16.00,correct,positions,0.326
+507484246,Page1_Block48_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,728.0,424.0,773.0,433.0,64.00,64.00,correct,positions,0.234
+507484246,Page1_Block50_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,435.0,138.0,445.0,Spot,Spot,correct,positions,0.255
+507484246,Page1_Block51_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,158.0,435.0,202.0,445.0,7:26a,7:26a,correct,positions,0.216
+507484246,Page1_Block52_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,222.0,435.0,266.0,448.0,3: 11p,3: Up,correct,positions,0.7275
+507484246,Page1_Block53_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,286.0,436.0,330.0,448.0,7:26p,'7:26p,correct,positions,0.366667
+507484246,Page1_Block54_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,343.0,436.0,394.0,449.0,11:26p,11:26p,correct,positions,0.363333
+507484246,Page1_Block55_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,437.0,542.0,447.0,60,60,correct,positions,0.265
+507484246,Page1_Block56_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,438.0,587.0,447.0,4,4,correct,positions,0.0
+507484246,Page1_Block57_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,627.0,438.0,670.0,448.0,16.00,16.00,correct,positions,0.366
+507484246,Page1_Block58_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,439.0,771.0,449.0,64.00,64.00,correct,positions,0.352
+507484246,Page1_Block59_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,26.0,450.0,83.0,461.0,3/ 3/89,3/ 3/89,correct,positions,0.17875
+507484246,Page1_Block60_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,104.0,451.0,139.0,463.0,Spot,Spot,correct,positions,0.36
+507484246,Page1_Block61_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,160.0,451.0,204.0,462.0,6:26a,6:26a,correct,positions,0.126
+507484246,Page1_Block62_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,216.0,451.0,268.0,464.0,12:34p,12:34p,correct,positions,0.525
+507484246,Page1_Block63_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,288.0,452.0,332.0,465.0,8:56p,8:56p,correct,positions,0.338
+507484246,Page1_Block64_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,352.0,452.0,396.0,465.0,9:26p,9:26p,correct,positions,0.352
+507484246,Page1_Block65_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,526.0,454.0,543.0,464.0,60,60,correct,positions,0.125
+507484246,Page1_Block66_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,581.0,454.0,589.0,464.0,4,4,correct,positions,0.0
+507484246,Page1_Block67_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,629.0,454.0,672.0,464.0,16.00,16.00,correct,positions,0.478
+507484246,Page1_Block68_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,728.0,455.0,772.0,465.0,64.00,64.00,correct,positions,0.22
+507484246,Page1_Block70_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,102.0,467.0,137.0,479.0,Spot,Spot,correct,positions,0.2475
+507484246,Page1_Block71_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,158.0,467.0,202.0,477.0,6:32a,6:32a,correct,positions,0.43
+507484246,Page1_Block72_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,222.0,468.0,267.0,478.0,9:02a,9:02a,correct,positions,0.736
+507484246,Page1_Block73_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,279.0,468.0,330.0,478.0,10:02a,10:02a,correct,positions,0.205
+507484246,Page1_Block74_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,343.0,469.0,394.0,481.0,10:26p,10:26p,correct,positions,0.311667
+507484246,Page1_Block75_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,470.0,542.0,479.0,60,60,correct,positions,0.0
+507484246,Page1_Block76_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,579.0,470.0,587.0,479.0,4,4,correct,positions,0.0
+507484246,Page1_Block77_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,627.0,470.0,670.0,480.0,16.00,16.00,correct,positions,0.39
+507484246,Page1_Block78_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,471.0,771.0,481.0,64.00,64.00,correct,positions,0.362
+507484246,Page1_Block80_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,104.0,482.0,139.0,494.0,Spot,Spot,correct,positions,0.2275
+507484246,Page1_Block81_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,161.0,483.0,203.0,495.0,1:02p,1:02p,correct,positions,0.428
+507484246,Page1_Block82_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,223.0,483.0,268.0,495.0,9:26p,9:26p,correct,positions,0.066
+507484246,Page1_Block83_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,281.0,484.0,331.0,495.0,11:26p,11:26p,correct,positions,0.466667
+507484246,Page1_Block84_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,485.0,543.0,494.0,60,60,correct,positions,0.64
+507484246,Page1_Block85_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,581.0,485.0,589.0,494.0,3,3,correct,positions,0.27
+507484246,Page1_Block86_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,629.0,485.0,672.0,494.0,16.00,16.00,correct,positions,0.292
+507484246,Page1_Block87_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,728.0,485.0,772.0,495.0,48.00,48.00,correct,positions,0.328
+507484246,Page1_Block88_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,158.0,513.0,230.0,523.0,SUBTOTAL,SUBTOTAL,correct,positions,0.3975
+507484246,Page1_Block89_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,305.0,515.0,337.0,524.0,304.,304.,correct,positions,0.365
+507484246,Page1_Block90_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,341.0,515.0,358.0,524.0,00,00,correct,positions,0.64
+507484246,Page1_Block92_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,26.0,559.0,83.0,568.0,3/13/89,3/13/89,correct,positions,0.328571
+507484246,Page1_Block93_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,559.0,138.0,570.0,Spot,Spot,correct,positions,0.29
+507484246,Page1_Block94_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,158.0,559.0,202.0,569.0,6: 18a,6: 18a,correct,positions,0.406667
+507484246,Page1_Block96_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,279.0,559.0,330.0,571.0,12:39p,12:39p,correct,positions,0.308333
+507484246,Page1_Block97_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,351.0,560.0,394.0,572.0,4:19p,4:19p,correct,positions,0.272
+507484246,Page1_Block98_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,415.0,559.0,459.0,572.0,5:32p,5:32p,correct,positions,0.296
+507484246,Page1_Block99_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,560.0,542.0,570.0,60,60,correct,positions,0.28
+507484246,Page1_Block100_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,560.0,588.0,570.0,5,5,correct,positions,0.28
+507484246,Page1_Block101_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,627.0,560.0,670.0,570.0,16.00,16.00,correct,positions,0.346
+507484246,Page1_Block102_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,560.0,771.0,571.0,80.00,80.00,correct,positions,0.342
+507484246,Page1_Block103_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,26.0,574.0,84.0,583.0,3/13/89,3/13/89,correct,positions,0.46
+507484246,Page1_Block104_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,105.0,574.0,139.0,586.0,Spot,Spot,correct,positions,0.3675
+507484246,Page1_Block105_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,160.0,574.0,204.0,586.0,8:56p,8:56p,correct,positions,0.416
+507484246,Page1_Block106_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,576.0,544.0,585.0,60,60,correct,positions,0.015
+507484246,Page1_Block107_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,583.0,576.0,588.0,585.0,1,1,correct,positions,0.45
+507484246,Page1_Block108_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,629.0,576.0,672.0,585.0,16.00,16.00,correct,positions,0.392
+507484246,Page1_Block109_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,730.0,576.0,773.0,586.0,16.00,16.00,correct,positions,0.3
+507484246,Page1_Block111_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,589.0,138.0,601.0,Spot,Spot,correct,positions,0.1775
+507484246,Page1_Block112_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,158.0,589.0,203.0,599.0,7:26a,7:26a,correct,positions,0.386
+507484246,Page1_Block113_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,215.0,589.0,267.0,600.0,11:32a,11:32a,correct,positions,0.313333
+507484246,Page1_Block114_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,289.0,589.0,330.0,602.0,1:32p,1:32p,correct,positions,0.332
+507484246,Page1_Block115_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,351.0,590.0,394.0,602.0,2:32p,2:32p,correct,positions,0.704
+507484246,Page1_Block117_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,590.0,542.0,600.0,60,60,correct,positions,0.0
+507484246,Page1_Block118_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,590.0,588.0,600.0,5,5,correct,positions,0.26
+507484246,Page1_Block119_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,627.0,591.0,670.0,601.0,16.00,16.00,correct,positions,0.334
+507484246,Page1_Block120_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,591.0,771.0,601.0,80.00,80.00,correct,positions,0.342
+507484246,Page1_Block121_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,26.0,605.0,83.0,615.0,3/14/89,3/14/8^,correct,positions,0.45
+507484246,Page1_Block122_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,105.0,605.0,139.0,616.0,Spot,Spot,correct,positions,0.1575
+507484246,Page1_Block123_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,160.0,605.0,204.0,617.0,9:26p,9:26p,correct,positions,0.244
+507484246,Page1_Block124_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,217.0,605.0,268.0,617.0,11:26p,11:26p,correct,positions,0.191667
+507484246,Page1_Block125_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,606.0,544.0,615.0,60,60,correct,positions,0.15
+507484246,Page1_Block126_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,582.0,606.0,590.0,616.0,2,2,correct,positions,0.24
+507484246,Page1_Block127_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,630.0,606.0,672.0,616.0,16.00,16.00,correct,positions,0.25
+507484246,Page1_Block128_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,728.0,606.0,773.0,616.0,32.00,32.00,correct,positions,0.338
+507484246,Page1_Block129_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,31.0,620.0,84.0,630.0,/15/89,/15/89,correct,positions,0.203333
+507484246,Page1_Block130_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,620.0,137.0,632.0,Spot,Spot,correct,positions,0.2625
+507484246,Page1_Block133_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,287.0,620.0,330.0,632.0,7:26p,7:26p,correct,positions,0.254
+507484246,Page1_Block134_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,351.0,620.0,394.0,632.0,7:56p,7:56p,correct,positions,0.25
+507484246,Page1_Block136_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,621.0,542.0,630.0,60,60,correct,positions,0.135
+507484246,Page1_Block137_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,621.0,588.0,631.0,5,5,correct,positions,0.36
+507484246,Page1_Block138_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,628.0,621.0,670.0,631.0,16.00,16.00,correct,positions,0.304
+507484246,Page1_Block139_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,622.0,771.0,631.0,80.00,80.00,correct,positions,0.604
+507484246,Page1_Block141_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,105.0,635.0,139.0,646.0,Spot,Spot,correct,positions,0.27
+507484246,Page1_Block142_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,152.0,635.0,204.0,646.0,10:56p,10:56p,correct,positions,0.403333
+507484246,Page1_Block143_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,636.0,544.0,645.0,60,60,correct,positions,0.14
+507484246,Page1_Block144_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,584.0,636.0,588.0,645.0,1,1,correct,positions,0.62
+507484246,Page1_Block145_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,630.0,636.0,672.0,645.0,16.00,16.00,correct,positions,0.322
+507484246,Page1_Block146_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,730.0,637.0,773.0,646.0,16.00,16.00,correct,positions,0.418
+507484246,Page1_Block147_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,26.0,648.0,82.0,659.0,1/16/85,1/16/85,correct,positions,0.531429
+507484246,Page1_Block148_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,649.0,138.0,660.0,Spot,Spot,correct,positions,0.29
+507484246,Page1_Block149_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,159.0,649.0,202.0,659.0,6:26a,6:26a,correct,positions,0.328
+507484246,Page1_Block150_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,223.0,649.0,267.0,659.0,7:26a,7:26a,correct,positions,0.284
+507484246,Page1_Block151_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,287.0,649.0,331.0,659.0,8:26a,8:26a,correct,positions,0.386
+507484246,Page1_Block152_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,351.0,649.0,394.0,662.0,2:32p,2:32p,correct,positions,0.41
+507484246,Page1_Block153_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,415.0,650.0,459.0,662.0,4:11 p,4:11 p,correct,positions,0.2225
+507484246,Page1_Block154_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,650.0,542.0,660.0,60,60,correct,positions,0.265
+507484246,Page1_Block155_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,650.0,588.0,660.0,5,5,correct,positions,0.24
+507484246,Page1_Block156_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,627.0,650.0,670.0,660.0,16.00,16.00,correct,positions,0.366
+507484246,Page1_Block157_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,651.0,771.0,661.0,80.00,80.00,correct,positions,0.404
+507484246,Page1_Block159_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,105.0,664.0,140.0,675.0,Spot,Spot,correct,positions,0.31
+507484246,Page1_Block162_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,665.0,544.0,674.0,60,60,correct,positions,0.12
+507484246,Page1_Block163_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,582.0,665.0,590.0,674.0,2,2,correct,positions,0.16
+507484246,Page1_Block164_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,620.0,665.0,672.0,675.0,. 16.00,. 16.00,correct,positions,0.427
+507484246,Page1_Block165_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,728.0,665.0,773.0,675.0,32.00,32.00,correct,positions,0.366
+507484246,Page1_Block167_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,678.0,138.0,690.0,Spot,Spot,correct,positions,0.2325
+507484246,Page1_Block168_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,151.0,678.0,202.0,690.0,12:39p,12:39p,correct,positions,0.371667
+507484246,Page1_Block171_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,351.0,679.0,395.0,691.0,5:50p,5:50p,correct,positions,0.442
+507484246,Page1_Block172_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,416.0,679.0,459.0,691.0,8:26p,8:26p,correct,positions,0.202
+507484246,Page1_Block173_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,680.0,542.0,690.0,60,60,correct,positions,0.32
+507484246,Page1_Block174_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,680.0,588.0,690.0,5,5,correct,positions,0.33
+507484246,Page1_Block175_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,628.0,680.0,670.0,690.0,16.00,16.00,correct,positions,0.232
+507484246,Page1_Block176_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,726.0,681.0,772.0,691.0,80.00,80.00,correct,positions,0.362
+507484246,Page1_Block179_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,153.0,693.0,204.0,705.0,11:26p,11:26p,correct,positions,0.345
+507484246,Page1_Block180_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,695.0,544.0,704.0,60,60,correct,positions,0.2
+507484246,Page1_Block181_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,584.0,696.0,589.0,705.0,1,1,correct,positions,0.29
+507484246,Page1_Block182_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,629.0,695.0,673.0,705.0,16.00,16.00,correct,positions,0.194
+507484246,Page1_Block183_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,730.0,696.0,773.0,705.0,16.00,16.00,correct,positions,0.374
+507484246,Page1_Block185_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,709.0,138.0,720.0,Spot,Spot,correct,positions,0.385
+507484246,Page1_Block186_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,159.0,709.0,203.0,719.0,8:02a,8:02a,correct,positions,0.396
+507484246,Page1_Block187_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,223.0,709.0,267.0,719.0,9:02a,9:02a,correct,positions,0.244
+507484246,Page1_Block188_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,279.0,709.0,331.0,719.0,10:02a,10:02a,correct,positions,0.335
+507484246,Page1_Block189_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,343.0,709.0,395.0,722.0,12:32p,12:32p,correct,positions,0.351667
+507484246,Page1_Block190_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,415.0,710.0,460.0,722.0,5:32p,5:3Sp,correct,positions,0.408
+507484246,Page1_Block191_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,711.0,542.0,720.0,60,60,correct,positions,0.27
+507484246,Page1_Block192_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,711.0,588.0,720.0,5,5,correct,positions,0.26
+507484246,Page1_Block193_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,628.0,711.0,671.0,721.0,16.00,16.00,correct,positions,0.324
+507484246,Page1_Block196_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,105.0,724.0,140.0,735.0,Spot,Spot,correct,positions,0.28
+507484246,Page1_Block197_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,160.0,724.0,204.0,736.0,7:26p,7:26p,correct,positions,0.36
+507484246,Page1_Block198_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,224.0,725.0,268.0,736.0,8:26p,8:26p,correct,positions,0.25
+507484246,Page1_Block199_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,726.0,544.0,735.0,60,60,correct,positions,0.13
+507484246,Page1_Block200_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,582.0,726.0,590.0,735.0,2,2,correct,positions,0.15
+507484246,Page1_Block201_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,630.0,726.0,673.0,735.0,16.00,16.00,correct,positions,0.334
+507484246,Page1_Block202_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,729.0,726.0,773.0,736.0,32.00,32.00,correct,positions,0.5
+507484246,Page1_Block204_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,103.0,740.0,138.0,752.0,Spot,Spot,correct,positions,0.195
+507484246,Page1_Block205_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,158.0,740.0,203.0,750.0,9:35a,9:35a,correct,positions,0.194
+507484246,Page1_Block206_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,215.0,740.0,267.0,750.0,10:20a,10:20a,correct,positions,0.406667
+507484246,Page1_Block207_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,287.0,740.0,331.0,753.0,4:32p,4:32p,correct,positions,0.144
+507484246,Page1_Block208_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,351.0,741.0,395.0,753.0,9:26p,9:26p,correct,positions,0.16
+507484246,Page1_Block209_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,408.0,741.0,459.0,753.0,10:26p,10:26p,correct,positions,0.285
+507484246,Page1_Block210_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,525.0,741.0,542.0,751.0,60,60,correct,positions,0.135
+507484246,Page1_Block211_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,742.0,588.0,751.0,5,5,correct,positions,0.51
+507484246,Page1_Block212_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,628.0,742.0,671.0,752.0,16.00,16.00,correct,positions,0.268
+507484246,Page1_Block213_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,727.0,742.0,772.0,752.0,80.00,80.00,correct,positions,0.43
+507484246,Page1_Block215_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,105.0,755.0,140.0,766.0,Spot,Spot,correct,positions,0.32
+507484246,Page1_Block216_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,153.0,755.0,204.0,767.0,11:26p,11:26p,correct,positions,0.35
+507484246,Page1_Block217_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,527.0,756.0,544.0,766.0,60,60,correct,positions,0.17
+507484246,Page1_Block218_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,584.0,757.0,588.0,766.0,1,1,correct,positions,0.17
+507484246,Page1_Block219_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,630.0,756.0,673.0,766.0,16.00,16.00,correct,positions,0.342
+507484246,Page1_Block221_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,159.0,785.0,231.0,795.0,SUBTOTAL,SUBTOTAL,correct,total,0.645
+507484246,Page1_Block222_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,306.0,785.0,338.0,795.0,"720,",720.,correct,total,0.895
+507484246,Page1_Block223_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,342.0,786.0,359.0,795.0,00,00,correct,total,0.5
+507484246,Page1_Block236_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,115.0,845.0,398.0,856.0,PLAY 91 YOUR CLASSIC CONNECTION,PLAY 91 YOUR CLASSIC CONNECTION,correct,other,0.479086
+507484246,Page1_Block237_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,500.0,846.0,736.0,858.0,Sales Rep: ALFRED E. BERRY,Sales Rep: ALFRED E. BERRY,correct,other,0.388533
+507484246,Page1_Block239_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,52.0,886.0,620.0,899.0,"F 18%, added to the unpaid balance at the end of the next month following date of purchase.","F 18%, added to the unpaid balance at the end of the next month following date of purchase.",correct,other,0.654531
+507484246,Page1_Block240_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,556.0,920.0,643.0,929.0,90 AND OVER,90 AND OVER,correct,other,0.678333
+507484246,Page1_Block243_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,55.0,919.0,118.0,927.0,CURRENT,CURRENT,correct,other,0.887143
+507484246,Page1_Block246_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,131.0,949.0,167.0,958.0,0.00,0.00,correct,other,0.5275
+507484246,Page1_Block247_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,297.0,949.0,332.0,959.0,0.00,0.00,correct,other,0.3225
+507484246,Page1_Block248_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,462.0,949.0,497.0,959.0,0.00,0.00,correct,other,0.3575
+507484246,Page1_Block249_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,627.0,950.0,662.0,959.0,0.00,0.00,correct,other,0.35
+507484246,Page1_Block250_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,737.0,950.0,772.0,960.0,0. 00,o. 00,correct,other,0.3975
+507484246,Page1_Block252_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,504.0,977.0,687.0,988.0,PLEASE PAY THIS AMOUNT-,PLEASE PAY THIS AMOUNT-,correct,other,0.720923
+96052028,Page1_Block1_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,222.0,82.0,535.0,97.0,LORILLARD PLAN ll/PLAN IIV INVOICE,LORILLARD PLAN ll/PLAN IIV INVOICE,correct,,0.798071
+96052028,Page1_Block3_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,53.0,119.0,109.0,128.0,INVOICE,INVOICE,correct,,0.574286
+96052028,Page1_Block4_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,146.0,117.0,424.0,128.0,TO: LORILLARD TOBACCO COMPANY,TO: LORILLARD TOBACCO COMPANY,correct,,0.919405
+96052028,Page1_Block5_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,571.0,122.0,593.0,127.0,DATE:,DATE:,correct,,0.502
+96052028,Page1_Block6_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,635.0,117.0,691.0,129.0,22-Jul-93,22-Jul-93,correct,,0.742222
+96052028,Page1_Block8_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,86.0,147.0,147.0,153.0,NAME OF CHAIN,NAME OF CHAIN,correct,,0.515833
+96052028,Page1_Block9_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,444.0,147.0,492.0,153.0,DIVISION NO.,DIVISION NO.,correct,,0.572708
+96052028,Page1_Block10_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,64.0,155.0,71.0,166.0,F,F,correct,,0.41
+96052028,Page1_Block11_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,87.0,155.0,169.0,166.0,EXEL SALES,EXEL SALES,correct,,0.871
+96052028,Page1_Block12_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,503.0,155.0,526.0,166.0,625,625,correct,,0.813333
+96052028,Page1_Block13_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,63.0,168.0,72.0,179.0,R,R,correct,,1.0
+96052028,Page1_Block14_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,86.0,173.0,151.0,179.0,STREET ADDRESS,STREET ADDRESS,correct,,0.362143
+96052028,Page1_Block15_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,443.0,173.0,487.0,179.0,REGION NO.,REGION NO.,correct,,0.419167
+96052028,Page1_Block17_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,87.0,181.0,291.0,192.0,1305 REMINGTON RD. SUITE C,1305 REMINGTON RD. SUITE C,correct,,0.834733
+96052028,Page1_Block18_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,504.0,181.0,518.0,192.0,10,10,correct,,1.0
+96052028,Page1_Block19_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,62.0,194.0,72.0,204.0,M,M,correct,,0.62
+96052028,Page1_Block20_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,104.0,198.0,301.0,205.0,CITY STATE ZIP CODE,Cm STATE ZIP CODE,correct,,0.372417
+96052028,Page1_Block21_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,443.0,198.0,490.0,204.0,VENDOR NO.,VENDOR NO.,correct,,0.329167
+96052028,Page1_Block22_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,87.0,206.0,304.0,219.0,SCHAUMBURG ILLINOIS 60173,SCHAUMBURG ILLINOIS 60173,correct,,0.867833
+96052028,Page1_Block23_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,504.0,206.0,587.0,217.0,EXEL-531210,EXEL-531210,correct,,0.93
+96052028,Page1_Block24_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,443.0,226.0,496.0,233.0,CHAIN 1.D. NO.,CHAIN ID. MX,correct,,0.221889
+96052028,Page1_Block26_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,503.0,238.0,546.0,249.0,625-28,625-28,correct,,0.915
+96052028,Page1_Block27_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,87.0,254.0,416.0,266.0,MERCHANDISING PLAN II. Il-V FOR THE 2ND QTR. 19 93,MERCHANDISING PLAN II. Il-V FOR THE 2ND QTR. 19 93,correct,,0.615282
+96052028,Page1_Block27_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,86.0,277.0,312.0,285.0,ATTACHED IS A LIST OF QUALIFYING STORES.,ATTACHED IS A LIST OF QUALIFYING STORES.,correct,,0.508189
+96052028,Page1_Block30_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,53.0,332.0,104.0,343.0,PLAN II,PLAN II,correct,,0.7025
+96052028,Page1_Block31_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,170.0,337.0,239.0,343.0,WEEKLY PACKAGE,WEEKLY PACKAGE,correct,,0.290119
+96052028,Page1_Block31_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,170.0,354.0,238.0,360.0,CIGARETTE SALES,CICARETTE SALES,correct,,0.252
+96052028,Page1_Block32_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,283.0,354.0,297.0,360.0,1ST,1ST,correct,,0.746667
+96052028,Page1_Block32_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,276.0,370.0,303.0,376.0,MONTH,MONTH,correct,,0.39
+96052028,Page1_Block33_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,366.0,354.0,382.0,360.0,2ND,ZND,correct,,0.52
+96052028,Page1_Block35_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,512.0,337.0,540.0,343.0,TOTALS,TOTALS,correct,,0.361667
+96052028,Page1_Block35_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,519.0,354.0,534.0,360.0,FOR,FOR,correct,,0.19
+96052028,Page1_Block36_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,571.0,354.0,609.0,360.0,MONTHLY,MONTHLY,correct,,0.284286
+96052028,Page1_Block37_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,669.0,354.0,693.0,360.0,TOTAL,TOTAL,correct,,0.33
+96052028,Page1_Block38_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,147.0,385.0,213.0,392.0,SCHEDULE B,SCHEDULE B,correct,,0.59375
+96052028,Page1_Block39_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,385.0,346.0,392.0,+,+,correct,,1.0
+96052028,Page1_Block40_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,385.0,439.0,392.0,+,+,correct,,0.62
+96052028,Page1_Block41_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,495.0,386.0,501.0,391.0,=,=,correct,,0.59
+96052028,Page1_Block42_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,541.0,383.0,563.0,392.0,0 X,0 X,correct,,0.59
+96052028,Page1_Block43_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,581.0,383.0,607.0,393.0,$5.00,$5.00,correct,,0.432
+96052028,Page1_Block44_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,658.0,381.0,691.0,393.0,$0.00,$0.00,correct,,0.746
+96052028,Page1_Block45_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,53.0,397.0,85.0,409.0,L.D.I,L.D.I,correct,,0.722
+96052028,Page1_Block46_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,147.0,401.0,214.0,409.0,SCHEDULE C,SCHEDULE C,correct,,0.794375
+96052028,Page1_Block47_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,401.0,346.0,409.0,+,+,correct,,0.69
+96052028,Page1_Block48_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,432.0,401.0,439.0,409.0,+,+,correct,,1.0
+96052028,Page1_Block49_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,495.0,403.0,501.0,407.0,=,=,correct,,0.62
+96052028,Page1_Block50_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,542.0,400.0,563.0,409.0,0 X,0 X,correct,,1.0
+96052028,Page1_Block51_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,581.0,400.0,607.0,409.0,$7.50,$7.50,correct,,0.436
+96052028,Page1_Block52_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,658.0,398.0,691.0,410.0,$0.00,$0.00,correct,,0.698
+96052028,Page1_Block53_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,147.0,418.0,214.0,426.0,SCHEDULE D,SCHEDULE D,correct,,0.755
+96052028,Page1_Block54_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,418.0,347.0,425.0,+,+,correct,,1.0
+96052028,Page1_Block55_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,418.0,439.0,425.0,+,+,correct,,0.79
+96052028,Page1_Block56_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,495.0,420.0,501.0,424.0,=,=,correct,,0.64
+96052028,Page1_Block57_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,542.0,416.0,563.0,426.0,0 X,0 X,correct,,0.47
+96052028,Page1_Block58_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,575.0,416.0,607.0,426.0,$10.00,$10.00,correct,,0.418333
+96052028,Page1_Block59_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,658.0,414.0,691.0,426.0,$0.00,$0.00,correct,,0.712
+96052028,Page1_Block60_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,147.0,434.0,199.0,442.0,"OVER 2,000","OVER 2,000",correct,,0.49825
+96052028,Page1_Block61_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,434.0,346.0,442.0,+,+,correct,,1.0
+96052028,Page1_Block62_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,434.0,439.0,441.0,+,+,correct,,1.0
+96052028,Page1_Block64_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,542.0,433.0,563.0,442.0,0 X,0 X,correct,,0.46
+96052028,Page1_Block65_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,575.0,432.0,607.0,442.0,$35.00,$35.00,correct,,0.576667
+96052028,Page1_Block66_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,658.0,431.0,691.0,443.0,$0.00,$0.00,correct,,0.84
+96052028,Page1_Block68_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,451.0,346.0,458.0,+,+,correct,,0.55
+96052028,Page1_Block69_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,450.0,439.0,458.0,+,+,correct,,1.0
+96052028,Page1_Block71_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,542.0,449.0,563.0,458.0,0 X,0 X,correct,,0.555
+96052028,Page1_Block73_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,658.0,447.0,691.0,459.0,$0.00,$0.00,correct,,0.928
+96052028,Page1_Block75_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,147.0,483.0,200.0,492.0,"OVER 2,000","OVER 2,000",correct,,0.57625
+96052028,Page1_Block76_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,483.0,346.0,491.0,+,+,correct,,1.0
+96052028,Page1_Block77_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,432.0,483.0,439.0,491.0,+,+,correct,,1.0
+96052028,Page1_Block79_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,542.0,482.0,607.0,491.0,0 X $10.00,0 X $10.00,correct,,0.537778
+96052028,Page1_Block80_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,658.0,480.0,691.0,492.0,$0.00,$0.00,correct,,0.714
+96052028,Page1_Block81_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,55.0,496.0,93.0,507.0,L.D. II,L.D. II,correct,,0.9475
+96052028,Page1_Block83_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,500.0,346.0,507.0,+,+,correct,,1.0
+96052028,Page1_Block84_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,432.0,500.0,439.0,507.0,+,+,correct,,1.0
+96052028,Page1_Block86_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,542.0,498.0,607.0,508.0,0 X $7.50,0 X $7.50,correct,,0.644
+96052028,Page1_Block87_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,658.0,497.0,691.0,508.0,$0.00,$0.00,correct,,0.83
+96052028,Page1_Block89_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,147.0,532.0,213.0,540.0,SCHEDULE F,SCHEDULE F,correct,,0.655625
+96052028,Page1_Block90_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,532.0,439.0,540.0,+ +,+ +,correct,,0.98
+96052028,Page1_Block91_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,495.0,531.0,562.0,540.0,= 0 X,= 0 X,correct,,0.526667
+96052028,Page1_Block92_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,575.0,531.0,607.0,540.0,$15.00,S15.00,correct,,0.526667
+96052028,Page1_Block93_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,657.0,529.0,691.0,541.0,$0.00,$0.00,correct,,0.906
+96052028,Page1_Block94_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,146.0,548.0,214.0,556.0,SCHEDULE H,SCHEDULE H,correct,,0.699375
+96052028,Page1_Block95_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,548.0,439.0,556.0,+ +,+ +,correct,,1.0
+96052028,Page1_Block96_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,495.0,547.0,562.0,556.0,= 0 X,= 0 X,correct,,0.833333
+96052028,Page1_Block97_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,575.0,547.0,607.0,556.0,$20.00,$20.00,correct,,0.755
+96052028,Page1_Block98_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,657.0,545.0,690.0,557.0,$0.00,$0.00,correct,,0.864
+96052028,Page1_Block99_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,147.0,565.0,210.0,573.0,SCHEDULE J,SCHEDULE J,correct,,0.425
+96052028,Page1_Block100_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,565.0,439.0,572.0,+ +,+ +,correct,,0.61
+96052028,Page1_Block101_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,495.0,564.0,563.0,572.0,= 0 X,= 0 X,correct,,0.663333
+96052028,Page1_Block103_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,657.0,561.0,691.0,574.0,$0.00,$0.00,correct,,0.794
+96052028,Page1_Block104_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,351.0,581.0,550.0,590.0,PLAN II - QUARTERLY PAYMENT DUE,PLAN II - QUARTERLY PAYMENT DUE,correct,,0.674974
+96052028,Page1_Block106_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,657.0,578.0,691.0,590.0,$0.00,$0.00,correct,,0.84
+96052028,Page1_Block108_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,52.0,628.0,120.0,639.0,PLAN ll-V,PLAN ll-V,correct,,0.70875
+96052028,Page1_Block109_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,146.0,648.0,216.0,655.0,SELF-SERVICE,SELF-SERVICE,correct,,0.4625
+96052028,Page1_Block110_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,300.0,646.0,310.0,655.0,10,10,correct,,0.405
+96052028,Page1_Block111_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,648.0,346.0,655.0,+,+,correct,,1.0
+96052028,Page1_Block112_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,388.0,646.0,394.0,655.0,9,9,correct,,0.54
+96052028,Page1_Block113_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,648.0,439.0,656.0,+,+,correct,,1.0
+96052028,Page1_Block114_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,481.0,646.0,501.0,655.0,9 =,9 =,correct,,0.39
+96052028,Page1_Block115_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,535.0,646.0,607.0,656.0,28 X $25.00,28 X $25.00,correct,,0.657778
+96052028,Page1_Block116_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,642.0,645.0,690.0,656.0,$700.00,$700.00,correct,,0.574286
+96052028,Page1_Block117_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,146.0,665.0,241.0,673.0,NON SELF-SERVICE,NON SELF-SERVICE,correct,,0.6575
+96052028,Page1_Block118_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,305.0,663.0,310.0,672.0,3,3,correct,,0.46
+96052028,Page1_Block119_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,339.0,665.0,346.0,672.0,+,+,correct,,1.0
+96052028,Page1_Block121_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,665.0,438.0,672.0,+,+,correct,,1.0
+96052028,Page1_Block122_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,481.0,663.0,501.0,672.0,4 =,4 =,correct,,0.825
+96052028,Page1_Block124_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,642.0,661.0,690.0,673.0,$165.00,$165.00,correct,,0.808571
+96052028,Page1_Block125_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,146.0,681.0,213.0,689.0,SPECIAL A,SPECIAL A,correct,,0.774286
+96052028,Page1_Block126_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,338.0,682.0,346.0,689.0,+,+,correct,,0.6
+96052028,Page1_Block127_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,682.0,439.0,689.0,+,+,correct,,0.93
+96052028,Page1_Block128_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,495.0,683.0,501.0,687.0,=,=,correct,,0.83
+96052028,Page1_Block129_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,541.0,680.0,606.0,689.0,0 X $15.00,0 X $15.00,correct,,0.697222
+96052028,Page1_Block130_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,657.0,678.0,690.0,690.0,$0.00,$0.00,correct,,0.64
+96052028,Page1_Block132_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,642.0,694.0,690.0,706.0,$865.00,$865.00,correct,,0.807143
+ti31149327_9330,Page1_Block2_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,474.0,106.0,562.0,116.0,Statement,Statement,correct,supplier,0.64
+ti31149327_9330,Page1_Block3_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,600.0,191.0,605.0,200.0,0,0,correct,receiver,0.26
+ti31149327_9330,Page1_Block4_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,229.0,220.0,393.0,230.0,THE TOBACCO INST INC,THE TOBACCO INST INC,correct,receiver,0.478036
+ti31149327_9330,Page1_Block4_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,231.0,234.0,344.0,244.0,1875 EYE ST NW,1875 EYE ST NW,correct,receiver,0.544583
+ti31149327_9330,Page1_Block4_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,229.0,247.0,450.0,257.0,WASHINGTON DC 20006,WASHINGTON DC 20006,correct,receiver,0.570667
+ti31149327_9330,Page1_Block5_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,123.0,285.0,606.0,297.0,08-219-752 PAGE 1,08-219-752 PAGE 1,correct,invoice_info,0.474
+ti31149327_9330,Page1_Block5_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,123.0,311.0,516.0,323.0,STATEMENT PERIOD 01-01-1999 THROUGH 01-15-1999,STATEMENT PERIOD 01-01-1999 THROUGH 01-15-1999,correct,other,0.593959
+ti31149327_9330,Page1_Block6_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,264.0,337.0,467.0,347.0,INTEREST CHECKING SUMMARY,INTEREST CHECKING SUMMARY,correct,other,0.611429
+ti31149327_9330,Page1_Block7_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,364.0,226.0,373.0,OPENING BALANCE,OPENING BALANCE,correct,other,0.565
+ti31149327_9330,Page1_Block7_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,387.0,172.0,397.0,-CHECKS,-CHECKS,correct,other,0.688571
+ti31149327_9330,Page1_Block7_l4,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,399.0,212.0,408.0,-OTHER DEBITS,-OTHER DEBITS,correct,other,0.785833
+ti31149327_9330,Page1_Block7_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,411.0,206.0,419.0,-NEW BALANCE,-NEW BALANCE,correct,other,0.275714
+ti31149327_9330,Page1_Block8_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,275.0,362.0,445.0,374.0,"2,835,943.34 ACCOUNT #","2,835,943.34 ACCOUNT #",correct,other,0.422302
+ti31149327_9330,Page1_Block8_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,275.0,374.0,486.0,386.0,"2,726,028.00 # OF ENCLOSURES","2,726,028.00 # OF ENCLOSURES",correct,other,0.562667
+ti31149327_9330,Page1_Block8_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,275.0,386.0,486.0,397.0,"2,067,499.67 AVERAGE BALANCE","2,067,499.67 AVERAGE BALANCE",correct,other,0.700873
+ti31149327_9330,Page1_Block8_l4,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,289.0,398.0,356.0,409.0,"362,531.06","362,531.06",correct,other,0.677
+ti31149327_9330,Page1_Block8_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,275.0,410.0,355.0,420.0,"3,131,940.61","3,131,940.61",correct,other,0.430833
+ti31149327_9330,Page1_Block8_l6,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,256.0,431.0,467.0,442.0,INTEREST CHECKING ACTIVITY,INTEREST CHECKING ACTIVITY,correct,positions,0.584167
+ti31149327_9330,Page1_Block9_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,549.0,362.0,617.0,371.0,08-219-752,08-219-752,correct,other,0.712
+ti31149327_9330,Page1_Block9_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,610.0,373.0,617.0,383.0,0,0,correct,other,0.67
+ti31149327_9330,Page1_Block9_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,598.0,385.0,617.0,394.0,.00,.00,correct,other,0.516667
+ti31149327_9330,Page1_Block12_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,459.0,179.0,468.0,DEPOSITS,DEPOSITS,correct,positions,0.70375
+ti31149327_9330,Page1_Block13_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,213.0,459.0,240.0,467.0,DATE,DATE,correct,positions,0.715
+ti31149327_9330,Page1_Block14_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,302.0,459.0,343.0,467.0,AMOUNT,AMOUNT,correct,positions,0.67
+ti31149327_9330,Page1_Block15_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,458.0,452.0,466.0,DEPOSITS,DEPOSITS,correct,positions,0.81
+ti31149327_9330,Page1_Block16_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,487.0,458.0,514.0,466.0,DATE,DATE,correct,positions,0.71
+ti31149327_9330,Page1_Block17_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,576.0,457.0,617.0,466.0,AMOUNT,AMOUNT,correct,positions,0.63
+ti31149327_9330,Page1_Block18_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,482.0,164.0,491.0,REF 01,REF 01,correct,positions,0.545
+ti31149327_9330,Page1_Block20_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,276.0,481.0,343.0,492.0,"726,028.00","726,028.00",correct,positions,0.64
+ti31149327_9330,Page1_Block21_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,505.0,165.0,514.0,CHECKS,CHECKS,correct,positions,0.731667
+ti31149327_9330,Page1_Block22_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,213.0,505.0,240.0,514.0,DATE,DATE,correct,positions,0.6275
+ti31149327_9330,Page1_Block23_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,303.0,504.0,343.0,513.0,AMOUNT,AMOUNT,correct,positions,0.891667
+ti31149327_9330,Page1_Block24_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,504.0,439.0,513.0,CHECKS,CHECKS,correct,positions,0.731667
+ti31149327_9330,Page1_Block25_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,488.0,504.0,514.0,512.0,DATE,DATE,correct,positions,0.855
+ti31149327_9330,Page1_Block26_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,576.0,503.0,617.0,512.0,AMOUNT,AMOUNT,correct,positions,0.613333
+ti31149327_9330,Page1_Block27_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,138.0,528.0,172.0,537.0,35656,35656,correct,positions,0.728
+ti31149327_9330,Page1_Block28_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,527.0,240.0,537.0,01-07,01-07,correct,positions,0.562
+ti31149327_9330,Page1_Block29_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,283.0,527.0,343.0,538.0,"15,625.00","15,625.00",correct,positions,0.604444
+ti31149327_9330,Page1_Block30_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,526.0,445.0,536.0,* 36434,* 36434,correct,positions,0.691
+ti31149327_9330,Page1_Block31_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,527.0,514.0,536.0,01-08,01-08,correct,positions,0.624
+ti31149327_9330,Page1_Block32_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,577.0,526.0,617.0,535.0,685.35,685.35,correct,positions,0.713333
+ti31149327_9330,Page1_Block33_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,539.0,172.0,549.0,* 35688,* 35688,correct,positions,0.846
+ti31149327_9330,Page1_Block34_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,539.0,240.0,548.0,01-15,01-15,correct,positions,0.53
+ti31149327_9330,Page1_Block35_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,289.0,538.0,343.0,549.0,"5,000.00","5,000.00",correct,positions,0.63625
+ti31149327_9330,Page1_Block36_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,538.0,445.0,547.0,* 36436,* 36436,correct,positions,0.662
+ti31149327_9330,Page1_Block37_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,538.0,514.0,547.0,01-06,01-06,correct,positions,0.54
+ti31149327_9330,Page1_Block38_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,578.0,537.0,617.0,547.0,135.45,135.45,correct,positions,0.645
+ti31149327_9330,Page1_Block39_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,139.0,551.0,172.0,560.0,35689,35689,correct,positions,0.836
+ti31149327_9330,Page1_Block40_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,551.0,240.0,560.0,01-08,01-08,correct,positions,0.556
+ti31149327_9330,Page1_Block41_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,289.0,550.0,343.0,561.0,"5,000.00","5,000.00",correct,positions,0.67875
+ti31149327_9330,Page1_Block42_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,549.0,445.0,559.0,* 36438,* 36438,correct,positions,0.81
+ti31149327_9330,Page1_Block43_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,550.0,514.0,559.0,01-06,01-06,correct,positions,0.68
+ti31149327_9330,Page1_Block44_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,578.0,549.0,617.0,558.0,192.75,192.75,correct,positions,0.815
+ti31149327_9330,Page1_Block45_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,139.0,562.0,172.0,572.0,35690,35690,correct,positions,0.724
+ti31149327_9330,Page1_Block46_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,562.0,240.0,571.0,01-15,01-15,correct,positions,0.768
+ti31149327_9330,Page1_Block47_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,290.0,561.0,343.0,573.0,"7,500.00","7,500.00",correct,positions,0.825
+ti31149327_9330,Page1_Block48_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,561.0,446.0,570.0,* 36440,* 36440,correct,positions,0.678
+ti31149327_9330,Page1_Block49_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,561.0,514.0,570.0,01-04,01-04,correct,positions,0.888
+ti31149327_9330,Page1_Block50_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,577.0,561.0,617.0,570.0,306.55,306.55,correct,positions,0.841667
+ti31149327_9330,Page1_Block51_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,573.0,172.0,583.0,* 35878,* 35878,correct,positions,0.76
+ti31149327_9330,Page1_Block52_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,574.0,240.0,583.0,01-05,01-05,correct,positions,0.68
+ti31149327_9330,Page1_Block53_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,303.0,573.0,343.0,583.0,250.00,250.00,correct,positions,0.873333
+ti31149327_9330,Page1_Block54_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,413.0,573.0,445.0,582.0,36441,36441,correct,positions,0.928
+ti31149327_9330,Page1_Block55_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,573.0,514.0,582.0,01-04,01-04,correct,positions,0.862
+ti31149327_9330,Page1_Block56_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,584.0,572.0,617.0,582.0,99.48,99.48,correct,positions,0.932
+ti31149327_9330,Page1_Block57_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,585.0,172.0,595.0,* 35914,* 35914,correct,positions,0.867
+ti31149327_9330,Page1_Block58_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,585.0,240.0,594.0,01-07,01-07,correct,positions,0.7
+ti31149327_9330,Page1_Block59_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,303.0,585.0,343.0,594.0,250.00,250.00,correct,positions,0.918333
+ti31149327_9330,Page1_Block60_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,413.0,585.0,445.0,594.0,36442,36442,correct,positions,0.906
+ti31149327_9330,Page1_Block61_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,585.0,514.0,593.0,01-04,01-04,correct,positions,0.53
+ti31149327_9330,Page1_Block62_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,577.0,584.0,616.0,593.0,389.81,389.81,correct,positions,0.926667
+ti31149327_9330,Page1_Block63_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,596.0,172.0,606.0,* 36105,* 36105,correct,positions,0.656
+ti31149327_9330,Page1_Block64_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,597.0,240.0,606.0,01-05,01-05,correct,positions,0.758
+ti31149327_9330,Page1_Block65_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,310.0,596.0,343.0,605.0,80.60,80.60,correct,positions,0.782
+ti31149327_9330,Page1_Block66_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,413.0,596.0,446.0,605.0,36443,36443,correct,positions,0.762
+ti31149327_9330,Page1_Block67_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,596.0,514.0,605.0,01-15,01-15,correct,positions,0.582
+ti31149327_9330,Page1_Block68_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,577.0,595.0,617.0,605.0,500.00,500.00,correct,positions,0.695
+ti31149327_9330,Page1_Block69_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,608.0,172.0,618.0,* 36329,* 36329,correct,positions,0.881
+ti31149327_9330,Page1_Block70_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,608.0,240.0,618.0,01-07,01-07,correct,positions,0.69
+ti31149327_9330,Page1_Block71_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,290.0,608.0,343.0,619.0,"2,000.00","2,000.00",correct,positions,0.7575
+ti31149327_9330,Page1_Block72_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,607.0,446.0,617.0,* 36446,* 36446,correct,positions,0.83
+ti31149327_9330,Page1_Block73_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,607.0,514.0,617.0,01-05,01-05,correct,positions,0.716
+ti31149327_9330,Page1_Block74_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,564.0,607.0,617.0,618.0,"1,958.26","1,958.26",correct,positions,0.88
+ti31149327_9330,Page1_Block74_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,564.0,619.0,616.0,630.0,"4,163.91","4,163.91",correct,positions,0.68625
+ti31149327_9330,Page1_Block75_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,620.0,172.0,629.0,* 36354,* 36354,correct,positions,0.659
+ti31149327_9330,Page1_Block76_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,620.0,240.0,629.0,01-08,01-08,correct,positions,0.556
+ti31149327_9330,Page1_Block77_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,290.0,619.0,343.0,630.0,"2,500.00","2,500.00",correct,positions,0.68375
+ti31149327_9330,Page1_Block78_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,413.0,619.0,445.0,628.0,36447,36447,correct,positions,0.876
+ti31149327_9330,Page1_Block79_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,619.0,514.0,628.0,01-08,01-08,correct,positions,0.576
+ti31149327_9330,Page1_Block80_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,631.0,172.0,641.0,* 36385,* 36385,correct,positions,0.783
+ti31149327_9330,Page1_Block81_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,632.0,240.0,640.0,01-04,01-04,correct,positions,0.492
+ti31149327_9330,Page1_Block82_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,310.0,631.0,343.0,640.0,25.00,25.00,correct,positions,0.824
+ti31149327_9330,Page1_Block83_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,413.0,631.0,446.0,640.0,36448,36448,correct,positions,0.882
+ti31149327_9330,Page1_Block84_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,631.0,514.0,640.0,01-04,01-04,correct,positions,0.832
+ti31149327_9330,Page1_Block85_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,577.0,630.0,617.0,639.0,479.79,479.79,correct,positions,0.885
+ti31149327_9330,Page1_Block86_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,643.0,171.0,652.0,* 36411,* 36411,correct,positions,0.843
+ti31149327_9330,Page1_Block87_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,643.0,239.0,652.0,01-11,01-11,correct,positions,0.798
+ti31149327_9330,Page1_Block88_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,290.0,643.0,343.0,653.0,"1,008.17","1,008.17",correct,positions,0.75875
+ti31149327_9330,Page1_Block89_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,642.0,445.0,651.0,* 36451,* 36451,correct,positions,0.578
+ti31149327_9330,Page1_Block90_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,481.0,642.0,514.0,651.0,01-06,01-06,correct,positions,0.498
+ti31149327_9330,Page1_Block91_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,564.0,642.0,618.0,652.0,"1,000.00","1,000.00",correct,positions,0.72125
+ti31149327_9330,Page1_Block92_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,654.0,172.0,664.0,* 36416,* 36416,correct,positions,0.888
+ti31149327_9330,Page1_Block93_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,654.0,240.0,664.0,01-04,01-04,correct,positions,0.718
+ti31149327_9330,Page1_Block94_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,303.0,654.0,343.0,663.0,770.66,770.66,correct,positions,0.691667
+ti31149327_9330,Page1_Block95_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,413.0,654.0,446.0,663.0,36452,36452,correct,positions,0.76
+ti31149327_9330,Page1_Block96_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,482.0,654.0,514.0,663.0,01-06,01-06,correct,positions,0.566
+ti31149327_9330,Page1_Block97_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,564.0,653.0,617.0,664.0,"7,510.72","7,510.72",correct,positions,0.775
+ti31149327_9330,Page1_Block98_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,666.0,172.0,676.0,* 36418,* 36418,correct,positions,0.711
+ti31149327_9330,Page1_Block99_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,666.0,240.0,675.0,01-12,01-12,correct,positions,0.696
+ti31149327_9330,Page1_Block100_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,290.0,666.0,343.0,676.0,"2,460.90","2,460.90",correct,positions,0.81
+ti31149327_9330,Page1_Block101_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,665.0,446.0,675.0,* 36457,* 36457,correct,positions,0.775
+ti31149327_9330,Page1_Block102_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,482.0,665.0,514.0,674.0,01-04,01-04,correct,positions,0.614
+ti31149327_9330,Page1_Block103_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,557.0,665.0,617.0,676.0,"60,999.53","60,999.53",correct,positions,0.721111
+ti31149327_9330,Page1_Block104_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,678.0,172.0,687.0,* 36420,* 36420,correct,positions,0.509
+ti31149327_9330,Page1_Block105_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,678.0,240.0,687.0,01-04,01-04,correct,positions,0.414
+ti31149327_9330,Page1_Block106_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,310.0,678.0,343.0,686.0,34.00,34.00,correct,positions,0.836
+ti31149327_9330,Page1_Block107_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,400.0,677.0,446.0,686.0,* 36459,* 36459,correct,positions,0.435
+ti31149327_9330,Page1_Block108_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,482.0,677.0,514.0,686.0,01-04,01-04,correct,positions,0.448
+ti31149327_9330,Page1_Block109_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,563.0,677.0,617.0,687.0,"8,653.88","8,653.88",correct,positions,0.7475
+ti31149327_9330,Page1_Block110_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,689.0,172.0,698.0,* 36422,* 36422,correct,positions,0.951
+ti31149327_9330,Page1_Block111_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,689.0,240.0,698.0,01-04,01-04,correct,positions,0.768
+ti31149327_9330,Page1_Block112_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,310.0,689.0,343.0,698.0,89.88,89.88,correct,positions,0.902
+ti31149327_9330,Page1_Block113_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,399.0,688.0,446.0,698.0,* 36462,* 36462,correct,positions,0.697
+ti31149327_9330,Page1_Block114_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,482.0,688.0,514.0,697.0,01-06,01-06,correct,positions,0.51
+ti31149327_9330,Page1_Block115_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,558.0,688.0,618.0,699.0,"29,177.80","29,177.80",correct,positions,0.716667
+ti31149327_9330,Page1_Block116_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,700.0,172.0,710.0,* 36424,* 36424,correct,positions,0.796
+ti31149327_9330,Page1_Block117_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,701.0,240.0,710.0,01-11,01-11,correct,positions,0.594
+ti31149327_9330,Page1_Block118_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,304.0,701.0,343.0,709.0,138.00,138.00,correct,positions,0.598333
+ti31149327_9330,Page1_Block119_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,400.0,699.0,446.0,709.0,* 36468,* 36468,correct,positions,0.376
+ti31149327_9330,Page1_Block120_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,482.0,700.0,514.0,709.0,01-04,01-04,correct,positions,0.692
+ti31149327_9330,Page1_Block121_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,558.0,700.0,618.0,710.0,"10,367.10","10,367.10",correct,positions,0.538889
+ti31149327_9330,Page1_Block122_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,712.0,172.0,722.0,* 36426,* 36426,correct,positions,0.811
+ti31149327_9330,Page1_Block123_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,712.0,239.0,721.0,01-11,01-11,correct,positions,0.678
+ti31149327_9330,Page1_Block124_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,311.0,712.0,343.0,721.0,21.95,21.95,correct,positions,0.582
+ti31149327_9330,Page1_Block125_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,413.0,712.0,446.0,721.0,36469,36469,correct,positions,0.686
+ti31149327_9330,Page1_Block126_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,482.0,712.0,514.0,721.0,01-05,01-05,correct,positions,0.652
+ti31149327_9330,Page1_Block127_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,577.0,711.0,617.0,720.0,970.01,970.01,correct,positions,0.848333
+ti31149327_9330,Page1_Block128_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,723.0,172.0,733.0,* 36429,* 36429,correct,positions,0.943
+ti31149327_9330,Page1_Block129_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,207.0,724.0,241.0,733.0,01-08,01-08,correct,positions,0.664
+ti31149327_9330,Page1_Block130_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,303.0,723.0,343.0,733.0,292.38,292.38,correct,positions,0.715
+ti31149327_9330,Page1_Block131_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,358.0,723.0,446.0,732.0,*M0RE** 36476,*M0RE** 36476,correct,positions,0.653857
+ti31149327_9330,Page1_Block132_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,482.0,723.0,514.0,732.0,01-06,01-06,correct,positions,0.442
+ti31149327_9330,Page1_Block133_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,585.0,723.0,618.0,732.0,15.50,15.50,correct,positions,0.582
+ti31149327_9330,Page1_Block134_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,296.0,747.0,439.0,755.0,REFERENCE DESCRIPTION,REFERENCE DESCRIPTION,correct,other,0.415202
+ti31149327_9330,Page1_Block134_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,125.0,769.0,474.0,780.0,* DENOTES A BREAK IN CHECK SERIAL NUMBER SEQUENCE,* DENOTES A BREAK IN CHECK SERIAL NUMBER SEQUENCE,correct,other,0.723595
+ti31149327_9330,Page1_Block134_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,133.0,800.0,605.0,816.0,"For General Banking and Account Information, call (301) 887-6000 or","For General Banking and Account Information, call (301) 887-6000 or",correct,other,0.54744
+ti31149327_9330,Page1_Block134_l6,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,134.0,814.0,598.0,829.0,"(800) 368-5800 toll-free within the Continental U.S., or visit our","(800) 368-5800 toll-free within the Continental U.S., or visit our",correct,other,0.600716
+ti31149327_9330,Page1_Block134_l7,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,132.0,830.0,577.0,843.0,website at www.riggsbank.com. For Inquiries on Electronic Banking,website at www.riggsbank.com. For Inquiries on Electronic Banking,correct,other,0.622024
+ti31149327_9330,Page1_Block134_l8,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,133.0,841.0,591.0,856.0,"transactions, ATM, or CheckCard, call (301) 887-6000 and press 5.","transactions, ATM, or CheckCard, call (301) 887-6000 and press 5.",correct,other,0.677849
+ti31149327_9330,Page1_Block136_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,307.0,945.0,491.0,953.0,Member PDIC Member Federal Reserve System.,Member PDIC Member Federal Reserve System.,correct,other,0.326687
+ti31149327_9330,Page1_Block137_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,641.0,964.0,721.0,974.0,TI3114-9327,TI3114-9327,correct,other,0.993636

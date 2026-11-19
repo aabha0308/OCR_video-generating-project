@@ -1,0 +1,46 @@
+OCR ANNOTATION CONSOLIDATION REPORT
+=================================================================
+
+Dataset version: v3
+Source folder: D:\OCR_Internship\ocr\data\annotations\ocr_validation\workbench_v1
+Output file: D:\OCR_Internship\ocr\data\annotations\ocr_validation\v3\consolidated_annotations_v3.csv
+
+SOURCE FILES
+-----------------------------------------------------------------
+document_2061828225_review.csv: 223 rows
+document_503116473+-6473_review.csv: 149 rows
+document_507484246_review.csv: 269 rows
+document_96052028_review.csv: 139 rows
+document_ti31149327_9330_review.csv: 157 rows
+
+TOTAL ROWS
+-----------------------------------------------------------------
+Total reviewed OCR lines: 937
+Training-eligible rows: 906
+Excluded rows: 31
+
+ANNOTATION STATUS COUNTS
+-----------------------------------------------------------------
+correct: 749
+major_error: 43
+minor_error: 114
+non_text: 27
+unreadable: 4
+
+VALIDATION CHECKS
+-----------------------------------------------------------------
+All five expected input files found: PASS
+Expected row counts: PASS
+Required columns present: PASS
+Column names and order consistent: PASS
+Duplicate document/line IDs: NONE
+Pending annotations: NONE
+Training rows have transcription: PASS
+Excluded rows have empty transcription: PASS
+OCR confidence values within 0-1: PASS
+Saved output row count: 937
+
+NOTE
+-----------------------------------------------------------------
+These checks verify dataset structure and consistency.
+They do not independently verify transcription accuracy.

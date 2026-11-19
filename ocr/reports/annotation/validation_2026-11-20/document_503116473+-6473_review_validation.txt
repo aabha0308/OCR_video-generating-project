@@ -1,0 +1,26 @@
+OCR ANNOTATION VALIDATION REPORT
+=================================================================
+Input file: D:\OCR_Internship\ocr\data\annotations\ocr_validation\workbench_v1\document_503116473+-6473_review.csv
+Total rows: 149
+
+ANNOTATION STATUS COUNTS
+-----------------------------------------------------------------
+correct: 100
+major_error: 9
+minor_error: 22
+non_text: 18
+
+Errors: 0
+Warnings: 0
+
+ERROR DETAILS
+-----------------------------------------------------------------
+No errors found.
+
+WARNING DETAILS
+-----------------------------------------------------------------
+No warnings found.
+
+LIMITATION
+-----------------------------------------------------------------
+Structural validation does not prove that ground-truth text matches the original document image.

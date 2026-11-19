@@ -1,0 +1,82 @@
+OCR CROP DIMENSION ANALYSIS
+=================================================================
+Total crops: 751
+Flagged crops: 632
+
+FLAG REASONS
+-----------------------------------------------------------------
+Height only: 599
+Both width and height: 33
+Not flagged: 119
+
+OVERALL DIMENSION STATISTICS
+-----------------------------------------------------------------
+Width - minimum: 3
+Width - median: 40
+Width - maximum: 568
+Height - minimum: 2
+Height - median: 9
+Height - maximum: 18
+
+PER-DOCUMENT ANALYSIS
+-----------------------------------------------------------------
+
+Document: 2061828225
+Total crops: 197
+Flagged: 197
+Width min/median/max: 4/28/343
+Height min/median/max: 6/7/11
+Five smallest crops:
+  Page1_Block11_l5: 4x7 | GT: 3
+  Page1_Block11_l6: 5x6 | GT: 4
+  Page1_Block9_l5: 6x7 | GT: O
+  Page1_Block60_l1: 14x6 | GT: .CO
+  Page1_Block148_l1: 14x6 | GT: .00
+
+Document: 503116473+-6473
+Total crops: 100
+Flagged: 53
+Width min/median/max: 3/43.5/296
+Height min/median/max: 2/11.0/18
+Five smallest crops:
+  Page1_Block62_l1: 3x2 | GT: •
+  Page1_Block75_l1: 3x3 | GT: •
+  Page1_Block7_l2: 6x10 | GT: 1
+  Page1_Block19_l1: 21x9 | GT: ADT
+  Page1_Block43_l1: 21x9 | GT: PPT
+
+Document: 507484246
+Total crops: 189
+Flagged: 144
+Width min/median/max: 4/43/568
+Height min/median/max: 7/10/13
+Five smallest crops:
+  Page1_Block144_l1: 4x9 | GT: 1
+  Page1_Block218_l1: 4x9 | GT: 1
+  Page1_Block107_l1: 5x9 | GT: 1
+  Page1_Block181_l1: 5x9 | GT: 1
+  Page1_Block46_l1: 7x9 | GT: 4
+
+Document: 96052028
+Total crops: 114
+Flagged: 96
+Width min/median/max: 5/33.0/329
+Height min/median/max: 4/9.0/15
+Five smallest crops:
+  Page1_Block49_l1: 6x4 | GT: =
+  Page1_Block56_l1: 6x4 | GT: =
+  Page1_Block128_l1: 6x4 | GT: =
+  Page1_Block41_l1: 6x5 | GT: =
+  Page1_Block118_l1: 5x9 | GT: 3
+
+Document: ti31149327_9330
+Total crops: 151
+Flagged: 142
+Width min/median/max: 5/40/483
+Height min/median/max: 8/9/16
+Five smallest crops:
+  Page1_Block3_l1: 5x9 | GT: 0
+  Page1_Block9_l2: 7x10 | GT: 0
+  Page1_Block9_l3: 19x9 | GT: .00
+  Page1_Block25_l1: 26x8 | GT: DATE
+  Page1_Block13_l1: 27x8 | GT: DATE

@@ -1,0 +1,26 @@
+﻿document_id,ocr_line_id,image_path,image_width,image_height,x1,y1,x2,y2,ground_truth_text,predicted_text,validation_status,matched_entity,ocr_line_confidence
+2061828225,Page1_Block11_l6,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,551.0,160.0,556.0,166.0,4,4,correct,invoice_info,0.0
+2061828225,Page1_Block9_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,480.0,26.0,531.0,33.0,PAGE 001,PAGE 001,correct,invoice_info,0.145833
+2061828225,Page1_Block1_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,265.0,756.0,524.0,766.0,I D E N T I A L,I D E N T I A L,correct,other,0.77375
+2061828225,Page1_Block94_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,411.0,382.0,426.0,389.0,.00,.00,correct,positions,0.526667
+2061828225,Page1_Block196_l3,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\2061828225.tif,607,1000,96.0,648.0,124.0,655.0,401.9,401.9,correct,positions,0.402
+503116473+-6473,Page1_Block105_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,10.0,695.0,36.0,704.0,PPT:,PPT:,correct,positions,0.335
+503116473+-6473,Page1_Block113_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,771.0,148.0,783.0,REASON FOR REVISION:,REASON FOR REVISION:,correct,positions,0.396667
+503116473+-6473,Page1_Block2_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,16.0,93.0,163.0,104.0,LKP INTERNATIONAL LTD,LKP INTERNATIONAL LTD,correct,supplier,0.442735
+503116473+-6473,Page1_Block47_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,592.0,346.0,620.0,357.0,0.00,0.00,correct,positions,0.57
+503116473+-6473,Page1_Block128_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\503116473+-6473.tif,754,1000,9.0,848.0,35.0,857.0,AOT:,AOT:,correct,positions,0.6725
+507484246,Page1_Block46_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,582.0,423.0,589.0,432.0,4,4,correct,positions,0.0
+507484246,Page1_Block56_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,580.0,438.0,587.0,447.0,4,4,correct,positions,0.0
+507484246,Page1_Block1_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,543.0,25.0,772.0,36.0,AFFIDAVIT OF SERVICE RENDERED,AFFIDAVIT OF SERVICE RENDERED,correct,other,0.715283
+507484246,Page1_Block123_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,160.0,605.0,204.0,617.0,9:26p,9:26p,correct,positions,0.244
+507484246,Page1_Block252_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\507484246.tif,777,1000,504.0,977.0,687.0,988.0,PLEASE PAY THIS AMOUNT-,PLEASE PAY THIS AMOUNT-,correct,other,0.720923
+96052028,Page1_Block35_l2,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,519.0,354.0,534.0,360.0,FOR,FOR,correct,,0.19
+96052028,Page1_Block24_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,443.0,226.0,496.0,233.0,CHAIN 1.D. NO.,CHAIN ID. MX,correct,,0.221889
+96052028,Page1_Block1_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,222.0,82.0,535.0,97.0,LORILLARD PLAN ll/PLAN IIV INVOICE,LORILLARD PLAN ll/PLAN IIV INVOICE,correct,,0.798071
+96052028,Page1_Block62_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,431.0,434.0,439.0,441.0,+,+,correct,,1.0
+96052028,Page1_Block132_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\96052028.tif,754,1000,642.0,694.0,690.0,706.0,$865.00,$865.00,correct,,0.807143
+ti31149327_9330,Page1_Block3_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,600.0,191.0,605.0,200.0,0,0,correct,receiver,0.26
+ti31149327_9330,Page1_Block7_l5,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,124.0,411.0,206.0,419.0,-NEW BALANCE,-NEW BALANCE,correct,other,0.275714
+ti31149327_9330,Page1_Block2_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,474.0,106.0,562.0,116.0,Statement,Statement,correct,supplier,0.64
+ti31149327_9330,Page1_Block68_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,577.0,595.0,617.0,605.0,500.00,500.00,correct,positions,0.695
+ti31149327_9330,Page1_Block137_l1,D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data\ti31149327_9330.tif,754,1000,641.0,964.0,721.0,974.0,TI3114-9327,TI3114-9327,correct,other,0.993636

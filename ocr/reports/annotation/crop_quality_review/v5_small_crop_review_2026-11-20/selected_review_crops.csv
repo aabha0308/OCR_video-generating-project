@@ -1,0 +1,46 @@
+﻿document_id,ocr_line_id,crop_path,ground_truth_text,predicted_text,matched_entity,ocr_line_confidence,crop_width,crop_height,padding_pixels,review_flag
+2061828225,Page1_Block11_l6,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0022_2061828225_Page1_Block11_l6.png,4,4,invoice_info,0.0,5,6,0,review_small_crop
+2061828225,Page1_Block60_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0069_2061828225_Page1_Block60_l1.png,.CO,.CO,positions,0.653333,14,6,0,review_small_crop
+2061828225,Page1_Block148_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0153_2061828225_Page1_Block148_l1.png,.00,.00,positions,0.436667,14,6,0,review_small_crop
+2061828225,Page1_Block24_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0033_2061828225_Page1_Block24_l1.png,.00,.00,positions,0.41,15,6,0,review_small_crop
+2061828225,Page1_Block29_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0038_2061828225_Page1_Block29_l1.png,.00,.00,positions,0.49,15,6,0,review_small_crop
+2061828225,Page1_Block7_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0005_2061828225_Page1_Block7_l1.png,•DETAIL SUMMARY,•DETAIL SUMMARY,supplier,0.343571,88,7,0,review_small_crop
+2061828225,Page1_Block8_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0007_2061828225_Page1_Block8_l1.png,BILL DATE,BILL DATE,invoice_info,0.17375,52,7,0,review_small_crop
+2061828225,Page1_Block9_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0009_2061828225_Page1_Block9_l1.png,PAGE 001,PAGE 001,invoice_info,0.145833,51,7,0,review_small_crop
+2061828225,Page1_Block11_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0021_2061828225_Page1_Block11_l5.png,3,3,invoice_info,1.0,4,7,0,review_small_crop
+503116473+-6473,Page1_Block62_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0257_503116473_-6473_Page1_Block62_l1.png,•,•,positions,0.55,3,2,0,review_small_crop
+503116473+-6473,Page1_Block75_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0266_503116473_-6473_Page1_Block75_l1.png,•,•,positions,1.0,3,3,0,review_small_crop
+503116473+-6473,Page1_Block121_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0292_503116473_-6473_Page1_Block121_l1.png,AOR:,AOR:,positions,0.685,26,8,0,review_small_crop
+503116473+-6473,Page1_Block118_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0290_503116473_-6473_Page1_Block118_l1.png,ADT:,ADT:,positions,0.755,27,8,0,review_small_crop
+503116473+-6473,Page1_Block19_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0224_503116473_-6473_Page1_Block19_l1.png,ADT,ADT,positions,0.45,21,9,0,review_small_crop
+503116473+-6473,Page1_Block2_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0198_503116473_-6473_Page1_Block2_l1.png,LKP INTERNATIONAL LTD,LKP INTERNATIONAL LTD,supplier,0.442735,147,11,0,review_small_crop
+503116473+-6473,Page1_Block4_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0200_503116473_-6473_Page1_Block4_l1.png,CLIENT:,CLIENT:,receiver,0.647143,49,11,0,review_small_crop
+503116473+-6473,Page1_Block4_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0202_503116473_-6473_Page1_Block4_l3.png,EST #:,EST #:,receiver,0.558333,41,11,0,review_small_crop
+507484246,Page1_Block9_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0305_507484246_Page1_Block9_l5.png,By.,By.,other,0.576667,14,7,0,review_small_crop
+507484246,Page1_Block23_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0312_507484246_Page1_Block23_l1.png,LENGTH,LENGTH,positions,0.541667,36,7,0,review_small_crop
+507484246,Page1_Block24_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0313_507484246_Page1_Block24_l1.png,NO RUN,NO RUN,positions,0.490833,38,7,0,review_small_crop
+507484246,Page1_Block5_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0302_507484246_Page1_Block5_l1.png,State of FL,State of FL,other,0.468667,51,7,0,review_small_crop
+507484246,Page1_Block243_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0480_507484246_Page1_Block243_l1.png,CURRENT,CURRENT,other,0.887143,63,8,0,review_small_crop
+507484246,Page1_Block14_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0307_507484246_Page1_Block14_l1.png,DORETHA Y. ADAMS,DORETHA Y. ADAMS,other,0.417857,145,10,0,review_small_crop
+507484246,Page1_Block25_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0314_507484246_Page1_Block25_l1.png,RATE,RATE,positions,0.775,34,10,0,review_small_crop
+507484246,Page1_Block26_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0315_507484246_Page1_Block26_l1.png,AMOUNT,AMOUNT,positions,0.805,58,10,0,review_small_crop
+507484246,Page1_Block144_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0410_507484246_Page1_Block144_l1.png,1,1,positions,0.62,4,9,0,review_small_crop
+507484246,Page1_Block218_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0471_507484246_Page1_Block218_l1.png,1,1,positions,0.17,4,9,0,review_small_crop
+96052028,Page1_Block49_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0532_96052028_Page1_Block49_l1.png,=,=,,0.62,6,4,0,review_small_crop
+96052028,Page1_Block56_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0539_96052028_Page1_Block56_l1.png,=,=,,0.64,6,4,0,review_small_crop
+96052028,Page1_Block128_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0597_96052028_Page1_Block128_l1.png,=,=,,0.83,6,4,0,review_small_crop
+96052028,Page1_Block41_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0524_96052028_Page1_Block41_l1.png,=,=,,0.59,6,5,0,review_small_crop
+96052028,Page1_Block5_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0490_96052028_Page1_Block5_l1.png,DATE:,DATE:,,0.502,22,5,0,review_small_crop
+96052028,Page1_Block3_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0488_96052028_Page1_Block3_l1.png,INVOICE,INVOICE,,0.574286,56,9,0,review_small_crop
+96052028,Page1_Block42_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0525_96052028_Page1_Block42_l1.png,0 X,0 X,,0.59,22,9,0,review_small_crop
+96052028,Page1_Block50_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0533_96052028_Page1_Block50_l1.png,0 X,0 X,,1.0,21,9,0,review_small_crop
+96052028,Page1_Block118_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0589_96052028_Page1_Block118_l1.png,3,3,,0.46,5,9,0,review_small_crop
+ti31149327_9330,Page1_Block25_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0634_ti31149327_9330_Page1_Block25_l1.png,DATE,DATE,positions,0.855,26,8,0,review_small_crop
+ti31149327_9330,Page1_Block13_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0623_ti31149327_9330_Page1_Block13_l1.png,DATE,DATE,positions,0.715,27,8,0,review_small_crop
+ti31149327_9330,Page1_Block16_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0626_ti31149327_9330_Page1_Block16_l1.png,DATE,DATE,positions,0.71,27,8,0,review_small_crop
+ti31149327_9330,Page1_Block61_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0670_ti31149327_9330_Page1_Block61_l1.png,01-04,01-04,positions,0.53,33,8,0,review_small_crop
+ti31149327_9330,Page1_Block81_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0691_ti31149327_9330_Page1_Block81_l1.png,01-04,01-04,positions,0.492,33,8,0,review_small_crop
+ti31149327_9330,Page1_Block3_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0602_ti31149327_9330_Page1_Block3_l1.png,0,0,receiver,0.26,5,9,0,review_small_crop
+ti31149327_9330,Page1_Block7_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0609_ti31149327_9330_Page1_Block7_l1.png,OPENING BALANCE,OPENING BALANCE,other,0.565,102,9,0,review_small_crop
+ti31149327_9330,Page1_Block7_l4,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0611_ti31149327_9330_Page1_Block7_l4.png,-OTHER DEBITS,-OTHER DEBITS,other,0.785833,88,9,0,review_small_crop
+ti31149327_9330,Page1_Block9_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v2\images\0620_ti31149327_9330_Page1_Block9_l2.png,0,0,other,0.67,7,10,0,review_small_crop

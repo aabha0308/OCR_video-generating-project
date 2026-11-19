@@ -1,0 +1,23 @@
+GROUND-TRUTH TEXT AUDIT V1
+=======================================================
+Total rows audited: 749
+Flagged rows: 57
+Rows without flags: 692
+
+SPLIT COUNTS
+-------------------------------------------------------
+train: 484
+validation: 114
+test: 151
+
+FLAG COUNTS
+-------------------------------------------------------
+single_character_label: 54
+possible_spaced_characters: 3
+
+IMPORTANT
+-------------------------------------------------------
+This audit only identifies patterns for manual inspection.
+It does not modify or normalize any ground-truth transcription.
+Single-character labels are not automatically errors.
+Possible spaced characters must be checked against original TIFFs.

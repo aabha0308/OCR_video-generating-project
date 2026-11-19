@@ -1,0 +1,31 @@
+OCR DOCUMENT SPLIT V1 REPORT
+==================================================
+Source manifest: D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\final_crop_manifest_v3.csv
+Total rows: 749
+
+DOCUMENT ASSIGNMENT
+--------------------------------------------------
+2061828225: 197 rows -> train
+503116473+-6473: 98 rows -> train
+507484246: 189 rows -> train
+96052028: 114 rows -> validation
+ti31149327_9330: 151 rows -> test
+
+SPLIT SUMMARY
+--------------------------------------------------
+train: 484 crops (64.62%)
+validation: 114 crops (15.22%)
+test: 151 crops (20.16%)
+
+VALIDATION RESULTS
+--------------------------------------------------
+Total rows verified: PASS
+Document counts verified: PASS
+Duplicate line IDs: 0
+Missing crop files: 0
+Empty transcriptions: 0
+Document overlap between splits: 0
+
+NOTE
+This is a preliminary document-level split using five documents.
+The validation and test results have limited document diversity.

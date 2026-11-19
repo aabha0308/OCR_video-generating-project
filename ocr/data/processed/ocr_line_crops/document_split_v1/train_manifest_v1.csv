@@ -1,0 +1,485 @@
+﻿document_id,ocr_line_id,crop_path,ground_truth_text,predicted_text,matched_entity,ocr_line_confidence,crop_width,crop_height,padding_pixels,review_flag
+2061828225,Page1_Block1_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0001_2061828225_Page1_Block1_l1.png,I D E N T I A L,I D E N T I A L,other,0.77375,259,10,0,review_small_crop
+2061828225,Page1_Block2_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0002_2061828225_Page1_Block2_l1.png,C O N F,C O N F,other,0.6925,121,11,0,review_small_crop
+2061828225,Page1_Block5_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0003_2061828225_Page1_Block5_l1.png,CONFIDE,CONFIDE,other,0.76,228,10,0,review_small_crop
+2061828225,Page1_Block6_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0004_2061828225_Page1_Block6_l1.png,N T I A L,N T I A L,other,0.734,152,10,0,review_small_crop
+2061828225,Page1_Block7_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0005_2061828225_Page1_Block7_l1.png,•DETAIL SUMMARY,•DETAIL SUMMARY,supplier,0.343571,88,7,0,review_small_crop
+2061828225,Page1_Block7_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0006_2061828225_Page1_Block7_l5.png,PHONE 302-325-7025 DISCH DATE 04/19/94,PHONE 302-325-7025 DISCH DATE 04/19/94,supplier,0.4599,254,9,0,review_small_crop
+2061828225,Page1_Block8_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0007_2061828225_Page1_Block8_l1.png,BILL DATE,BILL DATE,invoice_info,0.17375,52,7,0,review_small_crop
+2061828225,Page1_Block8_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0008_2061828225_Page1_Block8_l2.png,04/25/94,04/25/94,invoice_info,0.3725,47,9,0,review_small_crop
+2061828225,Page1_Block9_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0009_2061828225_Page1_Block9_l1.png,PAGE 001,PAGE 001,invoice_info,0.145833,51,7,0,review_small_crop
+2061828225,Page1_Block9_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0010_2061828225_Page1_Block9_l3.png,15408162 001,15408162 001,invoice_info,0.389792,75,7,0,review_small_crop
+2061828225,Page1_Block9_l4,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0011_2061828225_Page1_Block9_l4.png,BILL TYPE,BILL TYPE,invoice_info,0.4225,52,7,0,review_small_crop
+2061828225,Page1_Block9_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0012_2061828225_Page1_Block9_l5.png,O,O,invoice_info,0.15,6,7,0,review_small_crop
+2061828225,Page1_Block10_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0013_2061828225_Page1_Block10_l1.png,"BUTLER, PAUL CO/PLAN INSURANCE CO.","BUTLER, PAUL CO/PLAN INSURANCE CO.",invoice_info,0.552262,343,9,0,review_small_crop
+2061828225,Page1_Block10_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0014_2061828225_Page1_Block10_l2.png,30 003 BLUE CROSS 070,30 003 BLUE CROSS 070,invoice_info,0.528533,141,7,0,review_small_crop
+2061828225,Page1_Block10_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0015_2061828225_Page1_Block10_l3.png,01 001,01 001,invoice_info,0.34,34,7,0,review_small_crop
+2061828225,Page1_Block10_l4,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0016_2061828225_Page1_Block10_l4.png,GUARANTOR NAME/ADDRESS,GUARANTOR NAME/ADDRESS,receiver,0.618056,130,9,0,review_small_crop
+2061828225,Page1_Block10_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0017_2061828225_Page1_Block10_l5.png,"BUTLER, PAUL","BUTLER, PAUL",receiver,0.547321,70,7,0,review_small_crop
+2061828225,Page1_Block10_l6,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0018_2061828225_Page1_Block10_l6.png,POB 351/20 EAST 4TH,POB 351/20 EAST 4TH,receiver,0.442083,111,9,0,review_small_crop
+2061828225,Page1_Block11_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0019_2061828225_Page1_Block11_l1.png,POLICY NO. COB,POLICY NO. COB,invoice_info,0.426111,94,8,0,review_small_crop
+2061828225,Page1_Block11_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0020_2061828225_Page1_Block11_l2.png,XHA0462456196 1,XHA0462456196 1,invoice_info,0.442308,93,7,0,review_small_crop
+2061828225,Page1_Block11_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0021_2061828225_Page1_Block11_l5.png,3,3,invoice_info,1.0,4,7,0,review_small_crop
+2061828225,Page1_Block11_l6,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0022_2061828225_Page1_Block11_l6.png,4,4,invoice_info,0.0,5,6,0,review_small_crop
+2061828225,Page1_Block14_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0023_2061828225_Page1_Block14_l1.png,TOTALS,TOTALS,positions,0.291667,35,7,0,review_small_crop
+2061828225,Page1_Block15_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0024_2061828225_Page1_Block15_l1.png,PAYOR 1,PAYOR 1,positions,0.347,39,7,0,review_small_crop
+2061828225,Page1_Block16_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0025_2061828225_Page1_Block16_l1.png,PAYOR 2,PAYOP 2,positions,0.256,40,7,0,review_small_crop
+2061828225,Page1_Block17_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0026_2061828225_Page1_Block17_l1.png,PAYOR 3,PAYOR 3,positions,0.371,40,6,0,review_small_crop
+2061828225,Page1_Block18_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0027_2061828225_Page1_Block18_l1.png,PATIENT,PATIENT,positions,0.282857,40,6,0,review_small_crop
+2061828225,Page1_Block19_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0028_2061828225_Page1_Block19_l1.png,120 ROOM-BOARD-SEMI,120 ROOM-BOARD-SEMI,positions,0.508333,110,7,0,review_small_crop
+2061828225,Page1_Block20_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0029_2061828225_Page1_Block20_l1.png,5100.00,5100.00,positions,0.601429,40,7,0,review_small_crop
+2061828225,Page1_Block21_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0030_2061828225_Page1_Block21_l1.png,5100.00,5100.00,positions,0.442857,40,7,0,review_small_crop
+2061828225,Page1_Block22_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0031_2061828225_Page1_Block22_l1.png,.00,.00,positions,0.806667,15,7,0,review_small_crop
+2061828225,Page1_Block23_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0032_2061828225_Page1_Block23_l1.png,.00,.00,positions,0.743333,16,6,0,review_small_crop
+2061828225,Page1_Block24_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0033_2061828225_Page1_Block24_l1.png,.00,.00,positions,0.41,15,6,0,review_small_crop
+2061828225,Page1_Block25_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0034_2061828225_Page1_Block25_l1.png,201 ICU-SURGICAL,201 ICU-SURGICAL,positions,0.609583,94,8,0,review_small_crop
+2061828225,Page1_Block26_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0035_2061828225_Page1_Block26_l1.png,1465.00,1465.00,positions,0.467143,40,7,0,review_small_crop
+2061828225,Page1_Block27_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0036_2061828225_Page1_Block27_l1.png,1465.00,1465.00,positions,0.605714,40,7,0,review_small_crop
+2061828225,Page1_Block28_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0037_2061828225_Page1_Block28_l1.png,.00,.00,positions,0.703333,15,7,0,review_small_crop
+2061828225,Page1_Block29_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0038_2061828225_Page1_Block29_l1.png,.00,.00,positions,0.49,15,6,0,review_small_crop
+2061828225,Page1_Block30_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0039_2061828225_Page1_Block30_l1.png,.00,.00,positions,0.486667,15,6,0,review_small_crop
+2061828225,Page1_Block31_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0040_2061828225_Page1_Block31_l1.png,250 PHARMACY,250 PHARMACY,positions,0.350208,69,7,0,review_small_crop
+2061828225,Page1_Block32_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0041_2061828225_Page1_Block32_l1.png,664.20,664.20,positions,0.64,34,7,0,review_small_crop
+2061828225,Page1_Block33_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0042_2061828225_Page1_Block33_l1.png,664.20,664.20,positions,0.555,35,8,0,review_small_crop
+2061828225,Page1_Block34_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0043_2061828225_Page1_Block34_l1.png,.00,.00,positions,0.603333,15,7,0,review_small_crop
+2061828225,Page1_Block35_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0044_2061828225_Page1_Block35_l1.png,.00,.00,positions,0.4,15,6,0,review_small_crop
+2061828225,Page1_Block36_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0045_2061828225_Page1_Block36_l1.png,.00,.00,positions,0.53,15,7,0,review_small_crop
+2061828225,Page1_Block37_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0046_2061828225_Page1_Block37_l1.png,258 IV SOLUTIONS,258 IV SOLUTIONS,positions,0.565741,93,7,0,review_small_crop
+2061828225,Page1_Block38_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0047_2061828225_Page1_Block38_l1.png,297.65,297.65,positions,0.503333,34,7,0,review_small_crop
+2061828225,Page1_Block39_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0048_2061828225_Page1_Block39_l1.png,297.65,297.65,positions,0.376667,34,8,0,review_small_crop
+2061828225,Page1_Block40_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0049_2061828225_Page1_Block40_l1.png,.00,.00,positions,0.57,15,7,0,review_small_crop
+2061828225,Page1_Block41_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0050_2061828225_Page1_Block41_l1.png,.00,.00,positions,0.766667,15,7,0,review_small_crop
+2061828225,Page1_Block42_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0051_2061828225_Page1_Block42_l1.png,.00,.00,positions,0.673333,15,7,0,review_small_crop
+2061828225,Page1_Block43_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0052_2061828225_Page1_Block43_l1.png,260 IV THERAPY,260 IV THERAPY,positions,0.495397,81,7,0,review_small_crop
+2061828225,Page1_Block44_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0053_2061828225_Page1_Block44_l1.png,67.00,67.00,positions,0.308,28,7,0,review_small_crop
+2061828225,Page1_Block45_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0054_2061828225_Page1_Block45_l1.png,67.00,67.00,positions,0.588,29,7,0,review_small_crop
+2061828225,Page1_Block46_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0055_2061828225_Page1_Block46_l1.png,.00,.00,positions,0.456667,15,7,0,review_small_crop
+2061828225,Page1_Block47_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0056_2061828225_Page1_Block47_l1.png,.00,.00,positions,0.653333,15,7,0,review_small_crop
+2061828225,Page1_Block48_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0057_2061828225_Page1_Block48_l1.png,.00,.00,positions,0.51,15,7,0,review_small_crop
+2061828225,Page1_Block49_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0058_2061828225_Page1_Block49_l1.png,270 MED-SUR SUPPLIES,270 MED-SUR SUPPLIES,positions,0.468671,117,7,0,review_small_crop
+2061828225,Page1_Block50_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0059_2061828225_Page1_Block50_l1.png,2039.05,2039.05,positions,0.42,41,7,0,review_small_crop
+2061828225,Page1_Block51_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0060_2061828225_Page1_Block51_l1.png,2039.05,2039.05,positions,0.5,40,7,0,review_small_crop
+2061828225,Page1_Block52_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0061_2061828225_Page1_Block52_l1.png,.00,.00,positions,0.463333,15,7,0,review_small_crop
+2061828225,Page1_Block53_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0062_2061828225_Page1_Block53_l1.png,.00,.00,positions,0.803333,15,7,0,review_small_crop
+2061828225,Page1_Block54_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0063_2061828225_Page1_Block54_l1.png,.00,.00,positions,0.55,15,7,0,review_small_crop
+2061828225,Page1_Block55_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0064_2061828225_Page1_Block55_l1.png,300 LABORATORY OR (LAB),300 LABORATORY OR (LAB),positions,0.370833,134,7,0,review_small_crop
+2061828225,Page1_Block56_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0065_2061828225_Page1_Block56_l1.png,45.00,45.00,positions,0.616,28,7,0,review_small_crop
+2061828225,Page1_Block57_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0066_2061828225_Page1_Block57_l1.png,45.00,45.00,positions,0.588,28,7,0,review_small_crop
+2061828225,Page1_Block58_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0067_2061828225_Page1_Block58_l1.png,.00,.00,positions,0.56,15,7,0,review_small_crop
+2061828225,Page1_Block59_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0068_2061828225_Page1_Block59_l1.png,.00,.00,positions,0.573333,15,7,0,review_small_crop
+2061828225,Page1_Block60_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0069_2061828225_Page1_Block60_l1.png,.CO,.CO,positions,0.653333,14,6,0,review_small_crop
+2061828225,Page1_Block61_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0070_2061828225_Page1_Block61_l1.png,301 LAB-CHEMISTRY,301 LAB-CHEMISTRY,positions,0.349487,99,7,0,review_small_crop
+2061828225,Page1_Block62_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0071_2061828225_Page1_Block62_l1.png,677.00,677.00,positions,0.33,34,7,0,review_small_crop
+2061828225,Page1_Block63_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0072_2061828225_Page1_Block63_l1.png,677.00,677.00,positions,0.568333,34,8,0,review_small_crop
+2061828225,Page1_Block64_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0073_2061828225_Page1_Block64_l1.png,.00,.00,positions,0.533333,15,7,0,review_small_crop
+2061828225,Page1_Block65_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0074_2061828225_Page1_Block65_l1.png,.00,.00,positions,0.61,15,7,0,review_small_crop
+2061828225,Page1_Block66_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0075_2061828225_Page1_Block66_l1.png,.00,.00,positions,0.363333,15,7,0,review_small_crop
+2061828225,Page1_Block67_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0076_2061828225_Page1_Block67_l1.png,302 LAB-IMMUNOLOGY,302 LAB-IMMUNOLOGY,positions,0.503095,105,7,0,review_small_crop
+2061828225,Page1_Block68_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0077_2061828225_Page1_Block68_l1.png,222.00,222.00,positions,0.74,35,8,0,review_small_crop
+2061828225,Page1_Block69_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0078_2061828225_Page1_Block69_l1.png,222.00,222.00,positions,0.681667,34,8,0,review_small_crop
+2061828225,Page1_Block71_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0079_2061828225_Page1_Block71_l1.png,.00,.00,positions,0.543333,15,7,0,review_small_crop
+2061828225,Page1_Block72_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0080_2061828225_Page1_Block72_l1.png,.00,.00,positions,0.51,15,7,0,review_small_crop
+2061828225,Page1_Block73_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0081_2061828225_Page1_Block73_l1.png,305 LAB-HEMATOLOGY,305 LAB-HEMATOLOGY,positions,0.462262,105,8,0,review_small_crop
+2061828225,Page1_Block74_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0082_2061828225_Page1_Block74_l1.png,318.00,318.00,positions,0.398333,34,7,0,review_small_crop
+2061828225,Page1_Block75_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0083_2061828225_Page1_Block75_l1.png,318.00,318.00,positions,0.456667,34,7,0,review_small_crop
+2061828225,Page1_Block76_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0084_2061828225_Page1_Block76_l1.png,.00,.CO,positions,0.513333,15,7,0,review_small_crop
+2061828225,Page1_Block77_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0085_2061828225_Page1_Block77_l1.png,.00,.00,positions,0.67,15,7,0,review_small_crop
+2061828225,Page1_Block78_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0086_2061828225_Page1_Block78_l1.png,.00,.00,positions,0.356667,15,7,0,review_small_crop
+2061828225,Page1_Block81_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0087_2061828225_Page1_Block81_l1.png,322.00,322.00,positions,0.705,34,7,0,review_small_crop
+2061828225,Page1_Block82_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0088_2061828225_Page1_Block82_l1.png,.00,.00,positions,0.896667,15,7,0,review_small_crop
+2061828225,Page1_Block83_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0089_2061828225_Page1_Block83_l1.png,.00,.00,positions,0.453333,15,7,0,review_small_crop
+2061828225,Page1_Block84_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0090_2061828225_Page1_Block84_l1.png,.00,.00,positions,1.0,15,7,0,review_small_crop
+2061828225,Page1_Block85_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0091_2061828225_Page1_Block85_l1.png,310 PATHOLOGY LAB,310 PATHOLOGY LAB,positions,0.505926,100,7,0,review_small_crop
+2061828225,Page1_Block86_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0092_2061828225_Page1_Block86_l1.png,354.00,354.00,positions,0.61,34,7,0,review_small_crop
+2061828225,Page1_Block87_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0093_2061828225_Page1_Block87_l1.png,354.00,354.00,positions,0.666667,34,8,0,review_small_crop
+2061828225,Page1_Block88_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0094_2061828225_Page1_Block88_l1.png,.00,.00,positions,0.49,15,7,0,review_small_crop
+2061828225,Page1_Block89_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0095_2061828225_Page1_Block89_l1.png,.00,.00,positions,0.546667,16,7,0,review_small_crop
+2061828225,Page1_Block90_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0096_2061828225_Page1_Block90_l1.png,.00,.00,positions,0.423333,15,7,0,review_small_crop
+2061828225,Page1_Block91_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0097_2061828225_Page1_Block91_l1.png,320 DX X-RAY,320 DX X-RAY,positions,0.490222,68,7,0,review_small_crop
+2061828225,Page1_Block92_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0098_2061828225_Page1_Block92_l1.png,316.50,316.50,positions,0.488333,34,8,0,review_small_crop
+2061828225,Page1_Block93_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0099_2061828225_Page1_Block93_l1.png,316.50,316.50,positions,0.516667,34,8,0,review_small_crop
+2061828225,Page1_Block94_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0100_2061828225_Page1_Block94_l1.png,.00,.00,positions,0.526667,15,7,0,review_small_crop
+2061828225,Page1_Block95_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0101_2061828225_Page1_Block95_l1.png,.00,.00,positions,0.436667,16,7,0,review_small_crop
+2061828225,Page1_Block96_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0102_2061828225_Page1_Block96_l1.png,.00,.00,positions,0.63,16,7,0,review_small_crop
+2061828225,Page1_Block97_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0103_2061828225_Page1_Block97_l1.png,324 DX X-RAY-CHEST,324 DX X-RAY-CHEST,positions,0.406616,105,7,0,review_small_crop
+2061828225,Page1_Block98_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0104_2061828225_Page1_Block98_l1.png,65.50,65.50,positions,0.5,29,7,0,review_small_crop
+2061828225,Page1_Block99_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0105_2061828225_Page1_Block99_l1.png,65.50,65.50,positions,0.51,28,7,0,review_small_crop
+2061828225,Page1_Block100_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0106_2061828225_Page1_Block100_l1.png,.00,.00,positions,0.486667,15,7,0,review_small_crop
+2061828225,Page1_Block101_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0107_2061828225_Page1_Block101_l1.png,.00,.00,positions,0.463333,15,7,0,review_small_crop
+2061828225,Page1_Block102_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0108_2061828225_Page1_Block102_l1.png,.00,.00,positions,0.523333,15,7,0,review_small_crop
+2061828225,Page1_Block103_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0109_2061828225_Page1_Block103_l1.png,360 OR SERVICES,360 OR SERVICES,positions,0.391528,87,7,0,review_small_crop
+2061828225,Page1_Block104_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0110_2061828225_Page1_Block104_l1.png,6187.50,6187.50,positions,0.402857,40,8,0,review_small_crop
+2061828225,Page1_Block105_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0111_2061828225_Page1_Block105_l1.png,6187.50,6187.50,positions,0.518571,41,7,0,review_small_crop
+2061828225,Page1_Block106_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0112_2061828225_Page1_Block106_l1.png,.00,.00,positions,0.526667,15,7,0,review_small_crop
+2061828225,Page1_Block107_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0113_2061828225_Page1_Block107_l1.png,.00,.00,positions,0.473333,15,7,0,review_small_crop
+2061828225,Page1_Block108_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0114_2061828225_Page1_Block108_l1.png,.00,.00,positions,0.75,15,6,0,review_small_crop
+2061828225,Page1_Block109_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0115_2061828225_Page1_Block109_l1.png,370 ANESTHESIA,370 ANESTHESIA,positions,0.5485,81,7,0,review_small_crop
+2061828225,Page1_Block110_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0116_2061828225_Page1_Block110_l1.png,756.00,756.00,positions,0.623333,35,8,0,review_small_crop
+2061828225,Page1_Block111_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0117_2061828225_Page1_Block111_l1.png,756.00,756.00,positions,0.618333,35,7,0,review_small_crop
+2061828225,Page1_Block112_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0118_2061828225_Page1_Block112_l1.png,.00,.00,positions,0.51,15,7,0,review_small_crop
+2061828225,Page1_Block113_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0119_2061828225_Page1_Block113_l1.png,.00,.00,positions,0.603333,15,7,0,review_small_crop
+2061828225,Page1_Block114_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0120_2061828225_Page1_Block114_l1.png,.00,.00,positions,0.406667,15,6,0,review_small_crop
+2061828225,Page1_Block115_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0121_2061828225_Page1_Block115_l1.png,410 RESPIRATORY SVC,410 RESPIRATORY SVC,positions,0.50101,112,7,0,review_small_crop
+2061828225,Page1_Block116_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0122_2061828225_Page1_Block116_l1.png,2200.00,2200.00,positions,0.621429,40,7,0,review_small_crop
+2061828225,Page1_Block117_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0123_2061828225_Page1_Block117_l1.png,2200.00,2200.00,positions,0.485714,41,7,0,review_small_crop
+2061828225,Page1_Block118_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0124_2061828225_Page1_Block118_l1.png,.00,.00,positions,0.65,15,6,0,review_small_crop
+2061828225,Page1_Block119_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0125_2061828225_Page1_Block119_l1.png,.00,.00,positions,0.743333,15,7,0,review_small_crop
+2061828225,Page1_Block121_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0126_2061828225_Page1_Block121_l1.png,440 SPEECH PATHOL,440 SPEECH PATHOL,positions,0.441111,100,7,0,review_small_crop
+2061828225,Page1_Block122_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0127_2061828225_Page1_Block122_l1.png,311.00,311.00,positions,0.763333,34,7,0,review_small_crop
+2061828225,Page1_Block123_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0128_2061828225_Page1_Block123_l1.png,311.00,311.00,positions,0.505,34,7,0,review_small_crop
+2061828225,Page1_Block124_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0129_2061828225_Page1_Block124_l1.png,.00,.00,positions,0.566667,15,6,0,review_small_crop
+2061828225,Page1_Block125_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0130_2061828225_Page1_Block125_l1.png,.00.,.00.,positions,0.705,18,7,0,review_small_crop
+2061828225,Page1_Block126_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0131_2061828225_Page1_Block126_l1.png,.00,.00,positions,0.466667,15,7,0,review_small_crop
+2061828225,Page1_Block127_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0132_2061828225_Page1_Block127_l1.png,444 SPEECH PATH-EVAL,444 SPEECH PATH-EVAL,positions,0.402963,117,7,0,review_small_crop
+2061828225,Page1_Block128_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0133_2061828225_Page1_Block128_l1.png,193.00,193.00,positions,0.601667,34,7,0,review_small_crop
+2061828225,Page1_Block129_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0134_2061828225_Page1_Block129_l1.png,193.00,193.00,positions,0.363333,34,7,0,review_small_crop
+2061828225,Page1_Block130_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0135_2061828225_Page1_Block130_l1.png,.00,.00,positions,0.753333,15,7,0,review_small_crop
+2061828225,Page1_Block131_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0136_2061828225_Page1_Block131_l1.png,.00,.00,positions,0.456667,16,7,0,review_small_crop
+2061828225,Page1_Block132_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0137_2061828225_Page1_Block132_l1.png,.00,.00,positions,0.553333,15,7,0,review_small_crop
+2061828225,Page1_Block133_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0138_2061828225_Page1_Block133_l1.png,480 CARDIOLOGY,480 CARDIOLOGY,positions,0.426167,81,7,0,review_small_crop
+2061828225,Page1_Block134_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0139_2061828225_Page1_Block134_l1.png,66.50,66.50,positions,0.584,29,7,0,review_small_crop
+2061828225,Page1_Block135_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0140_2061828225_Page1_Block135_l1.png,66.50,66.50,positions,0.476,29,8,0,review_small_crop
+2061828225,Page1_Block136_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0141_2061828225_Page1_Block136_l1.png,.00,.00,positions,0.53,15,7,0,review_small_crop
+2061828225,Page1_Block137_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0142_2061828225_Page1_Block137_l1.png,.00,.00,positions,0.543333,15,7,0,review_small_crop
+2061828225,Page1_Block138_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0143_2061828225_Page1_Block138_l1.png,.00,.00,positions,0.773333,15,7,0,review_small_crop
+2061828225,Page1_Block139_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0144_2061828225_Page1_Block139_l1.png,710 RECOVERY ROOM,710 RECOVERY ROOM,positions,0.442917,99,7,0,review_small_crop
+2061828225,Page1_Block140_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0145_2061828225_Page1_Block140_l1.png,382.00,382.00,positions,0.615,34,8,0,review_small_crop
+2061828225,Page1_Block141_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0146_2061828225_Page1_Block141_l1.png,382.00,382.00,positions,0.576667,34,7,0,review_small_crop
+2061828225,Page1_Block142_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0147_2061828225_Page1_Block142_l1.png,.00,.00,positions,0.366667,15,7,0,review_small_crop
+2061828225,Page1_Block143_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0148_2061828225_Page1_Block143_l1.png,.00,.00,positions,0.393333,15,7,0,review_small_crop
+2061828225,Page1_Block144_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0149_2061828225_Page1_Block144_l1.png,.00,.00,positions,0.353333,15,7,0,review_small_crop
+2061828225,Page1_Block145_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0150_2061828225_Page1_Block145_l1.png,920 OTHER DX SVS,920 OTHER DX SVS,positions,0.54925,94,7,0,review_small_crop
+2061828225,Page1_Block146_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0151_2061828225_Page1_Block146_l1.png,139.50,139.50,positions,0.513333,33,7,0,review_small_crop
+2061828225,Page1_Block147_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0152_2061828225_Page1_Block147_l1.png,139.50,139.50,positions,0.345,34,7,0,review_small_crop
+2061828225,Page1_Block148_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0153_2061828225_Page1_Block148_l1.png,.00,.00,positions,0.436667,14,6,0,review_small_crop
+2061828225,Page1_Block149_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0154_2061828225_Page1_Block149_l1.png,.00,.00,positions,0.8,15,6,0,review_small_crop
+2061828225,Page1_Block150_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0155_2061828225_Page1_Block150_l1.png,.00,.00,positions,0.513333,15,6,0,review_small_crop
+2061828225,Page1_Block154_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0156_2061828225_Page1_Block154_l1.png,BALANCE FORWARD,BALANCE FORWARD,positions,0.365714,88,7,0,review_small_crop
+2061828225,Page1_Block155_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0157_2061828225_Page1_Block155_l1.png,.00,.00,positions,0.446667,15,7,0,review_small_crop
+2061828225,Page1_Block156_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0158_2061828225_Page1_Block156_l1.png,.00,.00,positions,0.68,15,8,0,review_small_crop
+2061828225,Page1_Block157_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0159_2061828225_Page1_Block157_l1.png,.00,.00,positions,0.506667,15,7,0,review_small_crop
+2061828225,Page1_Block158_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0160_2061828225_Page1_Block158_l1.png,.00,.00,positions,0.503333,15,7,0,review_small_crop
+2061828225,Page1_Block159_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0161_2061828225_Page1_Block159_l1.png,.00,.00,positions,0.676667,16,7,0,review_small_crop
+2061828225,Page1_Block160_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0162_2061828225_Page1_Block160_l1.png,SUBTOTAL CHARGES,SUBTOTAL CHARGES,positions,0.576964,94,7,0,review_small_crop
+2061828225,Page1_Block161_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0163_2061828225_Page1_Block161_l1.png,22188.40,22188.40,positions,0.505,46,7,0,review_small_crop
+2061828225,Page1_Block162_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0164_2061828225_Page1_Block162_l1.png,22188.40,22188.40,positions,0.34375,46,8,0,review_small_crop
+2061828225,Page1_Block163_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0165_2061828225_Page1_Block163_l1.png,.00,.00,positions,0.536667,15,6,0,review_small_crop
+2061828225,Page1_Block164_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0166_2061828225_Page1_Block164_l1.png,.00,.00,positions,0.553333,15,7,0,review_small_crop
+2061828225,Page1_Block165_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0167_2061828225_Page1_Block165_l1.png,.00,.00,positions,0.68,15,7,0,review_small_crop
+2061828225,Page1_Block166_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0168_2061828225_Page1_Block166_l1.png,SUBTOTAL ADJUSTMENTS,SUBTOTAL ADJUSTMENTS,positions,0.471534,118,7,0,review_small_crop
+2061828225,Page1_Block167_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0169_2061828225_Page1_Block167_l1.png,.00,.00,positions,0.75,16,7,0,review_small_crop
+2061828225,Page1_Block168_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0170_2061828225_Page1_Block168_l1.png,.00,.00,positions,0.743333,15,7,0,review_small_crop
+2061828225,Page1_Block169_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0171_2061828225_Page1_Block169_l1.png,.00,.00,positions,0.626667,15,6,0,review_small_crop
+2061828225,Page1_Block170_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0172_2061828225_Page1_Block170_l1.png,.00,.00,positions,0.49,15,7,0,review_small_crop
+2061828225,Page1_Block172_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0173_2061828225_Page1_Block172_l1.png,SUBTOTAL PAYMENTS,SUBTOTAL PAYMENTS,positions,0.45,100,7,0,review_small_crop
+2061828225,Page1_Block173_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0174_2061828225_Page1_Block173_l1.png,.00,.00,positions,0.85,15,7,0,review_small_crop
+2061828225,Page1_Block174_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0175_2061828225_Page1_Block174_l1.png,.00,.00,positions,0.603333,15,7,0,review_small_crop
+2061828225,Page1_Block175_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0176_2061828225_Page1_Block175_l1.png,.00,.00,positions,0.616667,15,6,0,review_small_crop
+2061828225,Page1_Block178_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0177_2061828225_Page1_Block178_l1.png,LESS SUBTOTAL DEDUCTIBLES,LESS SUBTOTAL DEDUCTIBLES,positions,0.549924,147,7,0,review_small_crop
+2061828225,Page1_Block179_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0178_2061828225_Page1_Block179_l1.png,.00,.00,positions,0.7,15,7,0,review_small_crop
+2061828225,Page1_Block180_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0179_2061828225_Page1_Block180_l1.png,.00,.00,positions,0.69,15,6,0,review_small_crop
+2061828225,Page1_Block181_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0180_2061828225_Page1_Block181_l1.png,.00,.00,positions,0.846667,15,7,0,review_small_crop
+2061828225,Page1_Block182_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0181_2061828225_Page1_Block182_l1.png,.00,.00,positions,0.42,16,7,0,review_small_crop
+2061828225,Page1_Block183_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0182_2061828225_Page1_Block183_l1.png,.00,.00,positions,0.58,15,7,0,review_small_crop
+2061828225,Page1_Block184_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0183_2061828225_Page1_Block184_l1.png,SUBTOTAL P.P.D.,SUBTOTAL P.P.D.,positions,0.473333,87,7,0,review_small_crop
+2061828225,Page1_Block185_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0184_2061828225_Page1_Block185_l1.png,.00,.00,positions,0.446667,15,7,0,review_small_crop
+2061828225,Page1_Block186_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0185_2061828225_Page1_Block186_l1.png,.00,.00,positions,0.943333,16,6,0,review_small_crop
+2061828225,Page1_Block187_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0186_2061828225_Page1_Block187_l1.png,.00,.00,positions,0.566667,15,6,0,review_small_crop
+2061828225,Page1_Block188_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0187_2061828225_Page1_Block188_l1.png,.00,.00,positions,0.873333,16,7,0,review_small_crop
+2061828225,Page1_Block189_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0188_2061828225_Page1_Block189_l1.png,.00,.00,positions,0.55,15,7,0,review_small_crop
+2061828225,Page1_Block190_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0189_2061828225_Page1_Block190_l1.png,TOTAL DUE,TOTAL DUE,positions,0.334,53,6,0,review_small_crop
+2061828225,Page1_Block191_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0190_2061828225_Page1_Block191_l1.png,22188.40,22188.40,positions,0.47125,46,7,0,review_small_crop
+2061828225,Page1_Block192_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0191_2061828225_Page1_Block192_l1.png,22188.40,22188.40,positions,0.41,47,7,0,review_small_crop
+2061828225,Page1_Block193_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0192_2061828225_Page1_Block193_l1.png,.00,.00,positions,0.386667,15,6,0,review_small_crop
+2061828225,Page1_Block194_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0193_2061828225_Page1_Block194_l1.png,.00,.CO,positions,0.473333,15,6,0,review_small_crop
+2061828225,Page1_Block195_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0194_2061828225_Page1_Block195_l1.png,.00,.00,positions,0.35,15,7,0,review_small_crop
+2061828225,Page1_Block196_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0195_2061828225_Page1_Block196_l1.png,161.8 30.3,161.8 30.3,positions,0.43725,260,7,0,review_small_crop
+2061828225,Page1_Block196_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0196_2061828225_Page1_Block196_l2.png,998.1,998.1,positions,0.336,28,7,0,review_small_crop
+2061828225,Page1_Block196_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0197_2061828225_Page1_Block196_l3.png,401.9,401.9,positions,0.402,28,7,0,review_small_crop
+503116473+-6473,Page1_Block2_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0198_503116473_-6473_Page1_Block2_l1.png,LKP INTERNATIONAL LTD,LKP INTERNATIONAL LTD,supplier,0.442735,147,11,0,review_small_crop
+503116473+-6473,Page1_Block3_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0199_503116473_-6473_Page1_Block3_l1.png,PRODUCTION ESTIMATE,PRODUCTION ESTIMATE,supplier,0.56525,135,12,0,
+503116473+-6473,Page1_Block4_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0200_503116473_-6473_Page1_Block4_l1.png,CLIENT:,CLIENT:,receiver,0.647143,49,11,0,review_small_crop
+503116473+-6473,Page1_Block4_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0201_503116473_-6473_Page1_Block4_l2.png,MEDIA:,MEDIA:,receiver,0.663333,41,9,0,review_small_crop
+503116473+-6473,Page1_Block4_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0202_503116473_-6473_Page1_Block4_l3.png,EST #:,EST #:,receiver,0.558333,41,11,0,review_small_crop
+503116473+-6473,Page1_Block4_l4,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0203_503116473_-6473_Page1_Block4_l4.png,DESC:,DESC:,receiver,0.736,33,9,0,review_small_crop
+503116473+-6473,Page1_Block5_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0204_503116473_-6473_Page1_Block5_l1.png,RJR/More Family Black,RJR/More Family Black,receiver,0.571611,149,15,0,
+503116473+-6473,Page1_Block5_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0205_503116473_-6473_Page1_Block5_l2.png,Out-of-Home,Out-of-Hone,receiver,0.484545,74,11,0,review_small_crop
+503116473+-6473,Page1_Block5_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0206_503116473_-6473_Page1_Block5_l3.png,H4-ME-0044E-R1,H4-ME-0044E-R1,receiver,0.695,98,11,0,review_small_crop
+503116473+-6473,Page1_Block5_l4,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0207_503116473_-6473_Page1_Block5_l4.png,VOILE DRESS 100's,VOILE DRESS 100's,receiver,0.67,118,11,0,review_small_crop
+503116473+-6473,Page1_Block5_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0208_503116473_-6473_Page1_Block5_l5.png,14x48 Printed Bulletin,14x48 Printed Bulletin,receiver,0.477548,154,13,0,
+503116473+-6473,Page1_Block6_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0209_503116473_-6473_Page1_Block6_l1.png,DATE:,DATE:,invoice_info,0.8,35,9,0,review_small_crop
+503116473+-6473,Page1_Block6_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0210_503116473_-6473_Page1_Block6_l2.png,PACE 1 OF,PACE 1 OF,invoice_info,0.690833,65,12,0,
+503116473+-6473,Page1_Block6_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0211_503116473_-6473_Page1_Block6_l3.png,INTERNAL #:,INTERNAL #:,invoice_info,0.596875,77,11,0,review_small_crop
+503116473+-6473,Page1_Block7_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0212_503116473_-6473_Page1_Block7_l1.png,8/7/84,8/7/84,invoice_info,0.72,43,12,0,
+503116473+-6473,Page1_Block7_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0213_503116473_-6473_Page1_Block7_l2.png,1,1,invoice_info,0.69,6,10,0,review_small_crop
+503116473+-6473,Page1_Block7_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0214_503116473_-6473_Page1_Block7_l3.png,410105110,410105110,invoice_info,0.635556,63,10,0,review_small_crop
+503116473+-6473,Page1_Block10_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0215_503116473_-6473_Page1_Block10_l1.png,REVISED,REVISED,positions,0.447143,51,10,0,review_small_crop
+503116473+-6473,Page1_Block11_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0216_503116473_-6473_Page1_Block11_l1.png,ACTUAL,ACTUAL,positions,0.625,44,10,0,review_small_crop
+503116473+-6473,Page1_Block12_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0217_503116473_-6473_Page1_Block12_l1.png,PERCENT,PERCENT,positions,0.604286,51,9,0,review_small_crop
+503116473+-6473,Page1_Block13_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0218_503116473_-6473_Page1_Block13_l1.png,CODE,CODE,positions,0.5375,28,9,0,review_small_crop
+503116473+-6473,Page1_Block14_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0219_503116473_-6473_Page1_Block14_l1.png,EXPENSE CATEGORY,EXPENSE CATEGORY,positions,0.622679,112,11,0,review_small_crop
+503116473+-6473,Page1_Block15_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0220_503116473_-6473_Page1_Block15_l1.png,ESTIMATE,ESTIMATE,positions,0.64375,57,11,0,review_small_crop
+503116473+-6473,Page1_Block16_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0221_503116473_-6473_Page1_Block16_l1.png,ESTIMATE,ESTIMATE,positions,0.59,58,11,0,review_small_crop
+503116473+-6473,Page1_Block17_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0222_503116473_-6473_Page1_Block17_l1.png,COSTS DIFFERENCE,COSTS DIFFERENCE,positions,0.729,144,11,0,review_small_crop
+503116473+-6473,Page1_Block18_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0223_503116473_-6473_Page1_Block18_l1.png,DIFFERENCE,DIFFERENCE,positions,0.617,71,10,0,review_small_crop
+503116473+-6473,Page1_Block19_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0224_503116473_-6473_Page1_Block19_l1.png,ADT,ADT,positions,0.45,21,9,0,review_small_crop
+503116473+-6473,Page1_Block21_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0225_503116473_-6473_Page1_Block21_l1.png,"$1,150.00","$1,150.00",positions,0.631111,63,15,0,
+503116473+-6473,Page1_Block22_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0226_503116473_-6473_Page1_Block22_l1.png,"$1,600.00","$1,600.00",positions,0.756667,64,15,0,
+503116473+-6473,Page1_Block23_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0227_503116473_-6473_Page1_Block23_l1.png,450.00,450.00,positions,0.673333,43,12,0,
+503116473+-6473,Page1_Block25_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0228_503116473_-6473_Page1_Block25_l1.png,AOR,AOR,positions,0.593333,22,9,0,review_small_crop
+503116473+-6473,Page1_Block26_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0229_503116473_-6473_Page1_Block26_l1.png,Art - Other,Art - Other,positions,0.650222,76,10,0,review_small_crop
+503116473+-6473,Page1_Block27_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0230_503116473_-6473_Page1_Block27_l1.png,350.00,350.00,positions,0.655,42,12,0,
+503116473+-6473,Page1_Block28_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0231_503116473_-6473_Page1_Block28_l1.png,500.00,500.00,positions,0.635,42,12,0,
+503116473+-6473,Page1_Block29_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0232_503116473_-6473_Page1_Block29_l1.png,150.00,150.00,positions,0.641667,42,12,0,
+503116473+-6473,Page1_Block31_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0233_503116473_-6473_Page1_Block31_l1.png,ART,ART,positions,0.666667,22,9,0,review_small_crop
+503116473+-6473,Page1_Block32_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0234_503116473_-6473_Page1_Block32_l1.png,Retouching,Retouching,positions,0.419,69,13,0,
+503116473+-6473,Page1_Block33_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0235_503116473_-6473_Page1_Block33_l1.png,"6,000.00","6,000.00",positions,0.60375,58,14,0,
+503116473+-6473,Page1_Block34_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0236_503116473_-6473_Page1_Block34_l1.png,"10,000.00","10,000.00",positions,0.766667,65,13,0,
+503116473+-6473,Page1_Block35_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0237_503116473_-6473_Page1_Block35_l1.png,"4,000.00","4,000.00",positions,0.74625,58,14,0,
+503116473+-6473,Page1_Block37_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0238_503116473_-6473_Page1_Block37_l1.png,CMC,CMC,positions,0.413333,22,9,0,review_small_crop
+503116473+-6473,Page1_Block38_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0239_503116473_-6473_Page1_Block38_l1.png,Mechanical,Mechanical,positions,0.628,69,10,0,review_small_crop
+503116473+-6473,Page1_Block39_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0240_503116473_-6473_Page1_Block39_l1.png,400.00,400.00,positions,0.578333,42,12,0,
+503116473+-6473,Page1_Block40_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0241_503116473_-6473_Page1_Block40_l1.png,400.00,400.00,positions,0.546667,43,12,0,
+503116473+-6473,Page1_Block41_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0242_503116473_-6473_Page1_Block41_l1.png,0.00,0.00,positions,0.81,28,12,0,
+503116473+-6473,Page1_Block43_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0243_503116473_-6473_Page1_Block43_l1.png,PPT,PPT,positions,0.493333,21,9,0,review_small_crop
+503116473+-6473,Page1_Block44_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0244_503116473_-6473_Page1_Block44_l1.png,Printing,Printing,positions,0.60625,55,12,0,
+503116473+-6473,Page1_Block45_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0245_503116473_-6473_Page1_Block45_l1.png,"27,000.00","27,000.00",positions,0.881111,63,13,0,
+503116473+-6473,Page1_Block46_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0246_503116473_-6473_Page1_Block46_l1.png,"27,000.00","27,000.00",positions,0.662222,64,13,0,
+503116473+-6473,Page1_Block47_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0247_503116473_-6473_Page1_Block47_l1.png,0.00,0.00,positions,0.57,28,11,0,review_small_crop
+503116473+-6473,Page1_Block49_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0248_503116473_-6473_Page1_Block49_l1.png,PST,PST,positions,0.776667,21,9,0,review_small_crop
+503116473+-6473,Page1_Block50_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0249_503116473_-6473_Page1_Block50_l1.png,Photostat,Photostat,positions,0.76,61,10,0,review_small_crop
+503116473+-6473,Page1_Block51_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0250_503116473_-6473_Page1_Block51_l1.png,100.00,100.00,positions,0.545,41,12,0,
+503116473+-6473,Page1_Block52_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0251_503116473_-6473_Page1_Block52_l1.png,100.00,100.00,positions,0.516667,42,12,0,
+503116473+-6473,Page1_Block53_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0252_503116473_-6473_Page1_Block53_l1.png,0.00,0.00,positions,0.725,28,12,0,
+503116473+-6473,Page1_Block55_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0253_503116473_-6473_Page1_Block55_l1.png,AOT,AOT,positions,1.0,21,9,0,review_small_crop
+503116473+-6473,Page1_Block57_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0254_503116473_-6473_Page1_Block57_l1.png,"2,950.00","2,950.00",positions,0.58375,56,14,0,
+503116473+-6473,Page1_Block58_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0255_503116473_-6473_Page1_Block58_l1.png,"2,950.00","2,950.00",positions,0.7375,56,14,0,
+503116473+-6473,Page1_Block60_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0256_503116473_-6473_Page1_Block60_l1.png,0.00,0.00,positions,0.695,28,11,0,review_small_crop
+503116473+-6473,Page1_Block63_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0257_503116473_-6473_Page1_Block63_l1.png,0.00,0.00,positions,0.735,29,11,0,review_small_crop
+503116473+-6473,Page1_Block65_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0258_503116473_-6473_Page1_Block65_l1.png,0.00,0.00,positions,0.7875,28,12,0,
+503116473+-6473,Page1_Block67_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0259_503116473_-6473_Page1_Block67_l1.png,0.00,0.00,positions,0.7275,28,11,0,review_small_crop
+503116473+-6473,Page1_Block69_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0260_503116473_-6473_Page1_Block69_l1.png,0.00,0.00,positions,0.57,28,11,0,review_small_crop
+503116473+-6473,Page1_Block71_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0261_503116473_-6473_Page1_Block71_l1.png,0.00,0.00,positions,0.7625,28,11,0,review_small_crop
+503116473+-6473,Page1_Block72_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0262_503116473_-6473_Page1_Block72_l1.png,O.OO%,O.OOZ,positions,0.622,35,11,0,review_small_crop
+503116473+-6473,Page1_Block73_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0263_503116473_-6473_Page1_Block73_l1.png,0.00,0.00,positions,0.6375,28,11,0,review_small_crop
+503116473+-6473,Page1_Block74_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0264_503116473_-6473_Page1_Block74_l1.png,O.OO%,O.OOZ,positions,0.524,35,12,0,
+503116473+-6473,Page1_Block76_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0265_503116473_-6473_Page1_Block76_l1.png,0.00,0.00,positions,0.8325,29,12,0,
+503116473+-6473,Page1_Block80_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0266_503116473_-6473_Page1_Block80_l1.png,625.00,625.00,positions,0.715,42,12,0,
+503116473+-6473,Page1_Block81_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0267_503116473_-6473_Page1_Block81_l1.png,"1,250.00","1,250.00",positions,0.53125,55,13,0,
+503116473+-6473,Page1_Block82_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0268_503116473_-6473_Page1_Block82_l1.png,625.00,. 625.00,positions,0.824167,52,12,0,
+503116473+-6473,Page1_Block84_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0269_503116473_-6473_Page1_Block84_l1.png,TOTAL,TOTAL,total,0.5,35,9,0,review_small_crop
+503116473+-6473,Page1_Block86_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0270_503116473_-6473_Page1_Block86_l1.png,"$43,800.00","$43,800.00",total,0.653,71,16,0,
+503116473+-6473,Page1_Block89_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0271_503116473_-6473_Page1_Block89_l1.png,COMMENTS: For September/October posting.,COMMENTS: For September/October posting.,positions,0.561977,296,18,0,
+503116473+-6473,Page1_Block91_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0272_503116473_-6473_Page1_Block91_l1.png,EXPIANATION OF COSTS:,EXPIANATION OF COSTS:,positions,0.679141,146,12,0,
+503116473+-6473,Page1_Block93_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0273_503116473_-6473_Page1_Block93_l1.png,ADT:,ADT:,positions,0.7225,27,9,0,review_small_crop
+503116473+-6473,Page1_Block94_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0274_503116473_-6473_Page1_Block94_l1.png,1 dye of visual and 1 dye of pack.,1 dye of visual and 1 dye of pack.,positions,0.610037,238,17,0,
+503116473+-6473,Page1_Block96_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0275_503116473_-6473_Page1_Block96_l1.png,AOR:,AOR:,positions,0.875,27,9,0,review_small_crop
+503116473+-6473,Page1_Block97_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0276_503116473_-6473_Page1_Block97_l1.png,Overlay for pack art.,Overlay for pack art.,positions,0.67506,145,15,0,
+503116473+-6473,Page1_Block99_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0277_503116473_-6473_Page1_Block99_l1.png,ART:,ART:,positions,0.535,27,9,0,review_small_crop
+503116473+-6473,Page1_Block100_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0278_503116473_-6473_Page1_Block100_l1.png,Retouching of dyes.,Retouching of dyes.,positions,0.561,130,15,0,
+503116473+-6473,Page1_Block102_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0279_503116473_-6473_Page1_Block102_l1.png,CMC:,CMC:,positions,0.8525,28,9,0,review_small_crop
+503116473+-6473,Page1_Block105_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0280_503116473_-6473_Page1_Block105_l1.png,PPT:,PPT:,positions,0.335,26,9,0,review_small_crop
+503116473+-6473,Page1_Block106_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0281_503116473_-6473_Page1_Block106_l1.png,55 - 14x48 Printed Bulletin units.,55 - 14x48 Printed Bulletin units.,positions,0.548077,238,14,0,
+503116473+-6473,Page1_Block108_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0282_503116473_-6473_Page1_Block108_l1.png,PST:,PST:,positions,0.84,26,9,0,review_small_crop
+503116473+-6473,Page1_Block109_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0283_503116473_-6473_Page1_Block109_l1.png,6 for legal; 8 for mechanical.,6 for legal; 8 for mechanical.,positions,0.578687,209,16,0,
+503116473+-6473,Page1_Block111_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0284_503116473_-6473_Page1_Block111_l1.png,(Shipping costs on H4-MF-0071P),(Shipping costs on H4-MF-0071P),positions,0.522819,217,15,0,
+503116473+-6473,Page1_Block113_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0285_503116473_-6473_Page1_Block113_l1.png,REASON FOR REVISION:,REASON FOR REVISION:,positions,0.396667,139,12,0,
+503116473+-6473,Page1_Block115_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0286_503116473_-6473_Page1_Block115_l1.png,R1 :,R1 :,positions,0.82,26,10,0,review_small_crop
+503116473+-6473,Page1_Block116_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0287_503116473_-6473_Page1_Block116_l1.png,Additional dye and retouching required,Additional dye and retouching required,positions,0.46695,269,17,0,
+503116473+-6473,Page1_Block118_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0288_503116473_-6473_Page1_Block118_l1.png,ADT:,ADT:,positions,0.755,27,8,0,review_small_crop
+503116473+-6473,Page1_Block119_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0289_503116473_-6473_Page1_Block119_l1.png,1 new pack dye,1 new pack dye,positions,0.550417,96,15,0,
+503116473+-6473,Page1_Block121_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0290_503116473_-6473_Page1_Block121_l1.png,AOR:,AOR:,positions,0.685,26,8,0,review_small_crop
+503116473+-6473,Page1_Block122_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0291_503116473_-6473_Page1_Block122_l1.png,1 addional overlay for pack art,1 addional overlay for pack art,positions,0.572093,217,16,0,
+503116473+-6473,Page1_Block124_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0292_503116473_-6473_Page1_Block124_l1.png,ART:,ART:,positions,0.5425,26,10,0,review_small_crop
+503116473+-6473,Page1_Block125_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0293_503116473_-6473_Page1_Block125_l1.png,Additional retouching required,Additional retouching required,positions,0.48825,211,16,0,
+503116473+-6473,Page1_Block126_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0294_503116473_-6473_Page1_Block126_l1.png,on dyes,on dyes,positions,0.695,49,13,0,
+503116473+-6473,Page1_Block128_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0295_503116473_-6473_Page1_Block128_l1.png,AOT:,AOT:,positions,0.6725,26,9,0,review_small_crop
+507484246,Page1_Block1_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0296_507484246_Page1_Block1_l1.png,AFFIDAVIT OF SERVICE RENDERED,AFFIDAVIT OF SERVICE RENDERED,other,0.715283,229,11,0,review_small_crop
+507484246,Page1_Block4_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0297_507484246_Page1_Block4_l1.png,"P.O. DRAWER ""J""","P.O. DRAWER ""J""",supplier,0.826111,115,12,0,
+507484246,Page1_Block4_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0298_507484246_Page1_Block4_l2.png,"PLANT CITY, FL 34289-9005","PLANT CITY, FL 34289-9005",supplier,0.818,184,13,0,
+507484246,Page1_Block4_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0299_507484246_Page1_Block4_l3.png,813-754-9191,813-754-9191,supplier,0.7825,81,11,0,review_small_crop
+507484246,Page1_Block5_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0300_507484246_Page1_Block5_l1.png,State of FL,State of FL,other,0.468667,51,7,0,review_small_crop
+507484246,Page1_Block7_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0301_507484246_Page1_Block7_l1.png,WPLA9I0 AM,WPLA9I0 AM,supplier,0.798571,102,11,0,review_small_crop
+507484246,Page1_Block8_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0302_507484246_Page1_Block8_l1.png,INVOICE AND STATEMENT,INVOICE AND STATEMENT,other,0.85127,179,12,0,
+507484246,Page1_Block9_l5,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0303_507484246_Page1_Block9_l5.png,By.,By.,other,0.576667,14,7,0,review_small_crop
+507484246,Page1_Block13_l3,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0304_507484246_Page1_Block13_l3.png,"ST.PETERSBURG, FL 33705","ST.PETERSBURG, FL 33705",receiver,0.544429,218,11,0,review_small_crop
+507484246,Page1_Block14_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0305_507484246_Page1_Block14_l1.png,DORETHA Y. ADAMS,DORETHA Y. ADAMS,other,0.417857,145,10,0,review_small_crop
+507484246,Page1_Block15_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0306_507484246_Page1_Block15_l1.png,NOTARY PUBLIC,NOTARY PUBLIC,other,0.41,197,8,0,review_small_crop
+507484246,Page1_Block15_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0307_507484246_Page1_Block15_l2.png,SUSAN ANNE HARMON,SUSAN ANNE HARMON,other,0.327556,154,11,0,review_small_crop
+507484246,Page1_Block19_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0308_507484246_Page1_Block19_l1.png,3/31/89,3/31/89,invoice_info,0.415714,62,9,0,review_small_crop
+507484246,Page1_Block22_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0309_507484246_Page1_Block22_l1.png,. . ACCOUNT / RUN DETAIL,. . ACCOUNT / RUN DETAIL,positions,0.795238,184,11,0,review_small_crop
+507484246,Page1_Block23_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0310_507484246_Page1_Block23_l1.png,LENGTH,LENGTH,positions,0.541667,36,7,0,review_small_crop
+507484246,Page1_Block24_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0311_507484246_Page1_Block24_l1.png,NO RUN,NO RUN,positions,0.490833,38,7,0,review_small_crop
+507484246,Page1_Block25_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0312_507484246_Page1_Block25_l1.png,RATE,RATE,positions,0.775,34,10,0,review_small_crop
+507484246,Page1_Block26_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0313_507484246_Page1_Block26_l1.png,AMOUNT,AMOUNT,positions,0.805,58,10,0,review_small_crop
+507484246,Page1_Block27_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0314_507484246_Page1_Block27_l1.png,BALANCE FROM,BALANCE FROM,positions,0.394107,109,11,0,review_small_crop
+507484246,Page1_Block28_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0315_507484246_Page1_Block28_l1.png,LAST STATEMENT,LAST STATEMENT,positions,0.565694,124,10,0,review_small_crop
+507484246,Page1_Block30_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0316_507484246_Page1_Block30_l1.png,48.00,48.00,positions,0.21,43,10,0,review_small_crop
+507484246,Page1_Block32_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0317_507484246_Page1_Block32_l1.png,PROMOTIONS,PROMOTIONS,positions,0.396,90,10,0,review_small_crop
+507484246,Page1_Block33_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0318_507484246_Page1_Block33_l1.png,48.00,48.00,positions,0.274,45,10,0,review_small_crop
+507484246,Page1_Block35_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0319_507484246_Page1_Block35_l1.png,PROMOTIONS,PROMOTIONS,positions,0.441,91,10,0,review_small_crop
+507484246,Page1_Block45_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0320_507484246_Page1_Block45_l1.png,60,60,positions,0.245,17,10,0,review_small_crop
+507484246,Page1_Block46_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0321_507484246_Page1_Block46_l1.png,4,4,positions,0.0,7,9,0,review_small_crop
+507484246,Page1_Block47_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0322_507484246_Page1_Block47_l1.png,16.00,16.00,positions,0.326,43,9,0,review_small_crop
+507484246,Page1_Block48_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0323_507484246_Page1_Block48_l1.png,64.00,64.00,positions,0.234,45,9,0,review_small_crop
+507484246,Page1_Block50_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0324_507484246_Page1_Block50_l1.png,Spot,Spot,positions,0.255,35,10,0,review_small_crop
+507484246,Page1_Block51_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0325_507484246_Page1_Block51_l1.png,7:26a,7:26a,positions,0.216,44,10,0,review_small_crop
+507484246,Page1_Block52_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0326_507484246_Page1_Block52_l1.png,3: 11p,3: Up,positions,0.7275,44,13,0,
+507484246,Page1_Block53_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0327_507484246_Page1_Block53_l1.png,7:26p,'7:26p,positions,0.366667,44,12,0,
+507484246,Page1_Block54_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0328_507484246_Page1_Block54_l1.png,11:26p,11:26p,positions,0.363333,51,13,0,
+507484246,Page1_Block55_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0329_507484246_Page1_Block55_l1.png,60,60,positions,0.265,17,10,0,review_small_crop
+507484246,Page1_Block56_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0330_507484246_Page1_Block56_l1.png,4,4,positions,0.0,7,9,0,review_small_crop
+507484246,Page1_Block57_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0331_507484246_Page1_Block57_l1.png,16.00,16.00,positions,0.366,43,10,0,review_small_crop
+507484246,Page1_Block58_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0332_507484246_Page1_Block58_l1.png,64.00,64.00,positions,0.352,45,10,0,review_small_crop
+507484246,Page1_Block59_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0333_507484246_Page1_Block59_l1.png,3/ 3/89,3/ 3/89,positions,0.17875,57,11,0,review_small_crop
+507484246,Page1_Block60_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0334_507484246_Page1_Block60_l1.png,Spot,Spot,positions,0.36,35,12,0,
+507484246,Page1_Block61_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0335_507484246_Page1_Block61_l1.png,6:26a,6:26a,positions,0.126,44,11,0,review_small_crop
+507484246,Page1_Block62_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0336_507484246_Page1_Block62_l1.png,12:34p,12:34p,positions,0.525,52,13,0,
+507484246,Page1_Block63_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0337_507484246_Page1_Block63_l1.png,8:56p,8:56p,positions,0.338,44,13,0,
+507484246,Page1_Block64_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0338_507484246_Page1_Block64_l1.png,9:26p,9:26p,positions,0.352,44,13,0,
+507484246,Page1_Block65_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0339_507484246_Page1_Block65_l1.png,60,60,positions,0.125,17,10,0,review_small_crop
+507484246,Page1_Block66_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0340_507484246_Page1_Block66_l1.png,4,4,positions,0.0,8,10,0,review_small_crop
+507484246,Page1_Block67_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0341_507484246_Page1_Block67_l1.png,16.00,16.00,positions,0.478,43,10,0,review_small_crop
+507484246,Page1_Block68_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0342_507484246_Page1_Block68_l1.png,64.00,64.00,positions,0.22,44,10,0,review_small_crop
+507484246,Page1_Block70_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0343_507484246_Page1_Block70_l1.png,Spot,Spot,positions,0.2475,35,12,0,
+507484246,Page1_Block71_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0344_507484246_Page1_Block71_l1.png,6:32a,6:32a,positions,0.43,44,10,0,review_small_crop
+507484246,Page1_Block72_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0345_507484246_Page1_Block72_l1.png,9:02a,9:02a,positions,0.736,45,10,0,review_small_crop
+507484246,Page1_Block73_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0346_507484246_Page1_Block73_l1.png,10:02a,10:02a,positions,0.205,51,10,0,review_small_crop
+507484246,Page1_Block74_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0347_507484246_Page1_Block74_l1.png,10:26p,10:26p,positions,0.311667,51,12,0,
+507484246,Page1_Block75_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0348_507484246_Page1_Block75_l1.png,60,60,positions,0.0,17,9,0,review_small_crop
+507484246,Page1_Block76_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0349_507484246_Page1_Block76_l1.png,4,4,positions,0.0,8,9,0,review_small_crop
+507484246,Page1_Block77_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0350_507484246_Page1_Block77_l1.png,16.00,16.00,positions,0.39,43,10,0,review_small_crop
+507484246,Page1_Block78_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0351_507484246_Page1_Block78_l1.png,64.00,64.00,positions,0.362,45,10,0,review_small_crop
+507484246,Page1_Block80_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0352_507484246_Page1_Block80_l1.png,Spot,Spot,positions,0.2275,35,12,0,
+507484246,Page1_Block81_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0353_507484246_Page1_Block81_l1.png,1:02p,1:02p,positions,0.428,42,12,0,
+507484246,Page1_Block82_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0354_507484246_Page1_Block82_l1.png,9:26p,9:26p,positions,0.066,45,12,0,
+507484246,Page1_Block83_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0355_507484246_Page1_Block83_l1.png,11:26p,11:26p,positions,0.466667,50,11,0,review_small_crop
+507484246,Page1_Block84_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0356_507484246_Page1_Block84_l1.png,60,60,positions,0.64,16,9,0,review_small_crop
+507484246,Page1_Block85_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0357_507484246_Page1_Block85_l1.png,3,3,positions,0.27,8,9,0,review_small_crop
+507484246,Page1_Block86_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0358_507484246_Page1_Block86_l1.png,16.00,16.00,positions,0.292,43,9,0,review_small_crop
+507484246,Page1_Block87_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0359_507484246_Page1_Block87_l1.png,48.00,48.00,positions,0.328,44,10,0,review_small_crop
+507484246,Page1_Block88_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0360_507484246_Page1_Block88_l1.png,SUBTOTAL,SUBTOTAL,positions,0.3975,72,10,0,review_small_crop
+507484246,Page1_Block89_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0361_507484246_Page1_Block89_l1.png,304.,304.,positions,0.365,32,9,0,review_small_crop
+507484246,Page1_Block90_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0362_507484246_Page1_Block90_l1.png,00,00,positions,0.64,17,9,0,review_small_crop
+507484246,Page1_Block92_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0363_507484246_Page1_Block92_l1.png,3/13/89,3/13/89,positions,0.328571,57,9,0,review_small_crop
+507484246,Page1_Block93_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0364_507484246_Page1_Block93_l1.png,Spot,Spot,positions,0.29,35,11,0,review_small_crop
+507484246,Page1_Block94_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0365_507484246_Page1_Block94_l1.png,6: 18a,6: 18a,positions,0.406667,44,10,0,review_small_crop
+507484246,Page1_Block96_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0366_507484246_Page1_Block96_l1.png,12:39p,12:39p,positions,0.308333,51,12,0,
+507484246,Page1_Block97_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0367_507484246_Page1_Block97_l1.png,4:19p,4:19p,positions,0.272,43,12,0,
+507484246,Page1_Block98_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0368_507484246_Page1_Block98_l1.png,5:32p,5:32p,positions,0.296,44,13,0,
+507484246,Page1_Block99_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0369_507484246_Page1_Block99_l1.png,60,60,positions,0.28,17,10,0,review_small_crop
+507484246,Page1_Block100_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0370_507484246_Page1_Block100_l1.png,5,5,positions,0.28,8,10,0,review_small_crop
+507484246,Page1_Block101_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0371_507484246_Page1_Block101_l1.png,16.00,16.00,positions,0.346,43,10,0,review_small_crop
+507484246,Page1_Block102_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0372_507484246_Page1_Block102_l1.png,80.00,80.00,positions,0.342,45,11,0,review_small_crop
+507484246,Page1_Block103_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0373_507484246_Page1_Block103_l1.png,3/13/89,3/13/89,positions,0.46,58,9,0,review_small_crop
+507484246,Page1_Block104_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0374_507484246_Page1_Block104_l1.png,Spot,Spot,positions,0.3675,34,12,0,
+507484246,Page1_Block105_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0375_507484246_Page1_Block105_l1.png,8:56p,8:56p,positions,0.416,44,12,0,
+507484246,Page1_Block106_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0376_507484246_Page1_Block106_l1.png,60,60,positions,0.015,17,9,0,review_small_crop
+507484246,Page1_Block107_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0377_507484246_Page1_Block107_l1.png,1,1,positions,0.45,5,9,0,review_small_crop
+507484246,Page1_Block108_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0378_507484246_Page1_Block108_l1.png,16.00,16.00,positions,0.392,43,9,0,review_small_crop
+507484246,Page1_Block109_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0379_507484246_Page1_Block109_l1.png,16.00,16.00,positions,0.3,43,10,0,review_small_crop
+507484246,Page1_Block111_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0380_507484246_Page1_Block111_l1.png,Spot,Spot,positions,0.1775,35,12,0,
+507484246,Page1_Block112_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0381_507484246_Page1_Block112_l1.png,7:26a,7:26a,positions,0.386,45,10,0,review_small_crop
+507484246,Page1_Block113_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0382_507484246_Page1_Block113_l1.png,11:32a,11:32a,positions,0.313333,52,11,0,review_small_crop
+507484246,Page1_Block114_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0383_507484246_Page1_Block114_l1.png,1:32p,1:32p,positions,0.332,41,13,0,
+507484246,Page1_Block115_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0384_507484246_Page1_Block115_l1.png,2:32p,2:32p,positions,0.704,43,12,0,
+507484246,Page1_Block117_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0385_507484246_Page1_Block117_l1.png,60,60,positions,0.0,17,10,0,review_small_crop
+507484246,Page1_Block118_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0386_507484246_Page1_Block118_l1.png,5,5,positions,0.26,8,10,0,review_small_crop
+507484246,Page1_Block119_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0387_507484246_Page1_Block119_l1.png,16.00,16.00,positions,0.334,43,10,0,review_small_crop
+507484246,Page1_Block120_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0388_507484246_Page1_Block120_l1.png,80.00,80.00,positions,0.342,45,10,0,review_small_crop
+507484246,Page1_Block121_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0389_507484246_Page1_Block121_l1.png,3/14/89,3/14/8^,positions,0.45,57,10,0,review_small_crop
+507484246,Page1_Block122_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0390_507484246_Page1_Block122_l1.png,Spot,Spot,positions,0.1575,34,11,0,review_small_crop
+507484246,Page1_Block123_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0391_507484246_Page1_Block123_l1.png,9:26p,9:26p,positions,0.244,44,12,0,
+507484246,Page1_Block124_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0392_507484246_Page1_Block124_l1.png,11:26p,11:26p,positions,0.191667,51,12,0,
+507484246,Page1_Block125_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0393_507484246_Page1_Block125_l1.png,60,60,positions,0.15,17,9,0,review_small_crop
+507484246,Page1_Block126_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0394_507484246_Page1_Block126_l1.png,2,2,positions,0.24,8,10,0,review_small_crop
+507484246,Page1_Block127_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0395_507484246_Page1_Block127_l1.png,16.00,16.00,positions,0.25,42,10,0,review_small_crop
+507484246,Page1_Block128_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0396_507484246_Page1_Block128_l1.png,32.00,32.00,positions,0.338,45,10,0,review_small_crop
+507484246,Page1_Block129_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0397_507484246_Page1_Block129_l1.png,/15/89,/15/89,positions,0.203333,53,10,0,review_small_crop
+507484246,Page1_Block130_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0398_507484246_Page1_Block130_l1.png,Spot,Spot,positions,0.2625,34,12,0,
+507484246,Page1_Block133_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0399_507484246_Page1_Block133_l1.png,7:26p,7:26p,positions,0.254,43,12,0,
+507484246,Page1_Block134_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0400_507484246_Page1_Block134_l1.png,7:56p,7:56p,positions,0.25,43,12,0,
+507484246,Page1_Block136_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0401_507484246_Page1_Block136_l1.png,60,60,positions,0.135,17,9,0,review_small_crop
+507484246,Page1_Block137_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0402_507484246_Page1_Block137_l1.png,5,5,positions,0.36,8,10,0,review_small_crop
+507484246,Page1_Block138_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0403_507484246_Page1_Block138_l1.png,16.00,16.00,positions,0.304,42,10,0,review_small_crop
+507484246,Page1_Block139_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0404_507484246_Page1_Block139_l1.png,80.00,80.00,positions,0.604,45,9,0,review_small_crop
+507484246,Page1_Block141_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0405_507484246_Page1_Block141_l1.png,Spot,Spot,positions,0.27,34,11,0,review_small_crop
+507484246,Page1_Block142_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0406_507484246_Page1_Block142_l1.png,10:56p,10:56p,positions,0.403333,52,11,0,review_small_crop
+507484246,Page1_Block143_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0407_507484246_Page1_Block143_l1.png,60,60,positions,0.14,17,9,0,review_small_crop
+507484246,Page1_Block144_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0408_507484246_Page1_Block144_l1.png,1,1,positions,0.62,4,9,0,review_small_crop
+507484246,Page1_Block145_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0409_507484246_Page1_Block145_l1.png,16.00,16.00,positions,0.322,42,9,0,review_small_crop
+507484246,Page1_Block146_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0410_507484246_Page1_Block146_l1.png,16.00,16.00,positions,0.418,43,9,0,review_small_crop
+507484246,Page1_Block147_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0411_507484246_Page1_Block147_l1.png,1/16/85,1/16/85,positions,0.531429,56,11,0,review_small_crop
+507484246,Page1_Block148_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0412_507484246_Page1_Block148_l1.png,Spot,Spot,positions,0.29,35,11,0,review_small_crop
+507484246,Page1_Block149_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0413_507484246_Page1_Block149_l1.png,6:26a,6:26a,positions,0.328,43,10,0,review_small_crop
+507484246,Page1_Block150_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0414_507484246_Page1_Block150_l1.png,7:26a,7:26a,positions,0.284,44,10,0,review_small_crop
+507484246,Page1_Block151_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0415_507484246_Page1_Block151_l1.png,8:26a,8:26a,positions,0.386,44,10,0,review_small_crop
+507484246,Page1_Block152_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0416_507484246_Page1_Block152_l1.png,2:32p,2:32p,positions,0.41,43,13,0,
+507484246,Page1_Block153_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0417_507484246_Page1_Block153_l1.png,4:11 p,4:11 p,positions,0.2225,44,12,0,
+507484246,Page1_Block154_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0418_507484246_Page1_Block154_l1.png,60,60,positions,0.265,17,10,0,review_small_crop
+507484246,Page1_Block155_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0419_507484246_Page1_Block155_l1.png,5,5,positions,0.24,8,10,0,review_small_crop
+507484246,Page1_Block156_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0420_507484246_Page1_Block156_l1.png,16.00,16.00,positions,0.366,43,10,0,review_small_crop
+507484246,Page1_Block157_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0421_507484246_Page1_Block157_l1.png,80.00,80.00,positions,0.404,45,10,0,review_small_crop
+507484246,Page1_Block159_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0422_507484246_Page1_Block159_l1.png,Spot,Spot,positions,0.31,35,11,0,review_small_crop
+507484246,Page1_Block162_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0423_507484246_Page1_Block162_l1.png,60,60,positions,0.12,17,9,0,review_small_crop
+507484246,Page1_Block163_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0424_507484246_Page1_Block163_l1.png,2,2,positions,0.16,8,9,0,review_small_crop
+507484246,Page1_Block164_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0425_507484246_Page1_Block164_l1.png,. 16.00,. 16.00,positions,0.427,52,10,0,review_small_crop
+507484246,Page1_Block165_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0426_507484246_Page1_Block165_l1.png,32.00,32.00,positions,0.366,45,10,0,review_small_crop
+507484246,Page1_Block167_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0427_507484246_Page1_Block167_l1.png,Spot,Spot,positions,0.2325,35,12,0,
+507484246,Page1_Block168_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0428_507484246_Page1_Block168_l1.png,12:39p,12:39p,positions,0.371667,51,12,0,
+507484246,Page1_Block171_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0429_507484246_Page1_Block171_l1.png,5:50p,5:50p,positions,0.442,44,12,0,
+507484246,Page1_Block172_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0430_507484246_Page1_Block172_l1.png,8:26p,8:26p,positions,0.202,43,12,0,
+507484246,Page1_Block173_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0431_507484246_Page1_Block173_l1.png,60,60,positions,0.32,17,10,0,review_small_crop
+507484246,Page1_Block174_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0432_507484246_Page1_Block174_l1.png,5,5,positions,0.33,8,10,0,review_small_crop
+507484246,Page1_Block175_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0433_507484246_Page1_Block175_l1.png,16.00,16.00,positions,0.232,42,10,0,review_small_crop
+507484246,Page1_Block176_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0434_507484246_Page1_Block176_l1.png,80.00,80.00,positions,0.362,46,10,0,review_small_crop
+507484246,Page1_Block179_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0435_507484246_Page1_Block179_l1.png,11:26p,11:26p,positions,0.345,51,12,0,
+507484246,Page1_Block180_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0436_507484246_Page1_Block180_l1.png,60,60,positions,0.2,17,9,0,review_small_crop
+507484246,Page1_Block181_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0437_507484246_Page1_Block181_l1.png,1,1,positions,0.29,5,9,0,review_small_crop
+507484246,Page1_Block182_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0438_507484246_Page1_Block182_l1.png,16.00,16.00,positions,0.194,44,10,0,review_small_crop
+507484246,Page1_Block183_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0439_507484246_Page1_Block183_l1.png,16.00,16.00,positions,0.374,43,9,0,review_small_crop
+507484246,Page1_Block185_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0440_507484246_Page1_Block185_l1.png,Spot,Spot,positions,0.385,35,11,0,review_small_crop
+507484246,Page1_Block186_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0441_507484246_Page1_Block186_l1.png,8:02a,8:02a,positions,0.396,44,10,0,review_small_crop
+507484246,Page1_Block187_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0442_507484246_Page1_Block187_l1.png,9:02a,9:02a,positions,0.244,44,10,0,review_small_crop
+507484246,Page1_Block188_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0443_507484246_Page1_Block188_l1.png,10:02a,10:02a,positions,0.335,52,10,0,review_small_crop
+507484246,Page1_Block189_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0444_507484246_Page1_Block189_l1.png,12:32p,12:32p,positions,0.351667,52,13,0,
+507484246,Page1_Block190_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0445_507484246_Page1_Block190_l1.png,5:32p,5:3Sp,positions,0.408,45,12,0,
+507484246,Page1_Block191_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0446_507484246_Page1_Block191_l1.png,60,60,positions,0.27,17,9,0,review_small_crop
+507484246,Page1_Block192_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0447_507484246_Page1_Block192_l1.png,5,5,positions,0.26,8,9,0,review_small_crop
+507484246,Page1_Block193_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0448_507484246_Page1_Block193_l1.png,16.00,16.00,positions,0.324,43,10,0,review_small_crop
+507484246,Page1_Block196_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0449_507484246_Page1_Block196_l1.png,Spot,Spot,positions,0.28,35,11,0,review_small_crop
+507484246,Page1_Block197_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0450_507484246_Page1_Block197_l1.png,7:26p,7:26p,positions,0.36,44,12,0,
+507484246,Page1_Block198_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0451_507484246_Page1_Block198_l1.png,8:26p,8:26p,positions,0.25,44,11,0,review_small_crop
+507484246,Page1_Block199_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0452_507484246_Page1_Block199_l1.png,60,60,positions,0.13,17,9,0,review_small_crop
+507484246,Page1_Block200_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0453_507484246_Page1_Block200_l1.png,2,2,positions,0.15,8,9,0,review_small_crop
+507484246,Page1_Block201_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0454_507484246_Page1_Block201_l1.png,16.00,16.00,positions,0.334,43,9,0,review_small_crop
+507484246,Page1_Block202_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0455_507484246_Page1_Block202_l1.png,32.00,32.00,positions,0.5,44,10,0,review_small_crop
+507484246,Page1_Block204_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0456_507484246_Page1_Block204_l1.png,Spot,Spot,positions,0.195,35,12,0,
+507484246,Page1_Block205_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0457_507484246_Page1_Block205_l1.png,9:35a,9:35a,positions,0.194,45,10,0,review_small_crop
+507484246,Page1_Block206_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0458_507484246_Page1_Block206_l1.png,10:20a,10:20a,positions,0.406667,52,10,0,review_small_crop
+507484246,Page1_Block207_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0459_507484246_Page1_Block207_l1.png,4:32p,4:32p,positions,0.144,44,13,0,
+507484246,Page1_Block208_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0460_507484246_Page1_Block208_l1.png,9:26p,9:26p,positions,0.16,44,12,0,
+507484246,Page1_Block209_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0461_507484246_Page1_Block209_l1.png,10:26p,10:26p,positions,0.285,51,12,0,
+507484246,Page1_Block210_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0462_507484246_Page1_Block210_l1.png,60,60,positions,0.135,17,10,0,review_small_crop
+507484246,Page1_Block211_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0463_507484246_Page1_Block211_l1.png,5,5,positions,0.51,8,9,0,review_small_crop
+507484246,Page1_Block212_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0464_507484246_Page1_Block212_l1.png,16.00,16.00,positions,0.268,43,10,0,review_small_crop
+507484246,Page1_Block213_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0465_507484246_Page1_Block213_l1.png,80.00,80.00,positions,0.43,45,10,0,review_small_crop
+507484246,Page1_Block215_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0466_507484246_Page1_Block215_l1.png,Spot,Spot,positions,0.32,35,11,0,review_small_crop
+507484246,Page1_Block216_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0467_507484246_Page1_Block216_l1.png,11:26p,11:26p,positions,0.35,51,12,0,
+507484246,Page1_Block217_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0468_507484246_Page1_Block217_l1.png,60,60,positions,0.17,17,10,0,review_small_crop
+507484246,Page1_Block218_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0469_507484246_Page1_Block218_l1.png,1,1,positions,0.17,4,9,0,review_small_crop
+507484246,Page1_Block219_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0470_507484246_Page1_Block219_l1.png,16.00,16.00,positions,0.342,43,10,0,review_small_crop
+507484246,Page1_Block221_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0471_507484246_Page1_Block221_l1.png,SUBTOTAL,SUBTOTAL,total,0.645,72,10,0,review_small_crop
+507484246,Page1_Block222_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0472_507484246_Page1_Block222_l1.png,"720,",720.,total,0.895,32,10,0,review_small_crop
+507484246,Page1_Block223_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0473_507484246_Page1_Block223_l1.png,00,00,total,0.5,17,9,0,review_small_crop
+507484246,Page1_Block236_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0474_507484246_Page1_Block236_l2.png,PLAY 91 YOUR CLASSIC CONNECTION,PLAY 91 YOUR CLASSIC CONNECTION,other,0.479086,283,11,0,review_small_crop
+507484246,Page1_Block237_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0475_507484246_Page1_Block237_l1.png,Sales Rep: ALFRED E. BERRY,Sales Rep: ALFRED E. BERRY,other,0.388533,236,12,0,
+507484246,Page1_Block239_l2,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0476_507484246_Page1_Block239_l2.png,"F 18%, added to the unpaid balance at the end of the next month following date of purchase.","F 18%, added to the unpaid balance at the end of the next month following date of purchase.",other,0.654531,568,13,0,
+507484246,Page1_Block240_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0477_507484246_Page1_Block240_l1.png,90 AND OVER,90 AND OVER,other,0.678333,87,9,0,review_small_crop
+507484246,Page1_Block243_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0478_507484246_Page1_Block243_l1.png,CURRENT,CURRENT,other,0.887143,63,8,0,review_small_crop
+507484246,Page1_Block246_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0479_507484246_Page1_Block246_l1.png,0.00,0.00,other,0.5275,36,9,0,review_small_crop
+507484246,Page1_Block247_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0480_507484246_Page1_Block247_l1.png,0.00,0.00,other,0.3225,35,10,0,review_small_crop
+507484246,Page1_Block248_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0481_507484246_Page1_Block248_l1.png,0.00,0.00,other,0.3575,35,10,0,review_small_crop
+507484246,Page1_Block249_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0482_507484246_Page1_Block249_l1.png,0.00,0.00,other,0.35,35,9,0,review_small_crop
+507484246,Page1_Block250_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0483_507484246_Page1_Block250_l1.png,0. 00,o. 00,other,0.3975,35,10,0,review_small_crop
+507484246,Page1_Block252_l1,D:\OCR_Internship\ocr\data\processed\ocr_line_crops\final_v3\images\0484_507484246_Page1_Block252_l1.png,PLEASE PAY THIS AMOUNT-,PLEASE PAY THIS AMOUNT-,other,0.720923,183,11,0,review_small_crop

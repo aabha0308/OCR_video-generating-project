@@ -1,0 +1,28 @@
+CLEAN OCR TRAINING MANIFEST REPORT
+============================================================
+Correct annotations: 749
+Manifest rows created: 749
+Original TIFF directory: D:\OCR_Internship\ocr\data\raw\invoices\archive\ImageAndXML_Data
+
+DOCUMENT COUNTS
+------------------------------------------------------------
+2061828225: 197
+503116473+-6473: 98
+507484246: 189
+96052028: 114
+ti31149327_9330: 151
+
+VALIDATION
+------------------------------------------------------------
+Annotation-to-audit matching: PASS
+Original TIFF matching: PASS
+TIFF readability: PASS
+Bounding-box dimensions: PASS
+Bounding boxes inside image boundaries: PASS
+Ground-truth text present: PASS
+Saved manifest rows: 749
+
+NOTE
+------------------------------------------------------------
+This manifest does not prove that every crop is visually clean.
+Visual crop review is still required before model training.
